@@ -97,9 +97,19 @@ def group_consecutive_points(points):
     return grouped_points
 
 
-def R_intv(t, interval):
+def R_intv(x, interval):
     a, b = interval
-    return np.exp(-((t - a)/b)**2 )
+    return np.sin(np.pi * (x - a) / (b - a))
+    # if x < a:
+    #     return -1
+    # elif a <= x <= b:
+    #     return np.sin(np.pi * (x - a) / (b - a))
+    # else:
+        # return 0
+
+# def R_intv(t, interval):
+#     a, b = interval
+#     return np.exp(-((t - a)/b)**2 )
 
 # def R_intv(t, interval):
 #     a, b = interval

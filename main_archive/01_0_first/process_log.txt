@@ -1,0 +1,15 @@
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.23699808120728
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.24872088432312
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.88254499435425
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 189.07785558700562
+DP end with 291.8204333782196
+DP end with 160.34661269187927
+DP end with 96.58290028572083
+==== id C2XTUkcpgOs original time 803 total time: 60, min time: 4 start!!! ====
+==== id mSywWtS9YfQ original time 971 total time: 60, min time: 4 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 60, min time: 4 start!!! ====
+==== id UACD-uQ1PuM original time 593 total time: 60, min time: 4 start!!! ====

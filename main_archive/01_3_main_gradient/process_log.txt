@@ -1,0 +1,261 @@
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.23699808120728
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.24872088432312
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.88254499435425
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 189.07785558700562
+DP end with 291.8204333782196
+DP end with 160.34661269187927
+DP end with 96.58290028572083
+==== id C2XTUkcpgOs original time 803 total time: 60, min time: 4 start!!! ====
+==== id mSywWtS9YfQ original time 971 total time: 60, min time: 4 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 60, min time: 4 start!!! ====
+==== id UACD-uQ1PuM original time 593 total time: 60, min time: 4 start!!! ====
+DP end with 12.454402923583984
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.091840982437134
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.15178656578064
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 13.373898983001709
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.261740684509277
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.432567358016968
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.533616781234741
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.18995451927185
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.528059720993042
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 115.95272827148438
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 4 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 10 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+DP end with 3631.1173145771027
+==== id kpcryLm1WAk original time 3724 total time: 60, min time: 8 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+DP end with 16382.97538781166
+DP end with 21078.47066783905
+DP end with 72.55068850517273
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 70.4186441898346
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 73.66611862182617
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 72.18415570259094
+DP end with 284.88949394226074
+DP end with 543.7648422718048
+DP end with 107.83622646331787
+DP end with 442.92946195602417
+DP end with 901.3456599712372
+DP end with 17.254605293273926
+DP end with 53.318159341812134
+DP end with 76.38234448432922
+DP end with 723.7805871963501
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 180, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 180, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 180, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 120, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+DP end with 14.463980436325073
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+DP end with 15.157390832901001
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+DP end with 14.219663143157959
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+DP end with 13.9167320728302
+DP end with 37.80865263938904
+DP end with 72.40164518356323
+DP end with 164.27345943450928
+DP end with 282.59440302848816
+DP end with 20.674699068069458
+DP end with 56.31344819068909
+DP end with 107.23607277870178
+DP end with 249.26233839988708
+DP end with 432.7160716056824
+DP end with 3.5157201290130615
+DP end with 9.095506191253662
+DP end with 17.010510206222534
+DP end with 35.28025484085083
+DP end with 53.10062646865845
+DP end with 129.96059846878052
+DP end with 370.04577803611755
+DP end with 715.5752913951874
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 30, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 45, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 90, min time: 5 start!!! ====
+DP end with 13.923614978790283
+DP end with 38.178250312805176
+DP end with 74.86910915374756
+DP end with 166.38839554786682
+DP end with 280.6769599914551
+DP end with 20.792386054992676
+DP end with 54.839077949523926
+DP end with 104.94312238693237
+DP end with 245.31486582756042
+DP end with 426.71858382225037
+DP end with 3.732992649078369
+DP end with 9.112264394760132
+DP end with 17.41547727584839
+DP end with 36.12609910964966
+DP end with 53.95602107048035
+DP end with 129.2087118625641
+DP end with 376.4850478172302
+DP end with 727.6273095607758
+DP end with 1811.8691658973694
+DP end with 3385.59934425354
+DP end with 5.335237264633179
+DP end with 14.980597734451294
+DP end with 26.899120569229126
+DP end with 58.065114974975586
+DP end with 87.0716142654419
+DP end with 80.8881766796112
+DP end with 225.98641729354858
+DP end with 444.24650382995605
+DP end with 1154.1585853099823
+DP end with 2037.5574905872345
+DP end with 59.24990963935852
+DP end with 159.5288589000702
+DP end with 313.1737825870514
+DP end with 758.5035243034363
+DP end with 1372.5521705150604
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 30, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 45, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 90, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 120, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 30, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 45, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 60, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 90, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 120, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 30, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 45, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 60, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 90, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 120, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 30, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 45, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 60, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 90, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 120, min time: 5 start!!! ====
+DP end with 18.53110980987549
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+DP end with 17.55878973007202
+DP end with 47.98130750656128
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+DP end with 17.222172498703003
+DP end with 47.15475296974182
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 17.685943603515625
+DP end with 48.2513473033905
+DP end with 93.00177955627441
+DP end with 215.65247797966003
+DP end with 377.1722390651703
+DP end with 26.732295989990234
+DP end with 72.57940816879272
+DP end with 139.80092072486877
+DP end with 326.7086935043335
+DP end with 590.0721895694733
+DP end with 4.321591138839722
+DP end with 11.651849508285522
+DP end with 21.255072355270386
+DP end with 43.58700513839722
+DP end with 65.80645442008972
+DP end with 172.71869492530823
+DP end with 490.40838146209717
+DP end with 958.1717689037323
+DP end with 2486.6364953517914
+DP end with 4671.991419315338
+DP end with 7.097092628479004
+DP end with 19.345508813858032
+DP end with 35.14395880699158
+DP end with 72.3276014328003
+DP end with 110.78359603881836
+DP end with 119.1764931678772
+DP end with 320.22333669662476
+DP end with 664.0195105075836
+DP end with 1589.8628425598145
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 30, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 45, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 90, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 120, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 30, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 45, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 60, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 90, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 120, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 30, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 45, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 60, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 90, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 120, min time: 5 start!!! ====

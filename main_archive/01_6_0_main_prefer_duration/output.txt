@@ -1,0 +1,241 @@
+TOTAL: 20
+===1/20===
+==== id iYZMOa5WAds original time 899 total time: 30, min time: 2 start!!! ====
+start DP
+DP end with 39.89705300331116
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//iYZMOa5WAds_total_time_30/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//iYZMOa5WAds_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//iYZMOa5WAds_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+===2/20===
+==== id oYgGq1Y-kkQ original time 1030 total time: 30, min time: 2 start!!! ====
+start DP
+DP end with 51.797189235687256
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//oYgGq1Y-kkQ_total_time_30/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//oYgGq1Y-kkQ_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//oYgGq1Y-kkQ_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+===3/20===
+==== id BxgahWzTXGk original time 854 total time: 30, min time: 2 start!!! ====
+start DP
+DP end with 36.95120310783386
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//BxgahWzTXGk_total_time_30/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//BxgahWzTXGk_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//BxgahWzTXGk_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+===4/20===
+==== id rqDvpR1Wfq0 original time 1021 total time: 30, min time: 2 start!!! ====
+start DP
+DP end with 50.560551404953
+Video FPS: 25.0
+Moviepy - Building video ./output_1//rqDvpR1Wfq0_total_time_30/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//rqDvpR1Wfq0_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//rqDvpR1Wfq0_total_time_30/dp_min_2_dur_5_8_5_10.mp4
+===5/20===
+==== id VGyhYYzMKdw original time 881 total time: 45, min time: 2 start!!! ====
+start DP
+DP end with 62.150797605514526
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//VGyhYYzMKdw_total_time_45/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//VGyhYYzMKdw_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//VGyhYYzMKdw_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+===6/20===
+==== id EDQR3wEZbuo original time 735 total time: 45, min time: 2 start!!! ====
+start DP
+DP end with 43.300925493240356
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//EDQR3wEZbuo_total_time_45/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//EDQR3wEZbuo_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//EDQR3wEZbuo_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+===7/20===
+==== id Aw_OVfYOPMw original time 1167 total time: 45, min time: 2 start!!! ====
+start DP
+DP end with 107.98636841773987
+Video FPS: 30.0
+Moviepy - Building video ./output_1//Aw_OVfYOPMw_total_time_45/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//Aw_OVfYOPMw_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//Aw_OVfYOPMw_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+===8/20===
+==== id lNpN_FH8_Ac original time 742 total time: 45, min time: 2 start!!! ====
+start DP
+DP end with 44.3918936252594
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//lNpN_FH8_Ac_total_time_45/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//lNpN_FH8_Ac_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//lNpN_FH8_Ac_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+===9/20===
+==== id m8tMMaN6hGA original time 577 total time: 45, min time: 2 start!!! ====
+start DP
+DP end with 25.582396507263184
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//m8tMMaN6hGA_total_time_45/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//m8tMMaN6hGA_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//m8tMMaN6hGA_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+===10/20===
+==== id Ypu2JqiIidc original time 614 total time: 45, min time: 2 start!!! ====
+start DP
+DP end with 29.80072283744812
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//Ypu2JqiIidc_total_time_45/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//Ypu2JqiIidc_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//Ypu2JqiIidc_total_time_45/dp_min_2_dur_5_8_5_10.mp4
+===11/20===
+==== id PlrmvnPfOtA original time 870 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 81.07114386558533
+Video FPS: 25.0
+Moviepy - Building video ./output_1//PlrmvnPfOtA_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//PlrmvnPfOtA_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//PlrmvnPfOtA_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===12/20===
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 135.5248248577118
+Video FPS: 30.0
+Moviepy - Building video ./output_1//2FiouEjnspc_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//2FiouEjnspc_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//2FiouEjnspc_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===13/20===
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 138.14340090751648
+Video FPS: 30.0
+Moviepy - Building video ./output_1//2FiouEjnspc_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//2FiouEjnspc_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//2FiouEjnspc_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===14/20===
+==== id 15Xo6g3A7XQ original time 1189 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 159.03934240341187
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//15Xo6g3A7XQ_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//15Xo6g3A7XQ_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//15Xo6g3A7XQ_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===15/20===
+==== id GiHyN5uw4Ho original time 943 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 101.17967963218689
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//GiHyN5uw4Ho_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//GiHyN5uw4Ho_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//GiHyN5uw4Ho_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===16/20===
+==== id GVoOWJdr_qA original time 917 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 97.4034972190857
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//GVoOWJdr_qA_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//GVoOWJdr_qA_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//GVoOWJdr_qA_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===17/20===
+==== id PlrmvnPfOtA original time 870 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 81.83750176429749
+Video FPS: 25.0
+Moviepy - Building video ./output_1//PlrmvnPfOtA_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//PlrmvnPfOtA_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//PlrmvnPfOtA_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===18/20===
+==== id ImntsoxN9_4 original time 979 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 103.98526501655579
+Video FPS: 30.0
+Moviepy - Building video ./output_1//ImntsoxN9_4_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//ImntsoxN9_4_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//ImntsoxN9_4_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===19/20===
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 98.26872730255127
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output_1//ksOQZ0z_PSQ_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//ksOQZ0z_PSQ_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//ksOQZ0z_PSQ_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+===20/20===
+==== id qhvea43XPaI original time 932 total time: 60, min time: 2 start!!! ====
+start DP
+DP end with 96.19107818603516
+Video FPS: 25.0
+Moviepy - Building video ./output_1//qhvea43XPaI_total_time_60/dp_min_2_dur_5_8_5_10.mp4.
+MoviePy - Writing audio in dp_min_2_dur_5_8_5_10TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output_1//qhvea43XPaI_total_time_60/dp_min_2_dur_5_8_5_10.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output_1//qhvea43XPaI_total_time_60/dp_min_2_dur_5_8_5_10.mp4

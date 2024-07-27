@@ -1,0 +1,7 @@
+ ==================== id jQ1l5zenaKY ====================
+Total lengths:7497
+PASS jQ1l5zenaKY due to length 7497
+ ==================== id 5mLnuCORMrU ====================
+Total lengths:867
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+Start DP

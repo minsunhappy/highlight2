@@ -1,0 +1,2524 @@
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.23699808120728
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.24872088432312
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.88254499435425
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 189.07785558700562
+DP end with 291.8204333782196
+DP end with 160.34661269187927
+DP end with 96.58290028572083
+==== id C2XTUkcpgOs original time 803 total time: 60, min time: 4 start!!! ====
+==== id mSywWtS9YfQ original time 971 total time: 60, min time: 4 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 60, min time: 4 start!!! ====
+==== id UACD-uQ1PuM original time 593 total time: 60, min time: 4 start!!! ====
+DP end with 12.454402923583984
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.091840982437134
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.15178656578064
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 13.373898983001709
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.261740684509277
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.432567358016968
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.533616781234741
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.18995451927185
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.528059720993042
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 115.95272827148438
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 4 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 10 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+DP end with 3631.1173145771027
+==== id kpcryLm1WAk original time 3724 total time: 60, min time: 8 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+DP end with 16382.97538781166
+DP end with 21078.47066783905
+DP end with 72.55068850517273
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 70.4186441898346
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 73.66611862182617
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 72.18415570259094
+DP end with 284.88949394226074
+DP end with 543.7648422718048
+DP end with 107.83622646331787
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 4 start!!! ====
+DP end with 0.0006844997406005859
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 4 start!!! ====
+DP end with 0.0006773471832275391
+DP end with 0.0010666847229003906
+DP end with 0.0015168190002441406
+DP end with 0.0034220218658447266
+DP end with 0.006971597671508789
+DP end with 0.011228084564208984
+DP end with 0.05162334442138672
+DP end with 0.02027153968811035
+DP end with 0.025150060653686523
+DP end with 0.03167557716369629
+DP end with 0.04068899154663086
+DP end with 0.05154299736022949
+DP end with 0.06418609619140625
+DP end with 0.07932186126708984
+DP end with 0.1301894187927246
+DP end with 0.11577463150024414
+DP end with 0.13273978233337402
+DP end with 0.15665626525878906
+DP end with 0.1823272705078125
+DP end with 0.2014164924621582
+DP end with 0.26296496391296387
+DP end with 0.25454258918762207
+DP end with 0.27757954597473145
+DP end with 0.31213855743408203
+DP end with 0.3811221122741699
+DP end with 0.3626282215118408
+DP end with 0.3865189552307129
+DP end with 0.43188905715942383
+DP end with 0.507117509841919
+DP end with 0.513984203338623
+DP end with 0.5289950370788574
+DP end with 0.6147072315216064
+DP end with 0.5950584411621094
+DP end with 0.6424181461334229
+DP end with 0.728050947189331
+DP end with 0.7169175148010254
+DP end with 0.7558839321136475
+DP end with 0.8173248767852783
+DP end with 0.8135747909545898
+DP end with 0.8831677436828613
+DP end with 0.952808141708374
+DP end with 0.935589075088501
+DP end with 0.9857866764068604
+DP end with 1.0518674850463867
+DP end with 1.036895751953125
+DP end with 1.118992805480957
+DP end with 1.1487839221954346
+DP end with 1.1608905792236328
+DP end with 1.221867322921753
+DP end with 1.2342872619628906
+DP end with 1.2569854259490967
+DP end with 1.3043723106384277
+DP end with 1.3628346920013428
+DP end with 1.4127633571624756
+DP end with 1.4339783191680908
+DP end with 1.4404163360595703
+DP end with 1.5057153701782227
+DP end with 1.5209472179412842
+DP end with 1.5875904560089111
+DP end with 1.549126386642456
+DP end with 1.6141736507415771
+DP end with 1.5772428512573242
+DP end with 1.677461862564087
+DP end with 1.6611523628234863
+DP end with 1.764280080795288
+DP end with 1.7433788776397705
+DP end with 1.8087451457977295
+DP end with 1.8188409805297852
+DP end with 1.8351800441741943
+DP end with 2.03983998298645
+DP end with 2.0226805210113525
+DP end with 2.0576400756835938
+DP end with 2.096634864807129
+DP end with 2.007301092147827
+DP end with 2.0779504776000977
+DP end with 2.1086037158966064
+DP end with 2.0746476650238037
+DP end with 2.1748435497283936
+DP end with 2.1376419067382812
+DP end with 2.177381992340088
+DP end with 2.2595512866973877
+DP end with 2.1368913650512695
+DP end with 2.184507369995117
+DP end with 2.16499400138855
+DP end with 2.137530565261841
+DP end with 2.171948194503784
+DP end with 2.1947214603424072
+DP end with 2.218684673309326
+DP end with 2.270735025405884
+DP end with 2.265624523162842
+DP end with 2.1949403285980225
+DP end with 2.215254783630371
+DP end with 2.197449207305908
+DP end with 2.341445207595825
+DP end with 2.323026418685913
+DP end with 2.288778066635132
+DP end with 2.3428328037261963
+DP end with 2.311134099960327
+DP end with 2.295173168182373
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 60, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 61, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 62, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 63, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 64, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 65, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 66, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 67, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 68, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 69, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 70, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 71, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 72, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 73, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 74, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 75, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 76, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 77, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 78, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 79, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 80, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 81, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 82, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 83, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 84, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 85, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 86, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 87, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 88, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 89, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 90, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 91, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 92, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 93, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 94, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 95, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 96, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 97, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 98, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 99, min time: 4 start!!! ====
+DP end with 0.0006856918334960938
+DP end with 0.0010807514190673828
+DP end with 0.0015192031860351562
+DP end with 0.0036683082580566406
+DP end with 0.007043361663818359
+DP end with 0.011594295501708984
+DP end with 0.05433773994445801
+DP end with 0.020668745040893555
+DP end with 0.025115966796875
+DP end with 0.06731271743774414
+DP end with 0.04322338104248047
+DP end with 0.05380368232727051
+DP end with 0.06922197341918945
+DP end with 0.09600234031677246
+DP end with 0.13453245162963867
+DP end with 0.15820646286010742
+DP end with 0.13570523262023926
+DP end with 0.16083931922912598
+DP end with 0.17738127708435059
+DP end with 0.2332146167755127
+DP end with 0.2731459140777588
+DP end with 0.2969348430633545
+DP end with 0.29523277282714844
+DP end with 0.32713913917541504
+DP end with 0.46352362632751465
+DP end with 0.38179969787597656
+DP end with 0.4480433464050293
+DP end with 0.49046897888183594
+DP end with 0.6188538074493408
+DP end with 0.6155397891998291
+DP end with 0.6030001640319824
+DP end with 0.6756429672241211
+DP end with 0.6607604026794434
+DP end with 0.711162805557251
+DP end with 0.7569022178649902
+DP end with 0.8137180805206299
+DP end with 0.8530538082122803
+DP end with 1.1050143241882324
+DP end with 0.9167912006378174
+DP end with 0.9343721866607666
+DP end with 1.1065900325775146
+DP end with 1.02707839012146
+DP end with 1.0887174606323242
+DP end with 1.2474095821380615
+DP end with 1.1840403079986572
+DP end with 1.2217271327972412
+DP end with 1.2713000774383545
+DP end with 1.3038818836212158
+DP end with 1.3600988388061523
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 4 start!!! ====
+DP end with 0.0007588863372802734
+DP end with 0.0011355876922607422
+DP end with 0.0015995502471923828
+DP end with 0.0040283203125
+DP end with 0.0075571537017822266
+DP end with 0.012085676193237305
+DP end with 0.07192873954772949
+DP end with 0.023011445999145508
+DP end with 0.028346776962280273
+DP end with 0.03637814521789551
+DP end with 0.04517030715942383
+DP end with 0.060273170471191406
+DP end with 0.09970688819885254
+DP end with 0.09585118293762207
+DP end with 0.16690444946289062
+DP end with 0.13990139961242676
+DP end with 0.1659989356994629
+DP end with 0.1869058609008789
+DP end with 0.2205820083618164
+DP end with 0.2443239688873291
+DP end with 0.3074917793273926
+DP end with 0.2859649658203125
+DP end with 0.32458996772766113
+DP end with 0.34396862983703613
+DP end with 0.41848278045654297
+DP end with 0.44667482376098633
+DP end with 0.45192861557006836
+DP end with 0.4850172996520996
+DP end with 0.6000044345855713
+DP end with 0.552678108215332
+DP end with 0.6038908958435059
+DP end with 0.6879470348358154
+DP end with 0.6718223094940186
+DP end with 0.714500904083252
+DP end with 0.8136105537414551
+DP end with 0.794346809387207
+DP end with 0.8457925319671631
+DP end with 0.9472537040710449
+DP end with 0.9739987850189209
+DP end with 1.0268523693084717
+DP end with 1.0530831813812256
+DP end with 1.0521671772003174
+DP end with 1.0947091579437256
+DP end with 1.2317404747009277
+DP end with 1.1945123672485352
+DP end with 1.2124569416046143
+DP end with 1.324815034866333
+DP end with 1.297445297241211
+DP end with 1.425969123840332
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 4 start!!! ====
+DP end with 0.0007081031799316406
+DP end with 0.0011286735534667969
+DP end with 0.0015881061553955078
+DP end with 0.003789186477661133
+DP end with 0.007199525833129883
+DP end with 0.011759042739868164
+DP end with 0.05670523643493652
+DP end with 0.020636320114135742
+DP end with 0.02476811408996582
+DP end with 0.03215456008911133
+DP end with 0.04145240783691406
+DP end with 0.053475141525268555
+DP end with 0.06631779670715332
+DP end with 0.08236169815063477
+DP end with 0.14442849159240723
+DP end with 0.12011361122131348
+DP end with 0.1366267204284668
+DP end with 0.16051101684570312
+DP end with 0.18650150299072266
+DP end with 0.20687580108642578
+DP end with 0.2840726375579834
+DP end with 0.25954675674438477
+DP end with 0.3073301315307617
+DP end with 0.3305649757385254
+DP end with 0.41271066665649414
+DP end with 0.4429504871368408
+DP end with 0.41514062881469727
+DP end with 0.4452385902404785
+DP end with 0.5505192279815674
+DP end with 0.5214507579803467
+DP end with 0.5550346374511719
+DP end with 0.6373291015625
+DP end with 0.6571669578552246
+DP end with 0.6677718162536621
+DP end with 0.7319045066833496
+DP end with 0.7299168109893799
+DP end with 0.775299072265625
+DP end with 0.8903868198394775
+DP end with 0.853856086730957
+DP end with 0.9157407283782959
+DP end with 0.9775180816650391
+DP end with 1.005152940750122
+DP end with 1.0188522338867188
+DP end with 1.1258862018585205
+DP end with 1.1155927181243896
+DP end with 1.0974619388580322
+DP end with 1.1437363624572754
+DP end with 1.18597412109375
+DP end with 1.3199317455291748
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 4 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 4 start!!! ====
+DP end with 0.0007123947143554688
+DP end with 0.0010530948638916016
+DP end with 0.0015192031860351562
+DP end with 0.0026416778564453125
+DP end with 0.003442525863647461
+DP end with 0.00773930549621582
+DP end with 0.012100934982299805
+DP end with 0.06885170936584473
+DP end with 0.021439313888549805
+DP end with 0.025661468505859375
+DP end with 0.03077554702758789
+DP end with 0.03750276565551758
+DP end with 0.04659748077392578
+DP end with 0.05791664123535156
+DP end with 0.0711212158203125
+DP end with 0.13592910766601562
+DP end with 0.10294651985168457
+DP end with 0.1219034194946289
+DP end with 0.14618587493896484
+DP end with 0.16427898406982422
+DP end with 0.2555816173553467
+DP end with 0.21003246307373047
+DP end with 0.23766112327575684
+DP end with 0.27115726470947266
+DP end with 0.28497958183288574
+DP end with 0.3611259460449219
+DP end with 0.35303616523742676
+DP end with 0.3803291320800781
+DP end with 0.4213595390319824
+DP end with 0.4845089912414551
+DP end with 0.506824254989624
+DP end with 0.5144350528717041
+DP end with 0.5632047653198242
+DP end with 0.6283557415008545
+DP end with 0.6257064342498779
+DP end with 0.6631636619567871
+DP end with 0.8460443019866943
+DP end with 0.787952184677124
+DP end with 0.8274285793304443
+DP end with 0.7998762130737305
+DP end with 0.8567051887512207
+DP end with 0.9383101463317871
+DP end with 0.9239764213562012
+DP end with 0.9693982601165771
+DP end with 1.0401298999786377
+DP end with 1.0302729606628418
+DP end with 1.1439933776855469
+DP end with 1.1009337902069092
+DP end with 1.158371925354004
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 5 start!!! ====
+DP end with 0.0007479190826416016
+DP end with 0.0010502338409423828
+DP end with 0.0016410350799560547
+DP end with 0.002866506576538086
+DP end with 0.003724813461303711
+DP end with 0.00825643539428711
+DP end with 0.011902332305908203
+DP end with 0.06455540657043457
+DP end with 0.022710323333740234
+DP end with 0.0262148380279541
+DP end with 0.0316164493560791
+DP end with 0.04000544548034668
+DP end with 0.048249006271362305
+DP end with 0.09912109375
+DP end with 0.07315397262573242
+DP end with 0.13276410102844238
+DP end with 0.10600686073303223
+DP end with 0.12475466728210449
+DP end with 0.1958608627319336
+DP end with 0.18508005142211914
+DP end with 0.2525773048400879
+DP end with 0.26525235176086426
+DP end with 0.2642197608947754
+DP end with 0.2829906940460205
+DP end with 0.3043997287750244
+DP end with 0.4236416816711426
+DP end with 0.38269782066345215
+DP end with 0.4598095417022705
+DP end with 0.4436628818511963
+DP end with 0.517963171005249
+DP end with 0.5132331848144531
+DP end with 0.6085035800933838
+DP end with 0.6334404945373535
+DP end with 0.6806154251098633
+DP end with 0.6557433605194092
+DP end with 0.7571976184844971
+DP end with 0.793860673904419
+DP end with 0.8310494422912598
+DP end with 0.9249167442321777
+DP end with 0.9285726547241211
+DP end with 0.9856719970703125
+DP end with 0.996056079864502
+DP end with 1.0319504737854004
+DP end with 1.0881731510162354
+DP end with 1.1294591426849365
+DP end with 1.1585798263549805
+DP end with 1.2764379978179932
+DP end with 1.182523250579834
+DP end with 1.244584560394287
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 5 start!!! ====
+DP end with 0.0007007122039794922
+DP end with 0.0010597705841064453
+DP end with 0.0015609264373779297
+DP end with 0.0026810169219970703
+DP end with 0.003548145294189453
+DP end with 0.007837057113647461
+DP end with 0.012102365493774414
+DP end with 0.061136484146118164
+DP end with 0.021294116973876953
+DP end with 0.031472206115722656
+DP end with 0.03136181831359863
+DP end with 0.03834199905395508
+DP end with 0.04836249351501465
+DP end with 0.059561967849731445
+DP end with 0.07166743278503418
+DP end with 0.1278214454650879
+DP end with 0.10307455062866211
+DP end with 0.12983369827270508
+DP end with 0.15472936630249023
+DP end with 0.16290020942687988
+DP end with 0.2319018840789795
+DP end with 0.2175135612487793
+DP end with 0.2527811527252197
+DP end with 0.259920597076416
+DP end with 0.3079202175140381
+DP end with 0.36455583572387695
+DP end with 0.3710179328918457
+DP end with 0.39109253883361816
+DP end with 0.43338465690612793
+DP end with 0.5000941753387451
+DP end with 0.5085525512695312
+DP end with 0.52947998046875
+DP end with 0.5496461391448975
+DP end with 0.6423535346984863
+DP end with 0.6443138122558594
+DP end with 0.6986236572265625
+DP end with 0.7372558116912842
+DP end with 0.7515578269958496
+DP end with 0.818472146987915
+DP end with 0.8055765628814697
+DP end with 0.8554158210754395
+DP end with 0.9280552864074707
+DP end with 0.9307174682617188
+DP end with 0.9863166809082031
+DP end with 1.0358569622039795
+DP end with 1.0403616428375244
+DP end with 1.1333775520324707
+DP end with 1.1514995098114014
+DP end with 1.1911380290985107
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 5 start!!! ====
+DP end with 0.0007123947143554688
+DP end with 0.0011725425720214844
+DP end with 0.0015692710876464844
+DP end with 0.002958536148071289
+DP end with 0.003545999526977539
+DP end with 0.00799703598022461
+DP end with 0.011915445327758789
+DP end with 0.06288790702819824
+DP end with 0.021422386169433594
+DP end with 0.026868820190429688
+DP end with 0.032903432846069336
+DP end with 0.04182076454162598
+DP end with 0.04726433753967285
+DP end with 0.05856680870056152
+DP end with 0.07199954986572266
+DP end with 0.13281822204589844
+DP end with 0.10256052017211914
+DP end with 0.1216881275177002
+DP end with 0.14827299118041992
+DP end with 0.16609787940979004
+DP end with 0.254852294921875
+DP end with 0.20735716819763184
+DP end with 0.23812460899353027
+DP end with 0.26634979248046875
+DP end with 0.2902050018310547
+DP end with 0.36993408203125
+DP end with 0.34669017791748047
+DP end with 0.37663912773132324
+DP end with 0.40532898902893066
+DP end with 0.47947120666503906
+DP end with 0.483489990234375
+DP end with 0.5451645851135254
+DP end with 0.6337294578552246
+DP end with 0.6584982872009277
+DP end with 0.6719875335693359
+DP end with 0.6607043743133545
+DP end with 0.775456428527832
+DP end with 0.7247500419616699
+DP end with 0.8027477264404297
+DP end with 0.7985644340515137
+DP end with 0.8398737907409668
+DP end with 0.9432864189147949
+DP end with 0.9034430980682373
+DP end with 0.9445180892944336
+DP end with 1.047576904296875
+DP end with 1.0130889415740967
+DP end with 1.1276538372039795
+DP end with 1.0820538997650146
+DP end with 1.1200671195983887
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 5 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 5 start!!! ====
+DP end with 0.0006968975067138672
+DP end with 0.0010187625885009766
+DP end with 0.0030066967010498047
+DP end with 0.006425142288208008
+DP end with 0.010800838470458984
+DP end with 0.061475276947021484
+DP end with 0.01954817771911621
+DP end with 0.02739238739013672
+DP end with 0.03725790977478027
+DP end with 0.04808187484741211
+DP end with 0.0615692138671875
+DP end with 0.0853123664855957
+DP end with 0.09825778007507324
+DP end with 0.11629700660705566
+DP end with 0.18236422538757324
+DP end with 0.21321702003479004
+DP end with 0.2011432647705078
+DP end with 0.24377846717834473
+DP end with 0.27785420417785645
+DP end with 0.36559438705444336
+DP end with 0.3174264430999756
+DP end with 0.35256290435791016
+DP end with 0.3557567596435547
+DP end with 0.3901331424713135
+DP end with 0.4689805507659912
+DP end with 0.4565732479095459
+DP end with 0.4826831817626953
+DP end with 0.5116555690765381
+DP end with 0.5765237808227539
+DP end with 0.5764472484588623
+DP end with 0.6115875244140625
+DP end with 0.6911723613739014
+DP end with 0.6894652843475342
+DP end with 0.7464249134063721
+DP end with 0.8085036277770996
+DP end with 0.8115973472595215
+DP end with 0.855701208114624
+DP end with 0.9276199340820312
+DP end with 0.9283716678619385
+DP end with 0.9978303909301758
+DP end with 1.0304391384124756
+DP end with 1.0595293045043945
+DP end with 1.0953755378723145
+DP end with 1.181882619857788
+DP end with 1.1638834476470947
+DP end with 1.204193115234375
+DP end with 1.2923150062561035
+DP end with 1.3072657585144043
+DP end with 1.3653383255004883
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+DP end with 0.0008065700531005859
+DP end with 0.0010526180267333984
+DP end with 0.003285646438598633
+DP end with 0.006513118743896484
+DP end with 0.011306524276733398
+DP end with 0.062247276306152344
+DP end with 0.019678592681884766
+DP end with 0.02984929084777832
+DP end with 0.039632320404052734
+DP end with 0.050714731216430664
+DP end with 0.06362748146057129
+DP end with 0.08382678031921387
+DP end with 0.10037422180175781
+DP end with 0.12167692184448242
+DP end with 0.18988418579101562
+DP end with 0.17708921432495117
+DP end with 0.19725751876831055
+DP end with 0.21993303298950195
+DP end with 0.25017452239990234
+DP end with 0.32926154136657715
+DP end with 0.29120469093322754
+DP end with 0.31992053985595703
+DP end with 0.35577940940856934
+DP end with 0.3921341896057129
+DP end with 0.4596841335296631
+DP end with 0.4585552215576172
+DP end with 0.5610373020172119
+DP end with 0.5393931865692139
+DP end with 0.619511604309082
+DP end with 0.6044588088989258
+DP end with 0.6523623466491699
+DP end with 0.733720064163208
+DP end with 0.726940393447876
+DP end with 0.7901923656463623
+DP end with 0.862626314163208
+DP end with 0.8519129753112793
+DP end with 0.8880894184112549
+DP end with 0.9744772911071777
+DP end with 0.9743666648864746
+DP end with 1.0692458152770996
+DP end with 1.1506311893463135
+DP end with 1.2281205654144287
+DP end with 1.1966266632080078
+DP end with 1.289780616760254
+DP end with 1.2522919178009033
+DP end with 1.3245866298675537
+DP end with 1.3649418354034424
+DP end with 1.38484787940979
+DP end with 1.407412052154541
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+DP end with 0.0007681846618652344
+DP end with 0.002966642379760742
+DP end with 0.007111787796020508
+DP end with 0.01158595085144043
+DP end with 0.0587005615234375
+DP end with 0.022570133209228516
+DP end with 0.03293299674987793
+DP end with 0.04400300979614258
+DP end with 0.05731654167175293
+DP end with 0.07673978805541992
+DP end with 0.09717130661010742
+DP end with 0.11058592796325684
+DP end with 0.1315467357635498
+DP end with 0.19566011428833008
+DP end with 0.18591523170471191
+DP end with 0.21168136596679688
+DP end with 0.23357772827148438
+DP end with 0.26212048530578613
+DP end with 0.2968752384185791
+DP end with 0.37577247619628906
+DP end with 0.35869884490966797
+DP end with 0.4019889831542969
+DP end with 0.4418678283691406
+DP end with 0.47022008895874023
+DP end with 0.5463929176330566
+DP end with 0.5548720359802246
+DP end with 0.5915219783782959
+DP end with 0.6666271686553955
+DP end with 0.6593420505523682
+DP end with 0.7092626094818115
+DP end with 0.7525956630706787
+DP end with 0.8270542621612549
+DP end with 0.8609354496002197
+DP end with 0.8715236186981201
+DP end with 0.9651994705200195
+DP end with 0.9645349979400635
+DP end with 1.0050277709960938
+DP end with 1.113029956817627
+DP end with 1.0951924324035645
+DP end with 1.132920742034912
+DP end with 1.2446038722991943
+DP end with 1.2429730892181396
+DP end with 1.2701671123504639
+DP end with 1.3380892276763916
+DP end with 1.35798978805542
+DP end with 1.4755401611328125
+DP end with 1.4280049800872803
+DP end with 1.529956579208374
+DP end with 1.5275397300720215
+DP end with 1.5630168914794922
+DP end with 1.6241166591644287
+DP end with 1.6813206672668457
+DP end with 1.746734857559204
+DP end with 1.7063210010528564
+DP end with 1.7944667339324951
+DP end with 1.7659857273101807
+DP end with 1.8585221767425537
+DP end with 1.8608176708221436
+DP end with 1.912132978439331
+DP end with 1.9168014526367188
+DP end with 2.0150845050811768
+DP end with 1.9830975532531738
+DP end with 2.0761423110961914
+DP end with 2.078845262527466
+DP end with 2.067711591720581
+DP end with 2.144116163253784
+DP end with 2.115149736404419
+DP end with 2.2226240634918213
+DP end with 2.2189087867736816
+DP end with 2.196777820587158
+DP end with 2.242248296737671
+DP end with 2.3115570545196533
+DP end with 2.3142175674438477
+DP end with 2.2836906909942627
+DP end with 2.3244221210479736
+DP end with 2.3366498947143555
+DP end with 2.339583396911621
+DP end with 2.382455587387085
+DP end with 2.4080779552459717
+DP end with 2.4391274452209473
+DP end with 2.443002462387085
+DP end with 2.406869411468506
+DP end with 2.497976303100586
+DP end with 2.490208625793457
+DP end with 2.4860482215881348
+DP end with 2.496274471282959
+DP end with 2.5225839614868164
+DP end with 2.4628655910491943
+DP end with 2.5496342182159424
+DP end with 2.5684285163879395
+DP end with 2.569929838180542
+DP end with 2.535942316055298
+DP end with 2.603682279586792
+DP end with 2.6183199882507324
+DP end with 2.5812370777130127
+DP end with 2.5842485427856445
+DP end with 2.535209894180298
+DP end with 2.6239843368530273
+DP end with 2.6773924827575684
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 60, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 61, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 62, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 63, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 64, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 65, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 66, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 67, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 68, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 69, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 70, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 71, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 72, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 73, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 74, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 75, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 76, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 77, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 78, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 79, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 80, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 81, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 82, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 83, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 84, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 85, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 86, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 87, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 88, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 89, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 90, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 91, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 92, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 93, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 94, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 95, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 96, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 97, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 98, min time: 2 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 99, min time: 2 start!!! ====
+DP end with 0.0007941722869873047
+DP end with 0.001186370849609375
+DP end with 0.0033309459686279297
+DP end with 0.006912708282470703
+DP end with 0.011392593383789062
+DP end with 0.06030082702636719
+DP end with 0.021224021911621094
+DP end with 0.03575444221496582
+DP end with 0.0395665168762207
+DP end with 0.05336165428161621
+DP end with 0.06714177131652832
+DP end with 0.08296966552734375
+DP end with 0.0999000072479248
+DP end with 0.11873435974121094
+DP end with 0.18335199356079102
+DP end with 0.1635303497314453
+DP end with 0.18088626861572266
+DP end with 0.2083287239074707
+DP end with 0.24385714530944824
+DP end with 0.30815839767456055
+DP end with 0.2926795482635498
+DP end with 0.3419487476348877
+DP end with 0.3575453758239746
+DP end with 0.4058547019958496
+DP end with 0.46962618827819824
+DP end with 0.48152804374694824
+DP end with 0.5115890502929688
+DP end with 0.5913901329040527
+DP end with 0.6174745559692383
+DP end with 0.6162588596343994
+DP end with 0.6679275035858154
+DP end with 0.7464182376861572
+DP end with 0.7319416999816895
+DP end with 0.7735834121704102
+DP end with 0.8797807693481445
+DP end with 0.8470985889434814
+DP end with 0.8933258056640625
+DP end with 0.9399266242980957
+DP end with 0.9704725742340088
+DP end with 1.0182859897613525
+DP end with 1.083134412765503
+DP end with 1.048569917678833
+DP end with 1.134535312652588
+DP end with 1.1821520328521729
+DP end with 1.2340030670166016
+DP end with 1.2424559593200684
+DP end with 1.2980878353118896
+DP end with 1.3576464653015137
+DP end with 1.413029670715332
+DP end with 1.3941197395324707
+DP end with 1.5778272151947021
+DP end with 1.5191128253936768
+DP end with 1.5283565521240234
+DP end with 1.5593647956848145
+DP end with 1.6545360088348389
+DP end with 1.6318573951721191
+DP end with 1.7236347198486328
+DP end with 1.7101175785064697
+DP end with 1.7691195011138916
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 3 start!!! ====
+DP end with 0.0007045269012451172
+DP end with 0.0011150836944580078
+DP end with 0.0031447410583496094
+DP end with 0.006548404693603516
+DP end with 0.011095762252807617
+DP end with 0.05709981918334961
+DP end with 0.01959824562072754
+DP end with 0.026741743087768555
+DP end with 0.03606009483337402
+DP end with 0.047393798828125
+DP end with 0.06194114685058594
+DP end with 0.07744693756103516
+DP end with 0.09548783302307129
+DP end with 0.11798882484436035
+DP end with 0.17531585693359375
+DP end with 0.169236421585083
+DP end with 0.18636274337768555
+DP end with 0.20636653900146484
+DP end with 0.23742413520812988
+DP end with 0.31185030937194824
+DP end with 0.29820871353149414
+DP end with 0.325911283493042
+DP end with 0.35933423042297363
+DP end with 0.4254899024963379
+DP end with 0.4718444347381592
+DP end with 0.46292567253112793
+DP end with 0.5049073696136475
+DP end with 0.5340981483459473
+DP end with 0.615485429763794
+DP end with 0.6016347408294678
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+DP end with 0.0007810592651367188
+DP end with 0.0010619163513183594
+DP end with 0.0033159255981445312
+DP end with 0.006727933883666992
+DP end with 0.011098861694335938
+DP end with 0.057410478591918945
+DP end with 0.020051002502441406
+DP end with 0.026181697845458984
+DP end with 0.03581666946411133
+DP end with 0.04719734191894531
+DP end with 0.062447309494018555
+DP end with 0.07853031158447266
+DP end with 0.09420919418334961
+DP end with 0.11483907699584961
+DP end with 0.17422962188720703
+DP end with 0.1550900936126709
+DP end with 0.18021583557128906
+DP end with 0.20769572257995605
+DP end with 0.24086618423461914
+DP end with 0.30701613426208496
+DP end with 0.29306936264038086
+DP end with 0.3334808349609375
+DP end with 0.35782289505004883
+DP end with 0.40508008003234863
+DP end with 0.4590339660644531
+DP end with 0.45656633377075195
+DP end with 0.49169301986694336
+DP end with 0.5305659770965576
+DP end with 0.623666524887085
+DP end with 0.606276273727417
+DP end with 0.6514873504638672
+DP end with 0.7421884536743164
+DP end with 0.7418992519378662
+DP end with 0.7600796222686768
+DP end with 0.8630814552307129
+DP end with 0.8462827205657959
+DP end with 0.8996908664703369
+DP end with 0.9799039363861084
+DP end with 0.9841756820678711
+DP end with 1.014493703842163
+DP end with 1.1001918315887451
+DP end with 1.119628667831421
+DP end with 1.1553127765655518
+DP end with 1.2250914573669434
+DP end with 1.2700846195220947
+DP end with 1.2795121669769287
+DP end with 1.3622972965240479
+DP end with 1.3480725288391113
+DP end with 1.436251163482666
+DP end with 1.4165544509887695
+DP end with 1.5441842079162598
+DP end with 1.5009078979492188
+DP end with 1.5860862731933594
+DP end with 1.5935900211334229
+DP end with 1.6419506072998047
+DP end with 1.6358253955841064
+DP end with 1.7233567237854004
+DP end with 1.707122802734375
+DP end with 1.7714712619781494
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 3 start!!! ====
+DP end with 0.0007162094116210938
+DP end with 0.0011649131774902344
+DP end with 0.0033130645751953125
+DP end with 0.006694793701171875
+DP end with 0.01110696792602539
+DP end with 0.05791306495666504
+DP end with 0.019892215728759766
+DP end with 0.026903390884399414
+DP end with 0.03702235221862793
+DP end with 0.04843926429748535
+DP end with 0.062200069427490234
+DP end with 0.07887911796569824
+DP end with 0.09612655639648438
+DP end with 0.11967587471008301
+DP end with 0.1839590072631836
+DP end with 0.15986061096191406
+DP end with 0.1866137981414795
+DP end with 0.2162456512451172
+DP end with 0.24266290664672852
+DP end with 0.3173539638519287
+DP end with 0.29964447021484375
+DP end with 0.32976555824279785
+DP end with 0.3695399761199951
+DP end with 0.4037795066833496
+DP end with 0.4634559154510498
+DP end with 0.46129536628723145
+DP end with 0.4940669536590576
+DP end with 0.5509319305419922
+DP end with 0.6111202239990234
+DP end with 0.6494786739349365
+DP end with 0.6475124359130859
+DP end with 0.7459993362426758
+DP end with 0.7391417026519775
+DP end with 0.7810699939727783
+DP end with 0.8525900840759277
+DP end with 0.8550255298614502
+DP end with 0.8859312534332275
+DP end with 0.9685289859771729
+DP end with 0.9755830764770508
+DP end with 1.0185165405273438
+DP end with 1.0892109870910645
+DP end with 1.1545085906982422
+DP end with 1.2345070838928223
+DP end with 1.2967197895050049
+DP end with 1.26454496383667
+DP end with 1.2791807651519775
+DP end with 1.415508508682251
+DP end with 1.407999038696289
+DP end with 1.4245355129241943
+DP end with 1.441014051437378
+DP end with 1.50895357131958
+DP end with 1.5139920711517334
+DP end with 1.5857667922973633
+DP end with 1.5793650150299072
+DP end with 1.6467204093933105
+DP end with 1.6531414985656738
+DP end with 1.752018928527832
+DP end with 1.7336394786834717
+DP end with 1.805105447769165
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 3 start!!! ====
+DP end with 0.0007228851318359375
+DP end with 0.0012905597686767578
+DP end with 0.0033190250396728516
+DP end with 0.006703615188598633
+DP end with 0.010839223861694336
+DP end with 0.05797886848449707
+DP end with 0.01974773406982422
+DP end with 0.026453495025634766
+DP end with 0.036066532135009766
+DP end with 0.04769420623779297
+DP end with 0.06372976303100586
+DP end with 0.07819271087646484
+DP end with 0.09532022476196289
+DP end with 0.1160893440246582
+DP end with 0.1812748908996582
+DP end with 0.15949010848999023
+DP end with 0.18198204040527344
+DP end with 0.20788240432739258
+DP end with 0.23311734199523926
+DP end with 0.31381940841674805
+DP end with 0.29858922958374023
+DP end with 0.3426671028137207
+DP end with 0.41263580322265625
+DP end with 0.3849489688873291
+DP end with 0.4679148197174072
+DP end with 0.4590287208557129
+DP end with 0.4934427738189697
+DP end with 0.5346505641937256
+DP end with 0.6145663261413574
+DP end with 0.6015017032623291
+DP end with 0.649815559387207
+DP end with 0.7483718395233154
+DP end with 0.719325065612793
+DP end with 0.7581043243408203
+DP end with 0.842395544052124
+DP end with 0.854661226272583
+DP end with 0.8975667953491211
+DP end with 0.9821417331695557
+DP end with 0.9744844436645508
+DP end with 1.0146474838256836
+DP end with 1.1167571544647217
+DP end with 1.107344388961792
+DP end with 1.1422812938690186
+DP end with 1.209038496017456
+DP end with 1.223616361618042
+DP end with 1.370558738708496
+DP end with 1.4430973529815674
+DP end with 1.4350848197937012
+DP end with 1.4657001495361328
+DP end with 1.4310598373413086
+DP end with 1.4703381061553955
+DP end with 1.480830192565918
+DP end with 1.567112684249878
+DP end with 1.5544111728668213
+DP end with 1.6483962535858154
+DP end with 1.6363370418548584
+DP end with 1.689467191696167
+DP end with 1.692821979522705
+DP end with 1.7660577297210693
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 3 start!!! ====
+DP end with 0.0007050037384033203
+DP end with 0.001047372817993164
+DP end with 0.0029287338256835938
+DP end with 0.00635981559753418
+DP end with 0.011097192764282227
+DP end with 0.057374000549316406
+DP end with 0.019421100616455078
+DP end with 0.026634931564331055
+DP end with 0.03568863868713379
+DP end with 0.04849839210510254
+DP end with 0.062482595443725586
+DP end with 0.08338475227355957
+DP end with 0.1642458438873291
+DP end with 0.12180089950561523
+DP end with 0.18580889701843262
+DP end with 0.1666414737701416
+DP end with 0.21188092231750488
+DP end with 0.2525913715362549
+DP end with 0.2583320140838623
+DP end with 0.3428983688354492
+DP end with 0.347301721572876
+DP end with 0.37364768981933594
+DP end with 0.37189197540283203
+DP end with 0.3930227756500244
+DP end with 0.5082778930664062
+DP end with 0.4858212471008301
+DP end with 0.4996821880340576
+DP end with 0.5309369564056396
+DP end with 0.6142683029174805
+DP end with 0.6216447353363037
+DP end with 0.6420869827270508
+DP end with 0.7354621887207031
+DP end with 0.734464168548584
+DP end with 0.8030104637145996
+DP end with 0.8624801635742188
+DP end with 0.8510830402374268
+DP end with 0.9030900001525879
+DP end with 0.9934980869293213
+DP end with 0.9940185546875
+DP end with 1.0275423526763916
+DP end with 1.1063404083251953
+DP end with 1.1033189296722412
+DP end with 1.1610369682312012
+DP end with 1.2471632957458496
+DP end with 1.2401721477508545
+DP end with 1.2856419086456299
+DP end with 1.3502309322357178
+DP end with 1.3819751739501953
+DP end with 1.4401419162750244
+DP end with 1.427365779876709
+DP end with 1.5139379501342773
+DP end with 1.5030391216278076
+DP end with 1.6045634746551514
+DP end with 1.5998244285583496
+DP end with 1.6362237930297852
+DP end with 1.6713321208953857
+DP end with 1.739534616470337
+DP end with 1.7048892974853516
+DP end with 1.8035595417022705
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 40, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 41, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 42, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 43, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 44, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 45, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 46, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 47, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 48, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 49, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 50, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 51, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 52, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 53, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 54, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 55, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 56, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 57, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 58, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 59, min time: 3 start!!! ====
+DP end with 0.0006847381591796875
+DP end with 0.0010225772857666016
+DP end with 0.002794027328491211
+DP end with 0.006332874298095703
+DP end with 0.010758399963378906
+DP end with 0.04981851577758789
+DP end with 0.018668651580810547
+DP end with 0.025551319122314453
+DP end with 0.034399986267089844
+DP end with 0.04366016387939453
+DP end with 0.057320356369018555
+DP end with 0.07165074348449707
+DP end with 0.0907127857208252
+DP end with 0.11103653907775879
+DP end with 0.16286873817443848
+DP end with 0.1466360092163086
+DP end with 0.1681828498840332
+DP end with 0.19536900520324707
+DP end with 0.22618627548217773
+DP end with 0.2968270778656006
+DP end with 0.2748603820800781
+DP end with 0.297196626663208
+DP end with 0.34096264839172363
+DP end with 0.35952091217041016
+DP end with 0.46004366874694824
+DP end with 0.4239082336425781
+DP end with 0.4559977054595947
+DP end with 0.49637913703918457
+DP end with 0.5685794353485107
+DP end with 0.5805597305297852
+DP end with 0.6108121871948242
+DP end with 0.6853659152984619
+DP end with 0.696556568145752
+DP end with 0.735551118850708
+DP end with 0.7899577617645264
+DP end with 0.7958438396453857
+DP end with 0.8322420120239258
+DP end with 0.9125397205352783
+DP end with 0.9130558967590332
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 0, min time: 3 start!!! ====
+DP end with 0.0007774829864501953
+DP end with 0.0012617111206054688
+DP end with 0.003470182418823242
+DP end with 0.006871461868286133
+DP end with 0.011485099792480469
+DP end with 0.06201481819152832
+DP end with 0.03134441375732422
+DP end with 0.027943849563598633
+DP end with 0.042627811431884766
+DP end with 0.05789065361022949
+DP end with 0.07679104804992676
+DP end with 0.0805959701538086
+DP end with 0.11733794212341309
+DP end with 0.12082862854003906
+DP end with 0.22286629676818848
+DP end with 0.16989731788635254
+DP end with 0.19603919982910156
+DP end with 0.22427701950073242
+DP end with 0.24858689308166504
+DP end with 0.3863828182220459
+DP end with 0.3111457824707031
+DP end with 0.34265971183776855
+DP end with 0.37381887435913086
+DP end with 0.41179656982421875
+DP end with 0.5031371116638184
+DP end with 0.5068588256835938
+DP end with 0.5251121520996094
+DP end with 0.564669132232666
+DP end with 0.6299405097961426
+DP end with 0.6803977489471436
+DP end with 0.7413620948791504
+DP end with 0.7958023548126221
+DP end with 0.7741556167602539
+DP end with 0.8087253570556641
+DP end with 0.901775598526001
+DP end with 0.9248917102813721
+DP end with 0.9427902698516846
+DP end with 1.0467274188995361
+DP end with 1.113276481628418
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+DP end with 0.0007963180541992188
+DP end with 0.0011632442474365234
+DP end with 0.003396272659301758
+DP end with 0.006978034973144531
+DP end with 0.011538028717041016
+DP end with 0.06496191024780273
+DP end with 0.020931482315063477
+DP end with 0.02857804298400879
+DP end with 0.03856039047241211
+DP end with 0.05127406120300293
+DP end with 0.06604814529418945
+DP end with 0.08151483535766602
+DP end with 0.10188579559326172
+DP end with 0.12253856658935547
+DP end with 0.19408082962036133
+DP end with 0.20146727561950684
+DP end with 0.1948091983795166
+DP end with 0.21944308280944824
+DP end with 0.2480485439300537
+DP end with 0.3428304195404053
+DP end with 0.3195514678955078
+DP end with 0.3518679141998291
+DP end with 0.41176891326904297
+DP end with 0.4189605712890625
+DP end with 0.510634183883667
+DP end with 0.4887251853942871
+DP end with 0.5413603782653809
+DP end with 0.6350855827331543
+DP end with 0.7630016803741455
+DP end with 0.6641652584075928
+DP end with 0.6854541301727295
+DP end with 0.8040797710418701
+DP end with 0.7526679039001465
+DP end with 0.8045210838317871
+DP end with 0.8984222412109375
+DP end with 0.897083044052124
+DP end with 0.9064223766326904
+DP end with 1.0487148761749268
+DP end with 1.000753402709961
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+DP end with 0.0008120536804199219
+DP end with 0.001146554946899414
+DP end with 0.0034530162811279297
+DP end with 0.0069959163665771484
+DP end with 0.011580228805541992
+DP end with 0.06714248657226562
+DP end with 0.02139735221862793
+DP end with 0.028801679611206055
+DP end with 0.03874516487121582
+DP end with 0.052548885345458984
+DP end with 0.06597375869750977
+DP end with 0.08393192291259766
+DP end with 0.1022188663482666
+DP end with 0.13958024978637695
+DP end with 0.23002338409423828
+DP end with 0.17065215110778809
+DP end with 0.20561885833740234
+DP end with 0.22873663902282715
+DP end with 0.2615194320678711
+DP end with 0.3369462490081787
+DP end with 0.31883716583251953
+DP end with 0.3519151210784912
+DP end with 0.388228178024292
+DP end with 0.4228782653808594
+DP end with 0.5068411827087402
+DP end with 0.520378589630127
+DP end with 0.5362117290496826
+DP end with 0.5702767372131348
+DP end with 0.7124006748199463
+DP end with 0.6632349491119385
+DP end with 0.6816935539245605
+DP end with 0.8772749900817871
+DP end with 0.8335227966308594
+DP end with 0.914696455001831
+DP end with 1.0504722595214844
+DP end with 0.9086239337921143
+DP end with 0.9640352725982666
+DP end with 1.0419533252716064
+DP end with 1.0884315967559814
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+DP end with 0.0008108615875244141
+DP end with 0.0012459754943847656
+DP end with 0.003504037857055664
+DP end with 0.006962776184082031
+DP end with 0.011718273162841797
+DP end with 0.06868863105773926
+DP end with 0.021320819854736328
+DP end with 0.028871536254882812
+DP end with 0.039237260818481445
+DP end with 0.05129718780517578
+DP end with 0.0666358470916748
+DP end with 0.08217644691467285
+DP end with 0.10015726089477539
+DP end with 0.12191128730773926
+DP end with 0.19845342636108398
+DP end with 0.16813015937805176
+DP end with 0.19557833671569824
+DP end with 0.26415419578552246
+DP end with 0.3664367198944092
+DP end with 0.3924534320831299
+DP end with 0.31737661361694336
+DP end with 0.35309553146362305
+DP end with 0.3872690200805664
+DP end with 0.4113888740539551
+DP end with 0.5463719367980957
+DP end with 0.49686408042907715
+DP end with 0.5202450752258301
+DP end with 0.617645263671875
+DP end with 0.7555022239685059
+DP end with 0.6646614074707031
+DP end with 0.7034256458282471
+DP end with 0.7848842144012451
+DP end with 0.7815372943878174
+DP end with 0.8776090145111084
+DP end with 0.9190754890441895
+DP end with 0.8994948863983154
+DP end with 0.9735805988311768
+DP end with 1.1320478916168213
+DP end with 1.0467689037322998
+==== id Cbij3MKhdOY original time 101 total time: 1, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 2, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+DP end with 0.003492116928100586
+DP end with 0.006997346878051758
+DP end with 0.011501789093017578
+DP end with 0.05926823616027832
+DP end with 0.021123170852661133
+DP end with 0.0288546085357666
+DP end with 0.03866314888000488
+DP end with 0.05090141296386719
+DP end with 0.06609916687011719
+DP end with 0.08235025405883789
+DP end with 0.10138750076293945
+DP end with 0.12213730812072754
+DP end with 0.2830815315246582
+DP end with 0.2416999340057373
+DP end with 0.21666622161865234
+DP end with 0.2190544605255127
+DP end with 0.27222323417663574
+DP end with 0.2784767150878906
+DP end with 0.3690199851989746
+DP end with 0.369931697845459
+DP end with 0.3757197856903076
+DP end with 0.4228017330169678
+DP end with 0.44081974029541016
+DP end with 0.521514892578125
+DP end with 0.5973060131072998
+DP end with 0.5782382488250732
+DP end with 0.6108026504516602
+DP end with 0.7218327522277832
+DP end with 0.7444992065429688
+DP end with 0.814293384552002
+DP end with 0.8082752227783203
+DP end with 0.8111217021942139
+DP end with 0.856259822845459
+DP end with 1.0290839672088623
+DP end with 0.93703293800354
+DP end with 0.9932494163513184
+DP end with 1.1123859882354736
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====
+DP end with 0.0034024715423583984
+DP end with 0.006941080093383789
+DP end with 0.011531829833984375
+DP end with 0.0721120834350586
+DP end with 0.021187305450439453
+DP end with 0.028620004653930664
+DP end with 0.03875303268432617
+DP end with 0.05138254165649414
+DP end with 0.0649099349975586
+DP end with 0.08749508857727051
+DP end with 0.11600255966186523
+DP end with 0.13454079627990723
+DP end with 0.20087409019470215
+DP end with 0.19083237648010254
+DP end with 0.197157621383667
+DP end with 0.22138714790344238
+DP end with 0.2534620761871338
+DP end with 0.28234410285949707
+DP end with 0.37935876846313477
+DP end with 0.37479567527770996
+DP end with 0.45354318618774414
+DP end with 0.4290435314178467
+DP end with 0.46361517906188965
+DP end with 0.5537002086639404
+DP end with 0.510852575302124
+DP end with 0.5838923454284668
+DP end with 0.5893516540527344
+DP end with 0.6885242462158203
+DP end with 0.739945650100708
+DP end with 0.7366135120391846
+DP end with 0.7912306785583496
+DP end with 0.8842377662658691
+DP end with 0.874213457107544
+DP end with 0.8988473415374756
+DP end with 0.9611706733703613
+DP end with 1.1082844734191895
+DP end with 1.0502333641052246
+==== id Cbij3MKhdOY original time 101 total time: 3, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 4, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 5, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 6, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 7, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 8, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 9, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 10, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 11, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 12, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 13, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 14, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 15, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 16, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 17, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 18, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 19, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 20, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 21, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 22, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 23, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 24, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 25, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 26, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 27, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 28, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 29, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 30, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 31, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 32, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 33, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 34, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 35, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 36, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 37, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 38, min time: 3 start!!! ====
+==== id Cbij3MKhdOY original time 101 total time: 39, min time: 3 start!!! ====

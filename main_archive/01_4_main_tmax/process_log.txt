@@ -1,0 +1,71 @@
+DP end with 159.8911850452423
+DP end with 55.06301522254944
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id j_V6PTcCQCc original time 495 total time: 60, min time: 2, max: 20 start!!!
+id x_HVvF-A5OY original time 951 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+DP end with 158.5928876399994
+DP end with 55.299450397491455
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id j_V6PTcCQCc original time 495 total time: 60, min time: 2, max: 20 start!!!
+id x_HVvF-A5OY original time 951 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+DP end with 159.8966715335846
+id j_V6PTcCQCc original time 495 total time: 60, min time: 2, max: 20 start!!!
+DP end with 56.299835443496704
+id x_HVvF-A5OY original time 951 total time: 60, min time: 2, max: 20 start!!!
+DP end with 205.32695937156677
+id ImntsoxN9_4 original time 979 total time: 60, min time: 2, max: 20 start!!!
+DP end with 206.47515058517456
+id 92GOCxay1tA original time 644 total time: 60, min time: 2, max: 20 start!!!
+DP end with 85.76491236686707
+id qkRUcYHJ1JI original time 737 total time: 60, min time: 2, max: 20 start!!!
+DP end with 117.67278838157654
+id qhvea43XPaI original time 932 total time: 60, min time: 2, max: 20 start!!!
+DP end with 187.09399580955505
+id xB9D7ptFu9w original time 741 total time: 60, min time: 2, max: 20 start!!!
+DP end with 126.56626534461975
+id pfqvBSMxacE original time 843 total time: 60, min time: 2, max: 20 start!!!
+DP end with 165.79777026176453
+id r9tE-hCfJGY original time 446 total time: 60, min time: 2, max: 20 start!!!
+DP end with 43.79087710380554
+id 1NMlByABOf0 original time 702 total time: 60, min time: 2, max: 20 start!!!
+DP end with 103.680988073349
+id aP41uqYo6SY original time 925 total time: 60, min time: 2, max: 20 start!!!
+DP end with 206.76650834083557
+id 7azIIYjRsNk original time 762 total time: 60, min time: 2, max: 20 start!!!
+DP end with 124.34606385231018
+id RwWx5pKS3eA original time 609 total time: 60, min time: 2, max: 20 start!!!
+DP end with 77.40824794769287
+id a2LHDA8w744 original time 1164 total time: 60, min time: 2, max: 20 start!!!
+DP end with 341.72924733161926
+id jjgLH_470B4 original time 493 total time: 60, min time: 2, max: 20 start!!!
+DP end with 50.2726788520813
+id GiHyN5uw4Ho original time 943 total time: 60, min time: 2, max: 20 start!!!
+DP end with 205.5694134235382
+id udKE1ksKWDE original time 245 total time: 60, min time: 2, max: 20 start!!!
+DP end with 13.21487808227539
+id FBynfiRGdlc original time 896 total time: 60, min time: 2, max: 20 start!!!
+DP end with 182.872079372406
+id vl7FyE-SHWU original time 601 total time: 60, min time: 2, max: 20 start!!!
+DP end with 77.55392122268677
+id Vu4UaoJxK6U original time 736 total time: 60, min time: 2, max: 20 start!!!
+DP end with 122.66185855865479
+id PlrmvnPfOtA original time 870 total time: 60, min time: 2, max: 20 start!!!
+DP end with 161.40789604187012
+id lkCM5DyBxzg original time 1014 total time: 60, min time: 2, max: 20 start!!!
+DP end with 230.37306571006775
+id rrGMENN1iaY original time 285 total time: 60, min time: 2, max: 20 start!!!
+DP end with 19.889954328536987
+id rqDvpR1Wfq0 original time 1021 total time: 60, min time: 2, max: 20 start!!!
+DP end with 226.9768602848053
+id 2FiouEjnspc original time 1102 total time: 60, min time: 2, max: 20 start!!!
+DP end with 273.13202452659607

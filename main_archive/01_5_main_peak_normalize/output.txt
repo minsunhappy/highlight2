@@ -1,0 +1,47 @@
+PASS 2_oPSp74MJc due to length 1502
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+start DP
+DP end with 153.2508842945099
+Video FPS: 59.94
+Moviepy - Building video ./output/weight_2/92GOCxay1tA_total_time_60/dp_min_6.mp4.
+MoviePy - Writing audio in dp_min_6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output/weight_2/92GOCxay1tA_total_time_60/dp_min_6.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output/weight_2/92GOCxay1tA_total_time_60/dp_min_6.mp4
+==== id xB9D7ptFu9w original time 741 total time: 60, min time: 6 start!!! ====
+start DP
+DP end with 242.26941871643066
+Video FPS: 59.94
+Moviepy - Building video ./output/weight_2/xB9D7ptFu9w_total_time_60/dp_min_6.mp4.
+MoviePy - Writing audio in dp_min_6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output/weight_2/xB9D7ptFu9w_total_time_60/dp_min_6.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output/weight_2/xB9D7ptFu9w_total_time_60/dp_min_6.mp4
+==== id a2LHDA8w744 original time 1164 total time: 60, min time: 6 start!!! ====
+start DP
+DP end with 501.8246443271637
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output/weight_2/a2LHDA8w744_total_time_60/dp_min_6.mp4.
+MoviePy - Writing audio in dp_min_6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output/weight_2/a2LHDA8w744_total_time_60/dp_min_6.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output/weight_2/a2LHDA8w744_total_time_60/dp_min_6.mp4
+==== id FBynfiRGdlc original time 896 total time: 60, min time: 6 start!!! ====
+start DP
+DP end with 271.686970949173
+Video FPS: 29.97002997002997
+Moviepy - Building video ./output/weight_2/FBynfiRGdlc_total_time_60/dp_min_6.mp4.
+MoviePy - Writing audio in dp_min_6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output/weight_2/FBynfiRGdlc_total_time_60/dp_min_6.mp4
+
+Moviepy - Done !
+Moviepy - video ready ./output/weight_2/FBynfiRGdlc_total_time_60/dp_min_6.mp4
+==== id 15Xo6g3A7XQ original time 1189 total time: 60, min time: 6 start!!! ====
+start DP

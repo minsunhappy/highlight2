@@ -1,0 +1,149 @@
+ ==================== id jQ1l5zenaKY ====================
+Total lengths:7497
+PASS jQ1l5zenaKY due to length 7497
+ ==================== id 5mLnuCORMrU ====================
+Total lengths:867
+id 5mLnuCORMrU original time 867 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 159.8966715335846
+ ==================== id j_V6PTcCQCc ====================
+Total lengths:495
+id j_V6PTcCQCc original time 495 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 56.299835443496704
+ ==================== id x_HVvF-A5OY ====================
+Total lengths:951
+id x_HVvF-A5OY original time 951 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 205.32695937156677
+ ==================== id ImntsoxN9_4 ====================
+Total lengths:979
+id ImntsoxN9_4 original time 979 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 206.47515058517456
+ ==================== id 2_oPSp74MJc ====================
+Total lengths:1502
+PASS 2_oPSp74MJc due to length 1502
+ ==================== id 92GOCxay1tA ====================
+Total lengths:644
+id 92GOCxay1tA original time 644 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 85.76491236686707
+ ==================== id qkRUcYHJ1JI ====================
+Total lengths:737
+id qkRUcYHJ1JI original time 737 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 117.67278838157654
+ ==================== id qhvea43XPaI ====================
+Total lengths:932
+id qhvea43XPaI original time 932 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 187.09399580955505
+ ==================== id xB9D7ptFu9w ====================
+Total lengths:741
+id xB9D7ptFu9w original time 741 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 126.56626534461975
+ ==================== id pfqvBSMxacE ====================
+Total lengths:843
+id pfqvBSMxacE original time 843 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 165.79777026176453
+ ==================== id L6sbfskaTDQ ====================
+Total lengths:5796
+PASS L6sbfskaTDQ due to length 5796
+ ==================== id r9tE-hCfJGY ====================
+Total lengths:446
+id r9tE-hCfJGY original time 446 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 43.79087710380554
+ ==================== id 1NMlByABOf0 ====================
+Total lengths:702
+id 1NMlByABOf0 original time 702 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 103.680988073349
+ ==================== id aP41uqYo6SY ====================
+Total lengths:925
+id aP41uqYo6SY original time 925 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 206.76650834083557
+ ==================== id 7azIIYjRsNk ====================
+Total lengths:762
+id 7azIIYjRsNk original time 762 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 124.34606385231018
+ ==================== id RwWx5pKS3eA ====================
+Total lengths:609
+id RwWx5pKS3eA original time 609 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 77.40824794769287
+ ==================== id a2LHDA8w744 ====================
+Total lengths:1164
+id a2LHDA8w744 original time 1164 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 341.72924733161926
+ ==================== id jjgLH_470B4 ====================
+Total lengths:493
+id jjgLH_470B4 original time 493 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 50.2726788520813
+ ==================== id GiHyN5uw4Ho ====================
+Total lengths:943
+id GiHyN5uw4Ho original time 943 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 205.5694134235382
+ ==================== id kpcryLm1WAk ====================
+Total lengths:7449
+PASS kpcryLm1WAk due to length 7449
+ ==================== id udKE1ksKWDE ====================
+Total lengths:245
+id udKE1ksKWDE original time 245 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 13.21487808227539
+ ==================== id 3-BZxvKT6x4 ====================
+Total lengths:1477
+PASS 3-BZxvKT6x4 due to length 1477
+ ==================== id FBynfiRGdlc ====================
+Total lengths:896
+id FBynfiRGdlc original time 896 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 182.872079372406
+ ==================== id vl7FyE-SHWU ====================
+Total lengths:601
+id vl7FyE-SHWU original time 601 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 77.55392122268677
+ ==================== id Vu4UaoJxK6U ====================
+Total lengths:736
+id Vu4UaoJxK6U original time 736 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 122.66185855865479
+ ==================== id PlrmvnPfOtA ====================
+Total lengths:870
+id PlrmvnPfOtA original time 870 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 161.40789604187012
+ ==================== id lkCM5DyBxzg ====================
+Total lengths:1014
+id lkCM5DyBxzg original time 1014 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 230.37306571006775
+ ==================== id rrGMENN1iaY ====================
+Total lengths:285
+id rrGMENN1iaY original time 285 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 19.889954328536987
+ ==================== id Cbij3MKhdOY ====================
+Total lengths:6006
+PASS Cbij3MKhdOY due to length 6006
+ ==================== id rqDvpR1Wfq0 ====================
+Total lengths:1021
+id rqDvpR1Wfq0 original time 1021 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 226.9768602848053
+ ==================== id 2FiouEjnspc ====================
+Total lengths:1102
+id 2FiouEjnspc original time 1102 total time: 60, min time: 2, max: 20 start!!!
+Start DP
+DP end with 273.13202452659607
+ ==================== id sports ====================

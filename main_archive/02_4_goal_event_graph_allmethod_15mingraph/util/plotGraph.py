@@ -1,0 +1,42 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+
+
+def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_duration, threshold_value):
+    total_duration_seconds = 101
+    new_time = np.arange(0, total_duration_seconds, 1)
+    fig, axs = plt.subplots(3, 1, figsize=(12, 6), sharex=True)
+    methods = [f'DP Method (Min Duration: {min_duration}s)', 'Threshold Method', 'Knapsack Method']
+    intervals_list = [dp_intervals, threshold_intervals, knapsack_intervals]
+
+    for ax, method, intervals in zip(axs, methods, intervals_list):
+        ax.plot(new_time, smoothed_intensity_scores,)
+        
+        total_duration = 0
+        for start, end in intervals:
+            start, end = int(start), int(end)
+            # 슬라이싱
+            ax.plot(new_time[start:end+2], smoothed_intensity_scores[start:end+2], color='red', linewidth=3)
+            duration = end - start + 1
+            total_duration += duration 
+            mid_point = (start + end) // 2
+            ax.text(new_time[mid_point], smoothed_intensity_scores[mid_point], 
+                     f'{duration}s', color='black', fontweight='bold', fontsize=10,
+                     ha='center', va='bottom')
+            
+        if 'Threshold Method' in method:
+            ax.axhline(y=threshold_value, color='green', linestyle='--')
+            ax.text(0, threshold_value, f'Threshold: {threshold_value:.2f}', color='green', 
+                    fontweight='bold', fontsize=10, va='bottom')
+            
+        ax.set_title(f'{method} (Total Duration: {total_duration}s)')
+        ax.set_ylabel('Intensity Score')
+        ax.grid(True)
+        ax.legend()
+
+    axs[-1].set_xlabel('Time (seconds)')
+    plt.tight_layout()
+    # plt.show()
+    filename = os.path.join(output_dir, f'figure.png')
+    plt.savefig(filename)

@@ -1,0 +1,1616 @@
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.23699808120728
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.24872088432312
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 98.88254499435425
+==== id 8OHJ9lRSjuU original time 575 total time: 60, min time: 4 start!!! ====
+DP end with 189.07785558700562
+DP end with 291.8204333782196
+DP end with 160.34661269187927
+DP end with 96.58290028572083
+==== id C2XTUkcpgOs original time 803 total time: 60, min time: 4 start!!! ====
+==== id mSywWtS9YfQ original time 971 total time: 60, min time: 4 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 60, min time: 4 start!!! ====
+==== id UACD-uQ1PuM original time 593 total time: 60, min time: 4 start!!! ====
+DP end with 12.454402923583984
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.091840982437134
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.15178656578064
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 13.373898983001709
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.261740684509277
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.432567358016968
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.533616781234741
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.18995451927185
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 12.528059720993042
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 4 start!!! ====
+DP end with 115.95272827148438
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 4 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 10 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+DP end with 3631.1173145771027
+==== id kpcryLm1WAk original time 3724 total time: 60, min time: 8 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+==== id kpcryLm1WAk original time 7449 total time: 60, min time: 8 start!!! ====
+DP end with 16382.97538781166
+DP end with 21078.47066783905
+DP end with 72.55068850517273
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 70.4186441898346
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 73.66611862182617
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 72.18415570259094
+DP end with 284.88949394226074
+DP end with 543.7648422718048
+DP end with 107.83622646331787
+DP end with 442.92946195602417
+DP end with 901.3456599712372
+DP end with 17.254605293273926
+DP end with 53.318159341812134
+DP end with 76.38234448432922
+DP end with 723.7805871963501
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 180, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 180, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 180, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 120, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+DP end with 14.463980436325073
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+DP end with 15.157390832901001
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+DP end with 14.219663143157959
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+DP end with 13.9167320728302
+DP end with 37.80865263938904
+DP end with 72.40164518356323
+DP end with 164.27345943450928
+DP end with 282.59440302848816
+DP end with 20.674699068069458
+DP end with 56.31344819068909
+DP end with 107.23607277870178
+DP end with 249.26233839988708
+DP end with 432.7160716056824
+DP end with 3.5157201290130615
+DP end with 9.095506191253662
+DP end with 17.010510206222534
+DP end with 35.28025484085083
+DP end with 53.10062646865845
+DP end with 129.96059846878052
+DP end with 370.04577803611755
+DP end with 715.5752913951874
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 30, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 45, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 90, min time: 5 start!!! ====
+DP end with 13.923614978790283
+DP end with 38.178250312805176
+DP end with 74.86910915374756
+DP end with 166.38839554786682
+DP end with 280.6769599914551
+DP end with 20.792386054992676
+DP end with 54.839077949523926
+DP end with 104.94312238693237
+DP end with 245.31486582756042
+DP end with 426.71858382225037
+DP end with 3.732992649078369
+DP end with 9.112264394760132
+DP end with 17.41547727584839
+DP end with 36.12609910964966
+DP end with 53.95602107048035
+DP end with 129.2087118625641
+DP end with 376.4850478172302
+DP end with 727.6273095607758
+DP end with 1811.8691658973694
+DP end with 3385.59934425354
+DP end with 5.335237264633179
+DP end with 14.980597734451294
+DP end with 26.899120569229126
+DP end with 58.065114974975586
+DP end with 87.0716142654419
+DP end with 80.8881766796112
+DP end with 225.98641729354858
+DP end with 444.24650382995605
+DP end with 1154.1585853099823
+DP end with 2037.5574905872345
+DP end with 59.24990963935852
+DP end with 159.5288589000702
+DP end with 313.1737825870514
+DP end with 758.5035243034363
+DP end with 1372.5521705150604
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 30, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 45, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 90, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 120, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 30, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 45, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 60, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 90, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 120, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 30, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 45, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 60, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 90, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 120, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 30, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 45, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 60, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 90, min time: 5 start!!! ====
+==== id 2878bboboOY original time 977 total time: 120, min time: 5 start!!! ====
+DP end with 18.53110980987549
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+DP end with 17.55878973007202
+DP end with 47.98130750656128
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+DP end with 17.222172498703003
+DP end with 47.15475296974182
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+DP end with 17.685943603515625
+DP end with 48.2513473033905
+DP end with 93.00177955627441
+DP end with 215.65247797966003
+DP end with 377.1722390651703
+DP end with 26.732295989990234
+DP end with 72.57940816879272
+DP end with 139.80092072486877
+DP end with 326.7086935043335
+DP end with 590.0721895694733
+DP end with 4.321591138839722
+DP end with 11.651849508285522
+DP end with 21.255072355270386
+DP end with 43.58700513839722
+DP end with 65.80645442008972
+DP end with 172.71869492530823
+DP end with 490.40838146209717
+DP end with 958.1717689037323
+DP end with 2486.6364953517914
+DP end with 4671.991419315338
+DP end with 7.097092628479004
+DP end with 19.345508813858032
+DP end with 35.14395880699158
+DP end with 72.3276014328003
+DP end with 110.78359603881836
+DP end with 119.1764931678772
+DP end with 320.22333669662476
+DP end with 664.0195105075836
+DP end with 1589.8628425598145
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 5 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 120, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 5 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 120, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 5 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 120, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 30, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 45, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 60, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 90, min time: 5 start!!! ====
+==== id 3-BZxvKT6x4 original time 1477 total time: 120, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 30, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 45, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 60, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 90, min time: 5 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 120, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 30, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 45, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 60, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 90, min time: 5 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 120, min time: 5 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 60, min time: 2 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 60, min time: 2 start!!! ====
+DP end with 402.7546577453613
+==== id 5mLnuCORMrU original time 867 total time: 60, min time: 2 start!!! ====
+DP end with 291.37244749069214
+DP end with 98.54515767097473
+DP end with 380.0678927898407
+DP end with 380.4730839729309
+DP end with 156.36372184753418
+DP end with 217.7494513988495
+DP end with 349.1582844257355
+DP end with 251.3318474292755
+==== id 5mLnuCORMrU original time 867 total time: 60, min time: 2 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 2 start!!! ====
+==== id x_HVvF-A5OY original time 951 total time: 60, min time: 2 start!!! ====
+==== id ImntsoxN9_4 original time 979 total time: 60, min time: 2 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 2 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 60, min time: 2 start!!! ====
+==== id qhvea43XPaI original time 932 total time: 60, min time: 2 start!!! ====
+==== id xB9D7ptFu9w original time 741 total time: 60, min time: 2 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 60, min time: 2 start!!! ====
+DP end with 104.8357892036438
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 2 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 60, min time: 2 start!!! ====
+DP end with 91.86071348190308
+DP end with 73.19675326347351
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 3 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 60, min time: 3 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 60, min time: 3 start!!! ====
+DP end with 94.3253059387207
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 3 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 60, min time: 3 start!!! ====
+DP end with 95.15757465362549
+DP end with 77.9015760421753
+DP end with 90.40450978279114
+DP end with 21.98586916923523
+DP end with 32.42180824279785
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 3 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 60, min time: 3 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 60, min time: 3 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 3 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 60, min time: 3 start!!! ====
+DP end with 94.60414958000183
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 3 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 60, min time: 3 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 3 start!!! ====
+DP end with 158.11622285842896
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 3 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 3 start!!! ====
+DP end with 132.64626622200012
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 5 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 5 start!!! ====
+DP end with 25.180803060531616
+==== id 92GOCxay1tA original time 644 total time: 30, min time: 5 start!!! ====
+DP end with 130.95945954322815
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 5 start!!! ====
+DP end with 127.90649938583374
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+DP end with 108.26534581184387
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 8 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+DP end with 124.20900511741638
+DP end with 181.46377754211426
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+==== id xB9D7ptFu9w original time 741 total time: 60, min time: 6 start!!! ====
+DP end with 127.97152614593506
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 60, min time: 6 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 60, min time: 6 start!!! ====
+==== id x_HVvF-A5OY original time 951 total time: 60, min time: 6 start!!! ====
+==== id ImntsoxN9_4 original time 979 total time: 60, min time: 6 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 60, min time: 6 start!!! ====
+==== id qhvea43XPaI original time 932 total time: 60, min time: 6 start!!! ====
+==== id xB9D7ptFu9w original time 741 total time: 60, min time: 6 start!!! ====
+==== id pfqvBSMxacE original time 843 total time: 60, min time: 6 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 60, min time: 6 start!!! ====
+==== id 1NMlByABOf0 original time 702 total time: 60, min time: 6 start!!! ====
+==== id aP41uqYo6SY original time 925 total time: 60, min time: 6 start!!! ====
+==== id 7azIIYjRsNk original time 762 total time: 60, min time: 6 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 60, min time: 6 start!!! ====
+==== id a2LHDA8w744 original time 1164 total time: 60, min time: 6 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 60, min time: 6 start!!! ====
+==== id GiHyN5uw4Ho original time 943 total time: 60, min time: 6 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 60, min time: 6 start!!! ====
+==== id FBynfiRGdlc original time 896 total time: 60, min time: 6 start!!! ====
+==== id vl7FyE-SHWU original time 601 total time: 60, min time: 6 start!!! ====
+==== id Vu4UaoJxK6U original time 736 total time: 60, min time: 6 start!!! ====
+==== id PlrmvnPfOtA original time 870 total time: 60, min time: 6 start!!! ====
+==== id lkCM5DyBxzg original time 1014 total time: 60, min time: 6 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 60, min time: 6 start!!! ====
+==== id rqDvpR1Wfq0 original time 1021 total time: 60, min time: 6 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 6 start!!! ====
+==== id GVoOWJdr_qA original time 917 total time: 60, min time: 6 start!!! ====
+Error processing video Fl1EUHv-6ZQ: 'items'
+Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    start_seconds, intensity_scores = process_video_data(data)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/getVideo.py", line 24, in process_video_data
+    markers = data['items'][0]['mostReplayed']['markers']
+KeyError: 'items'
+
+==== id 15Xo6g3A7XQ original time 1189 total time: 60, min time: 6 start!!! ====
+==== id RvSg6kOPKKU original time 229 total time: 60, min time: 6 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 60, min time: 6 start!!! ====
+==== id BxgahWzTXGk original time 854 total time: 60, min time: 6 start!!! ====
+Error processing video 6Ro-JHPwbow: 'items'
+Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    start_seconds, intensity_scores = process_video_data(data)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/getVideo.py", line 24, in process_video_data
+    markers = data['items'][0]['mostReplayed']['markers']
+KeyError: 'items'
+
+==== id pHJE9wsvMgQ original time 1121 total time: 60, min time: 6 start!!! ====
+==== id 2878bboboOY original time 977 total time: 60, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 60, min time: 6 start!!! ====
+==== id iYZMOa5WAds original time 899 total time: 60, min time: 6 start!!! ====
+==== id v9uu6v_vFOE original time 763 total time: 60, min time: 6 start!!! ====
+==== id nhBjLjJ3sAE original time 228 total time: 60, min time: 6 start!!! ====
+==== id hY_xJI5d1cg original time 578 total time: 60, min time: 6 start!!! ====
+==== id VGyhYYzMKdw original time 881 total time: 60, min time: 6 start!!! ====
+==== id HVFqPIbrPrw original time 497 total time: 60, min time: 6 start!!! ====
+==== id m8tMMaN6hGA original time 577 total time: 60, min time: 6 start!!! ====
+==== id T5ZrXLD_rso original time 703 total time: 60, min time: 6 start!!! ====
+==== id Cx_A8Z4Zdi8 original time 898 total time: 60, min time: 6 start!!! ====
+==== id YqeI9b9LWh0 original time 672 total time: 60, min time: 6 start!!! ====
+==== id oYgGq1Y-kkQ original time 1030 total time: 60, min time: 6 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 6 start!!! ====
+==== id 985IunQbyeE original time 762 total time: 60, min time: 6 start!!! ====
+==== id FHd2QW6Uuro original time 932 total time: 60, min time: 6 start!!! ====
+==== id W1897RuoKs4 original time 719 total time: 60, min time: 6 start!!! ====
+==== id lNpN_FH8_Ac original time 742 total time: 60, min time: 6 start!!! ====
+==== id DXk3gBPKzbE original time 918 total time: 60, min time: 6 start!!! ====
+==== id Ypu2JqiIidc original time 614 total time: 60, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 30, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 90, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 30, min time: 6 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 30, min time: 6 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 30, min time: 6 start!!! ====
+==== id x_HVvF-A5OY original time 951 total time: 30, min time: 6 start!!! ====
+==== id ImntsoxN9_4 original time 979 total time: 30, min time: 6 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 30, min time: 6 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 30, min time: 6 start!!! ====
+==== id qhvea43XPaI original time 932 total time: 30, min time: 6 start!!! ====
+Error processing video qhvea43XPaI: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/qhvea43XPaI_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/qhvea43XPaI_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id xB9D7ptFu9w original time 741 total time: 30, min time: 6 start!!! ====
+Error processing video xB9D7ptFu9w: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/xB9D7ptFu9w_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/xB9D7ptFu9w_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id iYZMOa5WAds original time 899 total time: 30, min time: 6 start!!! ====
+==== id pfqvBSMxacE original time 843 total time: 30, min time: 6 start!!! ====
+==== id v9uu6v_vFOE original time 763 total time: 30, min time: 6 start!!! ====
+==== id nhBjLjJ3sAE original time 228 total time: 30, min time: 6 start!!! ====
+==== id hY_xJI5d1cg original time 578 total time: 30, min time: 6 start!!! ====
+Error processing video hY_xJI5d1cg: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/hY_xJI5d1cg_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+==== id 92GOCxay1tA original time 644 total time: 30, min time: 6 start!!! ====
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/hY_xJI5d1cg_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id VGyhYYzMKdw original time 881 total time: 30, min time: 6 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 30, min time: 6 start!!! ====
+==== id 1NMlByABOf0 original time 702 total time: 30, min time: 6 start!!! ====
+==== id aP41uqYo6SY original time 925 total time: 30, min time: 6 start!!! ====
+==== id 7azIIYjRsNk original time 762 total time: 30, min time: 6 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 30, min time: 6 start!!! ====
+==== id HVFqPIbrPrw original time 497 total time: 30, min time: 6 start!!! ====
+==== id a2LHDA8w744 original time 1164 total time: 30, min time: 6 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 30, min time: 6 start!!! ====
+Error processing video jjgLH_470B4: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/jjgLH_470B4_total_time_30/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/jjgLH_470B4_total_time_30/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id m8tMMaN6hGA original time 577 total time: 30, min time: 6 start!!! ====
+Error processing video m8tMMaN6hGA: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/m8tMMaN6hGA_total_time_30/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/m8tMMaN6hGA_total_time_30/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id GiHyN5uw4Ho original time 943 total time: 30, min time: 6 start!!! ====
+==== id T5ZrXLD_rso original time 703 total time: 30, min time: 6 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 30, min time: 6 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 30, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 75, min time: 6 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 75, min time: 6 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 75, min time: 6 start!!! ====
+==== id x_HVvF-A5OY original time 951 total time: 75, min time: 6 start!!! ====
+==== id ImntsoxN9_4 original time 979 total time: 75, min time: 6 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 75, min time: 6 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 75, min time: 6 start!!! ====
+==== id qhvea43XPaI original time 932 total time: 75, min time: 6 start!!! ====
+==== id xB9D7ptFu9w original time 741 total time: 75, min time: 6 start!!! ====
+Error processing video xB9D7ptFu9w: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/xB9D7ptFu9w_total_time_75/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/xB9D7ptFu9w_total_time_75/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id iYZMOa5WAds original time 899 total time: 75, min time: 6 start!!! ====
+Error processing video iYZMOa5WAds: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/iYZMOa5WAds_total_time_75/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/iYZMOa5WAds_total_time_75/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id pfqvBSMxacE original time 843 total time: 75, min time: 6 start!!! ====
+Error processing video pfqvBSMxacE: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/pfqvBSMxacE_total_time_75/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+==== id m8tMMaN6hGA original time 577 total time: 30, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 45, min time: 6 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 45, min time: 6 start!!! ====
+==== id j_V6PTcCQCc original time 495 total time: 45, min time: 6 start!!! ====
+==== id x_HVvF-A5OY original time 951 total time: 45, min time: 6 start!!! ====
+==== id ImntsoxN9_4 original time 979 total time: 45, min time: 6 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 45, min time: 6 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 45, min time: 6 start!!! ====
+==== id qhvea43XPaI original time 932 total time: 45, min time: 6 start!!! ====
+Error processing video qhvea43XPaI: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/qhvea43XPaI_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/qhvea43XPaI_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id xB9D7ptFu9w original time 741 total time: 45, min time: 6 start!!! ====
+==== id iYZMOa5WAds original time 899 total time: 45, min time: 6 start!!! ====
+==== id pfqvBSMxacE original time 843 total time: 45, min time: 6 start!!! ====
+==== id v9uu6v_vFOE original time 763 total time: 45, min time: 6 start!!! ====
+==== id nhBjLjJ3sAE original time 228 total time: 45, min time: 6 start!!! ====
+==== id hY_xJI5d1cg original time 578 total time: 45, min time: 6 start!!! ====
+==== id VGyhYYzMKdw original time 881 total time: 45, min time: 6 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 45, min time: 6 start!!! ====
+==== id 1NMlByABOf0 original time 702 total time: 45, min time: 6 start!!! ====
+==== id aP41uqYo6SY original time 925 total time: 45, min time: 6 start!!! ====
+==== id 7azIIYjRsNk original time 762 total time: 45, min time: 6 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 45, min time: 6 start!!! ====
+==== id HVFqPIbrPrw original time 497 total time: 45, min time: 6 start!!! ====
+==== id a2LHDA8w744 original time 1164 total time: 45, min time: 6 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 45, min time: 6 start!!! ====
+==== id m8tMMaN6hGA original time 577 total time: 45, min time: 6 start!!! ====
+==== id GiHyN5uw4Ho original time 943 total time: 45, min time: 6 start!!! ====
+==== id T5ZrXLD_rso original time 703 total time: 45, min time: 6 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 45, min time: 6 start!!! ====
+Error processing video udKE1ksKWDE: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/udKE1ksKWDE_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/udKE1ksKWDE_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id FBynfiRGdlc original time 896 total time: 45, min time: 6 start!!! ====
+==== id Cx_A8Z4Zdi8 original time 898 total time: 45, min time: 6 start!!! ====
+==== id vl7FyE-SHWU original time 601 total time: 45, min time: 6 start!!! ====
+==== id YqeI9b9LWh0 original time 672 total time: 45, min time: 6 start!!! ====
+==== id oYgGq1Y-kkQ original time 1030 total time: 45, min time: 6 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 45, min time: 6 start!!! ====
+==== id Vu4UaoJxK6U original time 736 total time: 45, min time: 6 start!!! ====
+==== id PlrmvnPfOtA original time 870 total time: 45, min time: 6 start!!! ====
+==== id lkCM5DyBxzg original time 1014 total time: 45, min time: 6 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 45, min time: 6 start!!! ====
+Error processing video rrGMENN1iaY: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/rrGMENN1iaY_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+==== id EDQR3wEZbuo original time 735 total time: 90, min time: 6 start!!! ====
+==== id 5mLnuCORMrU original time 867 total time: 90, min time: 6 start!!! ====
+Error processing video 5mLnuCORMrU: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/5mLnuCORMrU_total_time_90/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/5mLnuCORMrU_total_time_90/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id j_V6PTcCQCc original time 495 total time: 90, min time: 6 start!!! ====
+Error processing video j_V6PTcCQCc: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/j_V6PTcCQCc_total_time_90/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/j_V6PTcCQCc_total_time_90/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id x_HVvF-A5OY original time 951 total time: 90, min time: 6 start!!! ====
+==== id ImntsoxN9_4 original time 979 total time: 90, min time: 6 start!!! ====
+==== id 92GOCxay1tA original time 644 total time: 90, min time: 6 start!!! ====
+==== id qkRUcYHJ1JI original time 737 total time: 90, min time: 6 start!!! ====
+==== id qhvea43XPaI original time 932 total time: 90, min time: 6 start!!! ====
+==== id xB9D7ptFu9w original time 741 total time: 90, min time: 6 start!!! ====
+==== id iYZMOa5WAds original time 899 total time: 90, min time: 6 start!!! ====
+==== id pfqvBSMxacE original time 843 total time: 90, min time: 6 start!!! ====
+Error processing video pfqvBSMxacE: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/pfqvBSMxacE_total_time_90/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+==== id FBynfiRGdlc original time 896 total time: 30, min time: 6 start!!! ====
+==== id Cx_A8Z4Zdi8 original time 898 total time: 30, min time: 6 start!!! ====
+Error processing video Cx_A8Z4Zdi8: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/Cx_A8Z4Zdi8_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/Cx_A8Z4Zdi8_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id vl7FyE-SHWU original time 601 total time: 30, min time: 6 start!!! ====
+==== id YqeI9b9LWh0 original time 672 total time: 30, min time: 6 start!!! ====
+==== id oYgGq1Y-kkQ original time 1030 total time: 30, min time: 6 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 30, min time: 6 start!!! ====
+==== id Vu4UaoJxK6U original time 736 total time: 30, min time: 6 start!!! ====
+==== id PlrmvnPfOtA original time 870 total time: 30, min time: 6 start!!! ====
+==== id lkCM5DyBxzg original time 1014 total time: 30, min time: 6 start!!! ====
+Error processing video lkCM5DyBxzg: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/lkCM5DyBxzg_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/lkCM5DyBxzg_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id rrGMENN1iaY original time 285 total time: 30, min time: 6 start!!! ====
+==== id rqDvpR1Wfq0 original time 1021 total time: 30, min time: 6 start!!! ====
+==== id 985IunQbyeE original time 762 total time: 30, min time: 6 start!!! ====
+==== id FHd2QW6Uuro original time 932 total time: 30, min time: 6 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 30, min time: 6 start!!! ====
+==== id W1897RuoKs4 original time 719 total time: 30, min time: 6 start!!! ====
+==== id GVoOWJdr_qA original time 917 total time: 30, min time: 6 start!!! ====
+==== id lNpN_FH8_Ac original time 742 total time: 30, min time: 6 start!!! ====
+Error processing video Fl1EUHv-6ZQ: 'items'
+Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    start_seconds, intensity_scores = process_video_data(data)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/getVideo.py", line 24, in process_video_data
+    markers = data['items'][0]['mostReplayed']['markers']
+KeyError: 'items'
+
+==== id 15Xo6g3A7XQ original time 1189 total time: 30, min time: 6 start!!! ====
+Error processing video 15Xo6g3A7XQ: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/15Xo6g3A7XQ_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/30/15Xo6g3A7XQ_total_time_30/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id RvSg6kOPKKU original time 229 total time: 30, min time: 6 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 30, min time: 6 start!!! ====
+==== id DXk3gBPKzbE original time 918 total time: 30, min time: 6 start!!! ====
+==== id BxgahWzTXGk original time 854 total time: 30, min time: 6 start!!! ====
+Error processing video 6Ro-JHPwbow: 'items'
+Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    start_seconds, intensity_scores = process_video_data(data)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/getVideo.py", line 24, in process_video_data
+    markers = data['items'][0]['mostReplayed']['markers']
+KeyError: 'items'
+
+==== id pHJE9wsvMgQ original time 1121 total time: 30, min time: 6 start!!! ====
+==== id Ypu2JqiIidc original time 614 total time: 30, min time: 6 start!!! ====
+==== id 2878bboboOY original time 977 total time: 30, min time: 6 start!!! ====
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/pfqvBSMxacE_total_time_90/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id v9uu6v_vFOE original time 763 total time: 90, min time: 6 start!!! ====
+Error processing video v9uu6v_vFOE: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/v9uu6v_vFOE_total_time_90/knapsack.mp4:
+
+ b'[mp3 @ 0x6c47840] Failed to read frame size: Could not seek to 1026.\nknapsackTEMP_MPY_wvf_snd.mp3: Invalid argument\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/v9uu6v_vFOE_total_time_90/knapsack.mp4:
+
+ b'[mp3 @ 0x6c47840] Failed to read frame size: Could not seek to 1026.\nknapsackTEMP_MPY_wvf_snd.mp3: Invalid argument\n'
+
+==== id nhBjLjJ3sAE original time 228 total time: 90, min time: 6 start!!! ====
+==== id hY_xJI5d1cg original time 578 total time: 90, min time: 6 start!!! ====
+==== id VGyhYYzMKdw original time 881 total time: 90, min time: 6 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 90, min time: 6 start!!! ====
+==== id 1NMlByABOf0 original time 702 total time: 90, min time: 6 start!!! ====
+Error processing video 1NMlByABOf0: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/1NMlByABOf0_total_time_90/threshold.mp4:
+
+ b'[mp3 @ 0x6950840] Failed to read frame size: Could not seek to 1026.\nthresholdTEMP_MPY_wvf_snd.mp3: Invalid argument\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/1NMlByABOf0_total_time_90/threshold.mp4:
+
+ b'[mp3 @ 0x6950840] Failed to read frame size: Could not seek to 1026.\nthresholdTEMP_MPY_wvf_snd.mp3: Invalid argument\n'
+
+==== id aP41uqYo6SY original time 925 total time: 90, min time: 6 start!!! ====
+==== id 7azIIYjRsNk original time 762 total time: 90, min time: 6 start!!! ====
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/rrGMENN1iaY_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id rqDvpR1Wfq0 original time 1021 total time: 45, min time: 6 start!!! ====
+==== id 985IunQbyeE original time 762 total time: 45, min time: 6 start!!! ====
+==== id FHd2QW6Uuro original time 932 total time: 45, min time: 6 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 45, min time: 6 start!!! ====
+Error processing video 2FiouEjnspc: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/2FiouEjnspc_total_time_45/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/2FiouEjnspc_total_time_45/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id W1897RuoKs4 original time 719 total time: 45, min time: 6 start!!! ====
+==== id GVoOWJdr_qA original time 917 total time: 45, min time: 6 start!!! ====
+==== id lNpN_FH8_Ac original time 742 total time: 45, min time: 6 start!!! ====
+Error processing video Fl1EUHv-6ZQ: 'items'
+Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    start_seconds, intensity_scores = process_video_data(data)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/getVideo.py", line 24, in process_video_data
+    markers = data['items'][0]['mostReplayed']['markers']
+KeyError: 'items'
+
+==== id 15Xo6g3A7XQ original time 1189 total time: 45, min time: 6 start!!! ====
+==== id RvSg6kOPKKU original time 229 total time: 45, min time: 6 start!!! ====
+==== id Aw_OVfYOPMw original time 1167 total time: 45, min time: 6 start!!! ====
+==== id DXk3gBPKzbE original time 918 total time: 45, min time: 6 start!!! ====
+Error processing video DXk3gBPKzbE: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/DXk3gBPKzbE_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/45/DXk3gBPKzbE_total_time_45/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id BxgahWzTXGk original time 854 total time: 45, min time: 6 start!!! ====
+Error processing video 6Ro-JHPwbow: 'items'
+Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    start_seconds, intensity_scores = process_video_data(data)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/getVideo.py", line 24, in process_video_data
+    markers = data['items'][0]['mostReplayed']['markers']
+KeyError: 'items'
+
+==== id pHJE9wsvMgQ original time 1121 total time: 45, min time: 6 start!!! ====
+==== id Ypu2JqiIidc original time 614 total time: 45, min time: 6 start!!! ====
+==== id 2878bboboOY original time 977 total time: 45, min time: 6 start!!! ====
+Error processing video 7azIIYjRsNk: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/7azIIYjRsNk_total_time_90/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/7azIIYjRsNk_total_time_90/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id RwWx5pKS3eA original time 609 total time: 90, min time: 6 start!!! ====
+Error processing video RwWx5pKS3eA: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/RwWx5pKS3eA_total_time_90/threshold.mp4:
+
+ b'[mp3 @ 0x62b2840] Failed to read frame size: Could not seek to 1026.\nthresholdTEMP_MPY_wvf_snd.mp3: Invalid argument\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/RwWx5pKS3eA_total_time_90/threshold.mp4:
+
+ b'[mp3 @ 0x62b2840] Failed to read frame size: Could not seek to 1026.\nthresholdTEMP_MPY_wvf_snd.mp3: Invalid argument\n'
+
+==== id HVFqPIbrPrw original time 497 total time: 90, min time: 6 start!!! ====
+==== id a2LHDA8w744 original time 1164 total time: 90, min time: 6 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 90, min time: 6 start!!! ====
+Error processing video jjgLH_470B4: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/jjgLH_470B4_total_time_90/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/90/jjgLH_470B4_total_time_90/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id m8tMMaN6hGA original time 577 total time: 90, min time: 6 start!!! ====
+==== id GiHyN5uw4Ho original time 943 total time: 90, min time: 6 start!!! ====
+==== id T5ZrXLD_rso original time 703 total time: 90, min time: 6 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 90, min time: 6 start!!! ====
+==== id FBynfiRGdlc original time 896 total time: 90, min time: 6 start!!! ====
+==== id Cx_A8Z4Zdi8 original time 898 total time: 90, min time: 6 start!!! ====
+==== id vl7FyE-SHWU original time 601 total time: 90, min time: 6 start!!! ====
+==== id YqeI9b9LWh0 original time 672 total time: 90, min time: 6 start!!! ====
+==== id oYgGq1Y-kkQ original time 1030 total time: 90, min time: 6 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 90, min time: 6 start!!! ====
+==== id Vu4UaoJxK6U original time 736 total time: 90, min time: 6 start!!! ====
+==== id PlrmvnPfOtA original time 870 total time: 90, min time: 6 start!!! ====
+==== id lkCM5DyBxzg original time 1014 total time: 90, min time: 6 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 90, min time: 6 start!!! ====
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 32, in make_each_videos
+    make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/pfqvBSMxacE_total_time_75/knapsack.mp4:
+
+ b'knapsackTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id v9uu6v_vFOE original time 763 total time: 75, min time: 6 start!!! ====
+==== id nhBjLjJ3sAE original time 228 total time: 75, min time: 6 start!!! ====
+==== id hY_xJI5d1cg original time 578 total time: 75, min time: 6 start!!! ====
+==== id VGyhYYzMKdw original time 881 total time: 75, min time: 6 start!!! ====
+==== id r9tE-hCfJGY original time 446 total time: 75, min time: 6 start!!! ====
+==== id 1NMlByABOf0 original time 702 total time: 75, min time: 6 start!!! ====
+==== id aP41uqYo6SY original time 925 total time: 75, min time: 6 start!!! ====
+==== id 7azIIYjRsNk original time 762 total time: 75, min time: 6 start!!! ====
+==== id RwWx5pKS3eA original time 609 total time: 75, min time: 6 start!!! ====
+==== id HVFqPIbrPrw original time 497 total time: 75, min time: 6 start!!! ====
+==== id a2LHDA8w744 original time 1164 total time: 75, min time: 6 start!!! ====
+==== id jjgLH_470B4 original time 493 total time: 75, min time: 6 start!!! ====
+==== id m8tMMaN6hGA original time 577 total time: 75, min time: 6 start!!! ====
+==== id GiHyN5uw4Ho original time 943 total time: 75, min time: 6 start!!! ====
+==== id T5ZrXLD_rso original time 703 total time: 75, min time: 6 start!!! ====
+==== id udKE1ksKWDE original time 245 total time: 75, min time: 6 start!!! ====
+Error processing video udKE1ksKWDE: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/udKE1ksKWDE_total_time_75/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+Traceback (most recent call last):
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 136, in write_frame
+    self.proc.stdin.write(img_array.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 77, in <module>
+    make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 31, in make_each_videos
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+  File "/source/ms/highlight/main_archive/04_knapsack_thresh_run/util/makeVideo.py", line 23, in make_video
+    final_clip.write_videofile(output_filename, codec='libx264')
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/VideoClip.py", line 300, in write_videofile
+    ffmpeg_write_video(self, filename, fps, codec,
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 228, in ffmpeg_write_video
+    writer.write_frame(frame)
+  File "/source/ms/env/highlight/lib/python3.8/site-packages/moviepy/video/io/ffmpeg_writer.py", line 180, in write_frame
+    raise IOError(error)
+OSError: [Errno 32] Broken pipe
+
+MoviePy error: FFMPEG encountered the following error while writing file /source/ms/highlight/output/75/udKE1ksKWDE_total_time_75/threshold.mp4:
+
+ b'thresholdTEMP_MPY_wvf_snd.mp3: No such file or directory\n'
+
+==== id FBynfiRGdlc original time 896 total time: 75, min time: 6 start!!! ====
+==== id Cx_A8Z4Zdi8 original time 898 total time: 75, min time: 6 start!!! ====
+==== id vl7FyE-SHWU original time 601 total time: 75, min time: 6 start!!! ====
+==== id YqeI9b9LWh0 original time 672 total time: 75, min time: 6 start!!! ====
+==== id oYgGq1Y-kkQ original time 1030 total time: 75, min time: 6 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 75, min time: 6 start!!! ====
+==== id Vu4UaoJxK6U original time 736 total time: 75, min time: 6 start!!! ====
+==== id PlrmvnPfOtA original time 870 total time: 75, min time: 6 start!!! ====
+==== id lkCM5DyBxzg original time 1014 total time: 75, min time: 6 start!!! ====
+==== id rrGMENN1iaY original time 285 total time: 75, min time: 6 start!!! ====
+==== id BxgahWzTXGk original time 854 total time: 30, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 30, min time: 6 start!!! ====
+==== id EDQR3wEZbuo original time 735 total time: 45, min time: 6 start!!! ====
+==== id oYgGq1Y-kkQ original time 1030 total time: 30, min time: 6 start!!! ====
+==== id lNpN_FH8_Ac original time 742 total time: 45, min time: 4 start!!! ====

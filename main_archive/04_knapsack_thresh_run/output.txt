@@ -1,0 +1,10 @@
+PASS 2_oPSp74MJc due to length 1502
+==== id 92GOCxay1tA original time 644 total time: 60, min time: 6 start!!! ====
+start DP
+DP end with 127.97152614593506
+Video FPS: 59.94
+Moviepy - Building video ./output/weight_2/92GOCxay1tA_total_time_60_min_time_6/dp.mp4.
+MoviePy - Writing audio in dpTEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video ./output/weight_2/92GOCxay1tA_total_time_60_min_time_6/dp.mp4
+

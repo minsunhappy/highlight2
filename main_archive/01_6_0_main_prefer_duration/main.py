@@ -12,7 +12,7 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/general_sports"
-    OUTPUT = "output_best/"
+    OUTPUT = "output_best_revise_function2/"
     json_root = f"{ROOT}/highlight/json"
     video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
     # video_ids = ["92GOCxay1tA"]
@@ -22,12 +22,12 @@ if __name__ == "__main__":
     knapsack_length = 5
 
     ### parameters ###
-    T_MIN = 4
+    T_MIN = 2
     TOTAL_LENTH = 60
-    T_MAX = 30
-    PEAK_WEIGHT = 1.5
-    DURATION_WEIGHT = 0.2
-    dp_prefer_duration = (4, 8)     # 중심, 가장자리
+    T_MAX = 20
+    PEAK_WEIGHT = 2
+    DURATION_WEIGHT = 0.3
+    dp_prefer_duration = (4, 8)     # 영역
     # user_params = file_user_params(video_ids, T_MIN, TOTAL_LENTHS)
     ### parameters ###
 

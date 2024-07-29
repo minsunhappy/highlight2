@@ -3997,3 +3997,338 @@ DP end with 10.161695957183838
 ==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
 ==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
 ==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+DP end with 288.46031069755554
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+DP end with 298.28321599960327
+DP end with 278.7287883758545
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+DP end with 297.3774690628052
+DP end with 292.7523546218872
+DP end with 293.16713404655457
+DP end with 286.3466079235077
+DP end with 285.6935381889343
+DP end with 466.9666929244995
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+DP end with 29.225265741348267
+DP end with 28.03459930419922
+DP end with 28.23130202293396
+DP end with 27.942978143692017
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+DP end with 29.700060844421387
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+Error processing video qWUsjpQWsno in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 145: division by zero
+Traceback (most recent call last):
+  File "main.py", line 95, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 132, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 145, in R_intv
+    return np.exp(-((t - a_temp)/b)**2 )
+ZeroDivisionError: division by zero
+
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+Error processing video 0DwFOQeUkuI in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 145: division by zero
+Traceback (most recent call last):
+  File "main.py", line 95, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 132, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 145, in R_intv
+    return np.exp(-((t - a_temp)/b)**2 )
+ZeroDivisionError: division by zero
+
+DP end with 32.74852204322815
+DP end with 30.889312267303467
+DP end with 30.874254941940308
+DP end with 30.158403158187866
+DP end with 30.052006721496582
+DP end with 32.1820752620697
+DP end with 31.04400610923767
+DP end with 30.32456350326538
+DP end with 30.65766739845276
+DP end with 30.90938925743103
+DP end with 32.182121992111206
+DP end with 31.68645477294922
+DP end with 30.95247483253479
+DP end with 32.185659408569336
+DP end with 30.408440351486206
+DP end with 33.2965567111969
+DP end with 31.621877431869507
+DP end with 31.142151594161987
+DP end with 30.837962865829468
+DP end with 30.510295629501343
+DP end with 32.62526512145996
+DP end with 31.749152421951294
+DP end with 31.435447931289673
+DP end with 30.940755605697632
+DP end with 31.24709153175354
+DP end with 32.26756501197815
+DP end with 31.885424852371216
+DP end with 32.00386333465576
+DP end with 31.872380256652832
+DP end with 31.12852692604065
+DP end with 32.69474983215332
+DP end with 32.66331934928894
+DP end with 30.86210799217224
+DP end with 31.521125316619873
+DP end with 30.96260142326355
+DP end with 32.448286056518555
+DP end with 32.166892766952515
+DP end with 31.836775302886963
+DP end with 30.455300331115723
+DP end with 30.66767644882202
+DP end with 32.326393842697144
+DP end with 31.363166570663452
+DP end with 30.719356060028076
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+==== id qWUsjpQWsno original time 312 total time: 60, min time: 2 start!!! ====
+DP end with 36.54030108451843
+DP end with 33.997703552246094
+DP end with 33.02623772621155
+DP end with 32.290388107299805
+DP end with 32.87979578971863
+DP end with 36.76288914680481
+DP end with 34.995622396469116
+DP end with 33.70459842681885
+DP end with 33.85364866256714
+DP end with 32.91884183883667
+DP end with 37.595317363739014
+DP end with 34.78223776817322
+DP end with 34.4321563243866
+DP end with 33.99571132659912
+DP end with 34.34998607635498
+DP end with 37.159130573272705
+DP end with 36.34072422981262
+DP end with 36.39925479888916
+DP end with 34.013592004776
+DP end with 33.64719104766846
+DP end with 36.588228702545166
+DP end with 35.74189758300781
+DP end with 35.5196578502655
+DP end with 35.17446541786194
+DP end with 34.249300956726074
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+DP end with 32.39129090309143
+DP end with 32.01748538017273
+DP end with 32.00002360343933
+DP end with 30.443755626678467
+DP end with 30.546530723571777
+DP end with 31.95675039291382
+DP end with 31.530122995376587
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+DP end with 43.714579820632935
+DP end with 43.22633910179138
+DP end with 42.59529137611389
+DP end with 43.100563049316406
+DP end with 41.6844322681427
+DP end with 45.07392930984497
+DP end with 43.204975843429565
+DP end with 42.64825224876404
+DP end with 42.30349159240723
+DP end with 41.91728162765503
+DP end with 43.894004344940186
+DP end with 44.72152400016785
+DP end with 43.92707943916321
+DP end with 43.003170013427734
+DP end with 43.31861925125122
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+DP end with 43.05326867103577
+DP end with 43.72859573364258
+DP end with 43.48612117767334
+DP end with 42.88634443283081
+DP end with 42.2577760219574
+DP end with 42.65529012680054
+DP end with 42.764161586761475
+DP end with 42.479079723358154
+DP end with 42.704938888549805
+DP end with 42.56094527244568
+DP end with 43.168418407440186
+DP end with 42.94038963317871
+DP end with 44.78064465522766
+DP end with 42.48570370674133
+DP end with 42.36302900314331
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+==== id 0DwFOQeUkuI original time 337 total time: 60, min time: 2 start!!! ====
+DP end with 23.984910011291504
+DP end with 18.75962209701538
+DP end with 17.981828689575195
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+DP end with 282.8064332008362
+DP end with 277.4036502838135
+DP end with 275.94606733322144
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+DP end with 276.2815592288971
+DP end with 280.7141900062561
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+DP end with 397.23359775543213
+DP end with 388.1598541736603
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+DP end with 282.48685598373413
+DP end with 280.32275128364563
+DP end with 280.3062102794647
+DP end with 281.3270032405853
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+DP end with 12.679013967514038
+DP end with 12.2941415309906
+DP end with 12.270121574401855
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+DP end with 12.732131242752075
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+DP end with 13.648914098739624
+==== id jDCvKRnSMas original time 228 total time: 60, min time: 2 start!!! ====
+DP end with 286.6451880931854
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+DP end with 128.56320118904114
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+==== id 6y_g7UQd2sY original time 891 total time: 60, min time: 2 start!!! ====

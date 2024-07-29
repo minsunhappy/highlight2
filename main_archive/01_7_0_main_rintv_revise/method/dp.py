@@ -16,8 +16,8 @@ def DP(states, num_points, max_t, duration_weight, interval):
                 if dp[i, t, k - 1] != -np.inf:
                     for next_i, next_t in states[i][t].next_states:
                         if next_i < n and next_t < max_t:
-                            if next_t == 0:
-                                r_intv = duration_weight*R_table[t]
+                            if next_t == 0 or k == num_points: #마지막일 때
+                                    r_intv = duration_weight*R_table[t]
                             else:
                                 r_intv = 0
                             new_score = dp[i, t, k - 1] + states[next_i][next_t].score + r_intv
@@ -90,7 +90,7 @@ def set_next_states(states, min_time, max_t):
             if i + 1 < n and t + 1 < max_t :
                 states[i][t].next_states.append((i + 1, t + 1))
             if t >= min_time:
-                for j in range(i + 2, n):
+                for j in range(i + 2, n): #원래 2였음
                     states[i][t].next_states.append((j, 0))
 
 
@@ -141,7 +141,14 @@ def precompute_R_intv(max_t, interval):
 
 def R_intv(t, interval):
     a, b = interval
-    return np.exp(-((t - a)/b)**2 )
+    a_temp  = a - 1
+    return 1 / (1 + np.exp(-(t-a_temp)))
+
+
+# def R_intv(t, interval):
+#     a, b = interval
+#     a_temp  = a - 1
+#     return np.exp(-((t - a_temp)/b)**2 )
 
 # def R_intv(t, interval):
 #     a, b = interval

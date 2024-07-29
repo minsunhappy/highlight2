@@ -27,6 +27,6 @@ def make_video(video_path, output_dir, name, intervals):
 def make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time, dp_prefer_duration):
 
     a, b = dp_prefer_duration
+    make_video(video_path, output_dir, 'threshold', threshold_intervals)
     make_video(video_path, output_dir, f'dp_min_{min_time}_dur_{a}_{b}', dp_intervals)
-    # make_video(video_path, output_dir, 'threshold', threshold_intervals)
     # make_video(video_path, output_dir, 'knapsack', knapsack_intervals)

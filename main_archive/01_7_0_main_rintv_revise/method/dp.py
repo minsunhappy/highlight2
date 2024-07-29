@@ -3,18 +3,24 @@ import pdb
 
 def DP(states, num_points, max_t, duration_weight, interval):
     n = len(states)
-    max_t = num_points
+    # max_t = num_points
+    R_table = precompute_R_intv(max_t, interval)
+
     
-    dp = np.full((n, max_t + 1, num_points + 1), -np.inf)
+    dp = np.full((n, max_t, num_points + 1), -np.inf)
     dp[:, 0, 0] = 0
-    trace = np.full((n, max_t + 1, num_points + 1, 4), -1, dtype=int)
+    trace = np.full((n, max_t, num_points + 1, 4), -1, dtype=int)
     for i in range(n):
         for t in range(max_t):
             for k in range(1, num_points + 1):
                 if dp[i, t, k - 1] != -np.inf:
                     for next_i, next_t in states[i][t].next_states:
                         if next_i < n and next_t < max_t:
-                            new_score = dp[i, t, k - 1] + states[next_i][next_t].score + duration_weight*R_intv(next_t, t, interval)
+                            if next_t == 0:
+                                r_intv = duration_weight*R_table[t]
+                            else:
+                                r_intv = 0
+                            new_score = dp[i, t, k - 1] + states[next_i][next_t].score + r_intv
                             # if next_t == 0:
                             #     r_intv = duration_weight*R_intv(t, interval) 
                             #     # pdb.set_trace()
@@ -26,14 +32,14 @@ def DP(states, num_points, max_t, duration_weight, interval):
     return dp, trace
 
 
-def find_path(states, dp, trace, num_points=30, min_time=4):
+def find_path(states, dp, trace, num_points, min_time, max_time):
 
     n = len(states)
     max_score = -np.inf
     max_index = (-1, -1, -1)
-    max_t = num_points
+    max_t = max_time
     for i in range(n):
-        for t in range(max_t + 1):
+        for t in range(max_t):
             if t >= min_time: #마지막 점 최소 길이 넘겨야 함
                 if dp[i, t, num_points] > max_score:
                     max_score = dp[i, t, num_points]
@@ -120,16 +126,22 @@ def group_consecutive_points(points):
     # else:
         # return 0
 
-def R_intv(next_t, t, interval):
-    a, b = interval
-    if next_t == 0:
-        return np.exp(-((t - a)/b)**2 )
-    else:
-        return 0
+def precompute_R_intv(max_t, interval):
+    R_table = np.zeros(max_t + 1)
+    for i in range(max_t + 1):
+        R_table[i] = R_intv(i, interval)
+    return R_table
 
-# def R_intv(t, interval):
+# def R_intv(next_t, t, interval):
 #     a, b = interval
-#     return np.exp(-((t - a)/b)**2 )
+#     if next_t == 0:
+#         return np.exp(-((t - a)/b)**2 )
+#     else:
+#         return 0
+
+def R_intv(t, interval):
+    a, b = interval
+    return np.exp(-((t - a)/b)**2 )
 
 # def R_intv(t, interval):
 #     a, b = interval

@@ -3892,3 +3892,108 @@ DP end with 26.37366032600403
 ==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
 ==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
 ==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+DP end with 979.3715143203735
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+Error processing video 2FiouEjnspc in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 128: index 60 is out of bounds for axis 0 with size 60
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 128, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+IndexError: index 60 is out of bounds for axis 0 with size 60
+
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+Error processing video ksOQZ0z_PSQ in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 128: index 60 is out of bounds for axis 0 with size 60
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 128, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+IndexError: index 60 is out of bounds for axis 0 with size 60
+
+==== id lNpN_FH8_Ac original time 742 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+Error processing video 2FiouEjnspc in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 128: index 20 is out of bounds for axis 0 with size 20
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 128, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+IndexError: index 20 is out of bounds for axis 0 with size 20
+
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+Error processing video ksOQZ0z_PSQ in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 128: index 20 is out of bounds for axis 0 with size 20
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 128, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+IndexError: index 20 is out of bounds for axis 0 with size 20
+
+==== id lNpN_FH8_Ac original time 742 total time: 60, min time: 2 start!!! ====
+Error processing video lNpN_FH8_Ac in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 128: index 20 is out of bounds for axis 0 with size 20
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 7, in DP
+    R_table = precompute_R_intv(max_t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 128, in precompute_R_intv
+    R_table[i] = R_intv(i, interval)
+IndexError: index 20 is out of bounds for axis 0 with size 20
+
+==== id VGyhYYzMKdw original time 881 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+==== id 2FiouEjnspc original time 1102 total time: 60, min time: 2 start!!! ====
+Error processing video 2FiouEjnspc in file /source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py, line 44: index 21 is out of bounds for axis 1 with size 21
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 22, in run_DP
+    selected_points, max_score = find_path(states, dp, trace, num_points=self.total_time, min_time = self.min_t)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 44, in find_path
+    if dp[i, t, num_points] > max_score:
+IndexError: index 21 is out of bounds for axis 1 with size 21
+
+==== id ksOQZ0z_PSQ original time 935 total time: 60, min time: 2 start!!! ====
+DP end with 10.36303424835205
+DP end with 10.171162366867065
+DP end with 10.426100015640259
+DP end with 10.161695957183838
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====

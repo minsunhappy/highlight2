@@ -54,7 +54,7 @@ if __name__ == "__main__":
         print(f"TOTAL: {len(user_params)}")
         for i, user_param in enumerate(user_params):
             try:
-                for j in np.arange(0, 1.1, 0.1):
+                for j in np.arange(0.1, 1.1, 0.1):
                     DURATION_WEIGHT = j
                     print(f"==={i+1}/{len(user_params)}===")
                     video_id, total_time, t_min = user_param

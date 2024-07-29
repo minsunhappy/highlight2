@@ -19,7 +19,7 @@ class Run:
         states = create_states(self.scores_DP , self.max_t, self.interval, self.duration_weight)
         set_next_states(states, self.min_t, self.max_t)
         dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval) 
-        selected_points, max_score = find_path(states, dp, trace, num_points=self.total_time, min_time = self.min_t)
+        selected_points, max_score = find_path(states, dp, trace, num_points=self.total_time, min_time = self.min_t, max_time = self.max_t)
         grouped_points = group_consecutive_points(selected_points)
         dp_intervals = [(group[0], group[-1]) for group in grouped_points]
         end_time = time.time()

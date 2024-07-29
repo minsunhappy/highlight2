@@ -3605,3 +3605,290 @@ TypeError: set_next_states() takes 3 positional arguments but 5 were given
 DP end with 63.42799782752991
 ==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
 ==== id 6y_g7UQd2sY original time 891 total time: 60, min time: 2 start!!! ====
+DP end with 316.06541538238525
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+==== id 6y_g7UQd2sY original time 891 total time: 60, min time: 2 start!!! ====
+DP end with 293.9942660331726
+DP end with 297.736754655838
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+DP end with 458.35074520111084
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+Error processing video 3GgxdPhm5cM in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id 6y_g7UQd2sY original time 891 total time: 60, min time: 2 start!!! ====
+Error processing video 6y_g7UQd2sY in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id cY04XjQEJyE original time 879 total time: 60, min time: 2 start!!! ====
+Error processing video cY04XjQEJyE in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id qglffq44cbc original time 1194 total time: 60, min time: 2 start!!! ====
+Error processing video qglffq44cbc in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id zoHrtAXPzAk original time 820 total time: 60, min time: 2 start!!! ====
+Error processing video zoHrtAXPzAk in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 21, in DP
+    pdb.set_trace()
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id 3GgxdPhm5cM original time 642 total time: 60, min time: 2 start!!! ====
+Error processing video 3GgxdPhm5cM in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id 6y_g7UQd2sY original time 891 total time: 60, min time: 2 start!!! ====
+Error processing video 6y_g7UQd2sY in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id cY04XjQEJyE original time 879 total time: 60, min time: 2 start!!! ====
+Error processing video cY04XjQEJyE in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id qglffq44cbc original time 1194 total time: 60, min time: 2 start!!! ====
+Error processing video qglffq44cbc in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id zoHrtAXPzAk original time 820 total time: 60, min time: 2 start!!! ====
+Error processing video zoHrtAXPzAk in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 22, in DP
+    new_score =+ duration_weight*R_intv(t, interval)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+Error processing video L5x9oyZHKUM in file /source/ms/env/highlight/lib/python3.8/bdb.py, line 113: 
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 50, in run_all
+    dp_intervals = self.run_DP()
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/extractHighlight.py", line 21, in run_DP
+    dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval)
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 24, in DP
+    new_score =+ r_intv
+  File "/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/method/dp.py", line 24, in DP
+    new_score =+ r_intv
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/source/ms/env/highlight/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+
+DP end with 7.7370476722717285
+DP end with 7.492776393890381
+DP end with 7.625214099884033
+DP end with 7.345607757568359
+DP end with 7.702258110046387
+DP end with 7.4981114864349365
+DP end with 7.6374804973602295
+DP end with 7.560027599334717
+DP end with 7.449941635131836
+DP end with 7.336119890213013
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+DP end with 35.47797346115112
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+DP end with 26.367730140686035
+DP end with 26.162596225738525
+DP end with 26.191208839416504
+DP end with 26.506349325180054
+DP end with 26.277994394302368
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+DP end with 25.513768196105957
+DP end with 26.10062289237976
+DP end with 25.783273220062256
+DP end with 25.72113013267517
+DP end with 25.803672075271606
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+DP end with 25.796971559524536
+DP end with 25.26569414138794
+DP end with 25.205448150634766
+DP end with 25.19440746307373
+DP end with 25.62602996826172
+DP end with 25.00252604484558
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+DP end with 26.456556797027588
+DP end with 26.736011266708374
+DP end with 26.37366032600403
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====
+==== id L5x9oyZHKUM original time 208 total time: 60, min time: 2 start!!! ====

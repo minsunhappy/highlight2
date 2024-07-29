@@ -1,4 +1,5 @@
 import numpy as np
+import pdb
 
 def DP(states, num_points, max_t, duration_weight, interval):
     n = len(states)
@@ -7,22 +8,21 @@ def DP(states, num_points, max_t, duration_weight, interval):
     dp = np.full((n, max_t + 1, num_points + 1), -np.inf)
     dp[:, 0, 0] = 0
     trace = np.full((n, max_t + 1, num_points + 1, 4), -1, dtype=int)
-    cnt = 0
     for i in range(n):
         for t in range(max_t):
             for k in range(1, num_points + 1):
                 if dp[i, t, k - 1] != -np.inf:
                     for next_i, next_t in states[i][t].next_states:
                         if next_i < n and next_t < max_t:
-                            new_score = dp[i, t, k - 1] + states[next_i][next_t].score
-                            ## R_intv 추가
-                            if next_t == 0:
-                                cnt += 1
-                                new_score =+ duration_weight*R_intv(t, interval)
+                            new_score = dp[i, t, k - 1] + states[next_i][next_t].score + duration_weight*R_intv(next_t, t, interval)
+                            # if next_t == 0:
+                            #     r_intv = duration_weight*R_intv(t, interval) 
+                            #     # pdb.set_trace()
+                            #     # print(r_intv)
+                            #     new_score =+ r_intv
                             if new_score > dp[next_i, next_t, k]:
                                 dp[next_i, next_t, k] = new_score
                                 trace[next_i, next_t, k] = (i, t, next_i, next_t)
-    # print(f"segment number: {cnt}")
     return dp, trace
 
 
@@ -120,9 +120,16 @@ def group_consecutive_points(points):
     # else:
         # return 0
 
-def R_intv(t, interval):
+def R_intv(next_t, t, interval):
     a, b = interval
-    return np.exp(-((t - a)/b)**2 )
+    if next_t == 0:
+        return np.exp(-((t - a)/b)**2 )
+    else:
+        return 0
+
+# def R_intv(t, interval):
+#     a, b = interval
+#     return np.exp(-((t - a)/b)**2 )
 
 # def R_intv(t, interval):
 #     a, b = interval

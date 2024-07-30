@@ -142,9 +142,17 @@ def precompute_R_intv(max_t, interval):
 def R_intv(t, interval):
     a, b = interval #평균과 시그마
     if t < a:
-        return np.exp(-(t - a)**2 / (2 * b**2))
+        return 2*np.exp(-(t - a)**2 / (2 * b**2)) - 1
     else:
         return 1
+    
+
+# def R_intv(t, interval):
+#     a, b = interval #평균과 시그마
+#     if t < a:
+#         return np.exp(-(t - a)**2 / (2 * b**2))
+#     else:
+#         return 1
     
 # def R_intv(t, interval):
 #     a, b = interval

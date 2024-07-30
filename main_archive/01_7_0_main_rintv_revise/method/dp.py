@@ -90,7 +90,7 @@ def set_next_states(states, min_time, max_t):
             if i + 1 < n and t + 1 < max_t :
                 states[i][t].next_states.append((i + 1, t + 1))
             if t >= min_time:
-                for j in range(i + 2, n): #원래 2였음
+                for j in range(i + 5, n): #원래 2였음
                     states[i][t].next_states.append((j, 0))
 
 
@@ -140,9 +140,16 @@ def precompute_R_intv(max_t, interval):
 #         return 0
 
 def R_intv(t, interval):
-    a, b = interval
-    a_temp  = a - 1
-    return 1 / (1 + np.exp(-(t-a_temp)))
+    a, b = interval #평균과 시그마
+    if t < a:
+        return np.exp(-(t - a)**2 / (2 * b**2))
+    else:
+        return 1
+    
+# def R_intv(t, interval):
+#     a, b = interval
+#     a_temp  = a - 3
+#     return 1 / (1 + np.exp(-(t-a_temp)))
 
 
 # def R_intv(t, interval):

@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import os
+import pickle
+
 
 
 def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_duration, max_duration, threshold_value, dp_prefer_duration, duration_weight, peak_weight):
@@ -43,3 +45,5 @@ def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_inte
     a, b = dp_prefer_duration
     filename = os.path.join(output_dir, f'figure_min_{min_duration}_max_{max_duration}_dur_{a}_{b}_durweight_{duration_weight}_peak_{peak_weight}.png')
     plt.savefig(filename)
+    with open(os.path.join(output_dir,"interval.pkl"), 'wb') as f:
+        pickle.dump(intervals_list, f)

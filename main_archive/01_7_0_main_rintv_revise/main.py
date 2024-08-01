@@ -13,46 +13,38 @@ if __name__ == "__main__":
     ROOT = "/source/ms"
     # source_path = f"{ROOT}/highlight/source/general_sports"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./output_final/"
+    OUTPUT = "./output/0801_real_final/"
     json_root = f"{ROOT}/highlight/json"
     # video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
-    # video_ids = ["92GOCxay1tA"]
-    # download_videos(url_lst)
-    # video_ids = ["L5x9oyZHKUM"]
-    # video_ids = ["3GgxdPhm5cM", "6y_g7UQd2sY","cY04XjQEJyE", "qglffq44cbc", "zoHrtAXPzAk"]
-    # video_ids = ["ksOQZ0z_PSQ", "2FiouEjnspc","lNpN_FH8_Ac", "VGyhYYzMKdw"]
+
     video_ids = [
         "3GgxdPhm5cM",
-        "6y_g7UQd2sY",
+        "8LwZsvWFmrY",
         "cY04XjQEJyE",
-        "qglffq44cbc",
-        "zoHrtAXPzAk",
-        "1f3hzvhmcCs",
-        "6gvaICia5vM",
-        "CrdwY1mD-Us",
-        "dMXq5eGWsf4",
-        "FmhgvQZ-c2A",
-        "jk--p_7CUDE",
-        "MpXSUvq9tbE",
-        "vRUocR_wPVk",
-        "ksOQZ0z_PSQ",
-        "2FiouEjnspc",
-        "lNpN_FH8_Ac",
-        "VGyhYYzMKdw"
-         
-                 ]
+        "J8__TwOgTY0",
+        "lNpN_FH8_Ac"
+    ]
     TOTAL_LENTHS = [60]
     knapsack_length = 5
 
     ### parameters ###
-    T_MIN = 2
+    T_MIN = 1
     TOTAL_LENTH = 60
-    T_MAX = 20
+    T_MAX = 30
     PEAK_WEIGHT = 1
-    DURATION_WEIGHT = 1.5
-    dp_prefer_duration = (8, 4)     # 영역
+    DURATION_WEIGHT = 0.2
+    dp_prefer_duration = (8, 2)     # 영역
     user_params = file_user_params(video_ids, T_MIN, TOTAL_LENTHS)
+
     ### parameters ###
+    # user_params = [
+    #    ("xJcAcJ6BYLE", T_MIN, 50),
+    #    ("phcekstnfb0", T_MIN, 57),
+    #    ("nHCBZ_BZZl0", T_MIN, 58),
+    #    ("GiHyN5uw4Ho", T_MIN, 45),
+    #    ("", T_MIN, 50),
+       
+    # ]
 
 
 #     user_params = [
@@ -115,7 +107,7 @@ if __name__ == "__main__":
 
                 plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, t_min, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT)
                 
-                make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, t_min, dp_prefer_duration)
+                make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, t_min, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
 
             except Exception as e:
                 exc_type, exc_value, exc_tb = sys.exc_info()

@@ -26,9 +26,10 @@ def fetch_video_data(video_id, json_path, save = False):
             data = json.load(json_file)
     return data
 
+
 def get_mrd(video_id, json_path, total_length,  save = False):
     if save == False:
-        result = subprocess.run(['node', './util/most_replayed.js', video_id], capture_output=True, text=True)
+        result = subprocess.run(['node', '/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/util/most_replayed.js', video_id], capture_output=True, text=True)
         # JSON 형식의 데이터를 파싱하여 저장
         if result.stdout:
             data = json.loads(result.stdout)
@@ -45,10 +46,13 @@ def get_mrd(video_id, json_path, total_length,  save = False):
         with open(json_path, 'r') as json_file:
             data = json.load(json_file)
 
-    x_values, y_values = convert_svg(data["heatMap"], total_length)
+    _, y_values = convert_svg(data["heatMap"], total_length)
+    # x_values, y_values = convert_svg(data["heatMap"], total_length)
+    x_values = np.linspace(0, total_length, len(y_values))
 
     return  x_values, y_values 
 
+    return  x_values, y_values 
 def convert_svg(data, total_length):
     x_values = []
     y_values = []
@@ -72,10 +76,11 @@ def convert_svg(data, total_length):
                     y_values.append((100 - y3) / 100)  # heat 값 (0 to 1)
         # pdb.set_trace()
         # 마지막 x 값을 누적하여 다음 챕터 시작 위치 설정
-        accumulated_x = x_values[-1] 
+        accumulated_x = x_values[-1]
 
-    x_values_scaled, y_values_scaled  = normalize_to_range_with_y(x_values, y_values, total_length)
-    return x_values_scaled, y_values_scaled 
+
+    # x_values_scaled, y_values_scaled  = normalize_to_range_with_y(x_values, y_values, total_length)
+    return x_values, y_values
 
 
 def normalize_to_range_with_y(x_values, y_values, n):

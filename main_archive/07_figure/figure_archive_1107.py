@@ -57,8 +57,8 @@ def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, sco
     #     plt.axvline(x=g, color='black', linestyle='--', linewidth=1, alpha=0.5)
     peaks, _ = find_peaks(scores)
     # plt.scatter(scores_times[peaks], normalize(scores)[peaks], color='red', zorder=5)
-    # for peak in peaks:
-    #     plt.text(scores_times[peak], normalize(scores)[peak], f'{peak}', fontsize=8, ha='center', color='blue')
+    for peak in peaks:
+        plt.text(scores_times[peak], normalize(scores)[peak], f'{peak}', fontsize=8, ha='center', color='blue')
 
     # Remove grid
     plt.grid(False)

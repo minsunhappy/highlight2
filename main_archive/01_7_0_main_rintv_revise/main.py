@@ -49,7 +49,14 @@ if __name__ == "__main__":
 
 
     user_params = [
-        ("GZGY0wPAnus",60, T_MIN),
+        # ("BHY0FxzoKZE",120, T_MIN),
+        # ("Zo62S0ulqhA",120, T_MIN),
+        ("zORUUqJd81M",120, T_MIN),
+        ("P6FORpg0KVo",120, T_MIN),
+        ("n3Xv_g3g-mA",90, T_MIN),
+        ("lXfEK8G8CUI",90, T_MIN),
+        ("lheapd7bgLA",90, T_MIN),
+        ("wNDGgL73ihY",60, T_MIN),
     ]
 
     # max_t = 

@@ -15,12 +15,12 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./output/0801_real_final"
+    OUTPUT = "./output/1107_marked"
     json_root = f"{ROOT}/highlight/json"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
     youtube = build('youtube', 'v3', developerKey=api_key)
     video_ids = [
-        "GZGY0wPAnus",
+        "s5o2H3n6B-8",
         # "LPDnemFoqVk",
         # "u9HeRxo1Y74",
         # "fh7Ro3BNSOE",

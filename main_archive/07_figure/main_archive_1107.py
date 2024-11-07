@@ -3,7 +3,7 @@ from util.makeVideo import*
 from util.plotGraph import*
 from util.YTdownload import download_videos
 from extractHighlight import*
-from figure import*
+from figure_archive_1107 import*
 import traceback
 import sys
 import numpy as np
@@ -17,7 +17,7 @@ if __name__ == "__main__":
     json_root = f"{ROOT}/highlight/json"
 
     video_ids = [
-        "0PbKJJlUmPw",
+        "s5o2H3n6B-8",
         # "LPDnemFoqVk",
         # "u9HeRxo1Y74",
         # "fh7Ro3BNSOE",

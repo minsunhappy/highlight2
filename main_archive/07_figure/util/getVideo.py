@@ -41,9 +41,40 @@ def get_mrd(video_id, json_path, total_length,  save = False):
         with open(json_path, 'r') as json_file:
             data = json.load(json_file)
 
-    x_values, y_values = convert_svg(data["heatMap"], total_length)
+    _, y_values = convert_svg(data["heatMap"], total_length)
+    # x_values, y_values = convert_svg(data["heatMap"], total_length)
+    x_values = np.linspace(0, total_length, len(y_values))
 
     return  x_values, y_values 
+
+# def convert_svg(data, total_length):
+#     x_values = []
+#     y_values = []
+#     accumulated_x = 0  # 이전 챕터의 마지막 x 값을 누적
+
+#     for path in data:
+#         # 'C '로 구분하여 Bézier 커브 좌표 부분만 추출
+#         segments = path.split('C ')[1:]  # 'C '로 나눈 후 첫 번째 요소 제거
+#         seg_len = len(segments) - 1
+#         for i, segment in enumerate(segments):
+#             if i != seg_len: 
+#                 # 숫자 패턴을 통해 모든 좌표 값을 찾음
+#                 points = list(map(float, re.findall(r"[-+]?\d*\.\d+|\d+", segment)))
+                
+#                 # 세 번째 x, y 좌표 추출 및 변환
+#                 if len(points) >= 6:
+#                     x3 = points[4]
+#                     y3 = points[5]
+#                     # 변환된 x, y 값 추가, x는 누적된 값으로
+#                     x_values.append(accumulated_x + (x3 - 5) / 1000)  # 시간 스탬프 누적
+#                     y_values.append((100 - y3) / 100)  # heat 값 (0 to 1)
+#         # pdb.set_trace()
+#         # 마지막 x 값을 누적하여 다음 챕터 시작 위치 설정
+#         accumulated_x = x_values[-1] 
+
+#     x_values_scaled, y_values_scaled  = normalize_to_range_with_y(x_values, y_values, total_length)
+#     return x_values_scaled, y_values_scaled 
+
 
 def convert_svg(data, total_length):
     x_values = []
@@ -68,21 +99,23 @@ def convert_svg(data, total_length):
                     y_values.append((100 - y3) / 100)  # heat 값 (0 to 1)
         # pdb.set_trace()
         # 마지막 x 값을 누적하여 다음 챕터 시작 위치 설정
-        accumulated_x = x_values[-1] 
-
-    x_values_scaled, y_values_scaled  = normalize_to_range_with_y(x_values, y_values, total_length)
-    return x_values_scaled, y_values_scaled 
+        accumulated_x = x_values[-1]
 
 
-def normalize_to_range_with_y(x_values, y_values, n):
-    x_min = min(x_values)
-    x_max = max(x_values)
+    # x_values_scaled, y_values_scaled  = normalize_to_range_with_y(x_values, y_values, total_length)
+    return x_values, y_values
+
+
+
+# def normalize_to_range_with_y(x_values, y_values, n):
+#     x_min = min(x_values)
+#     x_max = max(x_values)
     
-    # x_values와 y_values를 정규화
-    normalized_x = [(x - x_min) / (x_max - x_min) * n for x in x_values]
-    # normalized_y = [(y - min(y_values)) / (max(y_values) - min(y_values)) * n for y in y_values]
+#     # x_values와 y_values를 정규화
+#     normalized_x = [(x - x_min) / (x_max - x_min) * n for x in x_values]
+#     # normalized_y = [(y - min(y_values)) / (max(y_values) - min(y_values)) * n for y in y_values]
 
-    return normalized_x, y_values
+#     return normalized_x, y_values
 
 def scale_to_n(x_values, n):
     max_x = max(x_values)

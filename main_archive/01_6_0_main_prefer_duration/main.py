@@ -11,39 +11,41 @@ import sys
 log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
-    source_path = f"{ROOT}/highlight/source/general_sports"
-    OUTPUT = "output_best_revise_function2/"
+    # source_path = f"{ROOT}/highlight/source/general_sports"
+    source_path = f"{ROOT}/highlight/source/general_video"
+    OUTPUT = "./output_0729/"
     json_root = f"{ROOT}/highlight/json"
-    video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
+    # video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
     # video_ids = ["92GOCxay1tA"]
     # download_videos(url_lst)
-    # video_ids = ["kpcryLm1WAk", "Cbij3MKhdOY","L6sbfskaTDQ"]
-    # TOTAL_LENTHS = [30, 60]
+    video_ids = ["3GgxdPhm5cM", "6y_g7UQd2sY","cY04XjQEJyE", "qglffq44cbc", "zoHrtAXPzAk"]
+    # video_ids = ["2FiouEjnspc", "ksOQZ0z_PSQ","lNpN_FH8_Ac", "VGyhYYzMKdw"]
+    TOTAL_LENTHS = [60]
     knapsack_length = 5
 
     ### parameters ###
     T_MIN = 2
     TOTAL_LENTH = 60
     T_MAX = 20
-    PEAK_WEIGHT = 2
+    PEAK_WEIGHT = 1
     DURATION_WEIGHT = 0.3
-    dp_prefer_duration = (4, 8)     # 영역
-    # user_params = file_user_params(video_ids, T_MIN, TOTAL_LENTHS)
+    dp_prefer_duration = (8, 10)     # 영역
+    user_params = file_user_params(video_ids, T_MIN, TOTAL_LENTHS)
     ### parameters ###
 
 
-    user_params = [
-        ("5mLnuCORMrU",TOTAL_LENTH, T_MIN),
-        ("2FiouEjnspc",TOTAL_LENTH, T_MIN),
-        ("ImntsoxN9_4",TOTAL_LENTH, T_MIN),
-        ("iYZMOa5WAds",TOTAL_LENTH, T_MIN),
-        ("jjgLH_470B4",TOTAL_LENTH, T_MIN),
-        ("ksOQZ0z_PSQ",TOTAL_LENTH, T_MIN),
-        ("lNpN_FH8_Ac",TOTAL_LENTH, T_MIN),
-        ("pfqvBSMxacE",TOTAL_LENTH, T_MIN),
-        ("VGyhYYzMKdw",TOTAL_LENTH, T_MIN),
-        ("Vu4UaoJxK6U",TOTAL_LENTH, T_MIN),      
-    ]
+#     user_params = [
+#         ("5mLnuCORMrU",TOTAL_LENTH, T_MIN),
+#         ("2FiouEjnspc",TOTAL_LENTH, T_MIN),
+#         ("ImntsoxN9_4",TOTAL_LENTH, T_MIN),
+#         ("iYZMOa5WAds",TOTAL_LENTH, T_MIN),
+#         ("jjgLH_470B4",TOTAL_LENTH, T_MIN),
+#         ("ksOQZ0z_PSQ",TOTAL_LENTH, T_MIN),
+#         ("lNpN_FH8_Ac",TOTAL_LENTH, T_MIN),
+#         ("pfqvBSMxacE",TOTAL_LENTH, T_MIN),
+#         ("VGyhYYzMKdw",TOTAL_LENTH, T_MIN),
+#         ("Vu4UaoJxK6U",TOTAL_LENTH, T_MIN),      
+#     ]
 
     # max_t = 
     # minimum_length = max(1, min(10, log(total_length / summary_length) * (summary_length / 60)))

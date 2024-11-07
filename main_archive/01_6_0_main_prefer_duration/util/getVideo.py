@@ -3,7 +3,7 @@ from scipy.interpolate import interp1d
 import numpy as np
 import json
 from scipy.signal import find_peaks
-
+import isodate
 
 
 
@@ -60,3 +60,19 @@ def file_user_params(video_ids, t_min, total_lengths):
 #     scores_copy = scores
 #     root_func = lambda x: np.power(x, 1/20)
 #     return np.where(scores >= 0.7, root_func(scores_copy), scores_copy)
+
+
+def get_video_duration(youtube, video_id):
+    # Call the videos().list method to get video details
+    response = youtube.videos().list(
+        part='contentDetails',
+        id=video_id
+    ).execute()
+    
+    # Extract the duration from the response
+    duration = response['items'][0]['contentDetails']['duration']
+    
+    # Parse the duration (ISO 8601 format) using isodate library
+    duration_in_seconds = isodate.parse_duration(duration).total_seconds()
+    
+    return duration_in_seconds

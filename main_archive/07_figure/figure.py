@@ -10,6 +10,10 @@ from scipy import interpolate
 from scipy import stats
 import json
 from collections import defaultdict
+from scipy.signal import find_peaks
+import matplotlib.ticker as ticker
+
+
 
 def draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_general, T_MIN, T_MAX, dp_prefer_duration, DURATION_WEIGHT,knapsack_length):
     if DRAW_EVENT_CNT:
@@ -29,33 +33,86 @@ def draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_gener
         plot_all(cnt_dic)
 
 
-def draw_sound_chat_graph(DRAW_SOUND_CHAT_GRAPH, scores, scores_times, sound_path, chat_path, goal, yellow_card):
-    if DRAW_SOUND_CHAT_GRAPH:
-        x_chat, y_chat, chat_similarity = chat_graph(chat_path, scores)
-        best_window_size, sound_similarity, x_sound, y_sound  = sound_graph(sound_path, scores, scores_times)
-        pdb.set_trace()
-        plt.figure(figsize=(14, 3))
-        plt.plot(scores_times, normalize(scores), label='MRD', color='black', linewidth = 2, alpha=0.5)
-        plt.plot(x_sound, y_sound, label='Sound', color='blue', linewidth = 2, alpha=0.5)
-        plt.plot(x_chat, normalize(y_chat), label='Chat', color='green', linewidth = 2, alpha=0.5)
-        for g in goal:
-            plt.axvline(x=g, color='black', linestyle='--', linewidth = 2,  alpha=0.5,)
-        # for yc in yellow_card:
-        #     plt.axvline(x=yc, color='gray', linestyle='-.', alpha=0.7,  label='Yellow Card' if yc == yellow_card[0] else "")
-            
-        plt.title(f"Sound: 0.79, Chat: {chat_similarity:.2f}", fontsize=16)
-        # plt.title(f"Sound: {sound_similarity:.2f}, Chat: {chat_similarity:.2f}", fontsize=16)
-        plt.xlabel("Time (minutes)", fontsize=12)
-        plt.legend(fontsize=10)
-        plt.grid(True, linestyle='--', alpha=0.7)
-        plt.savefig("./output/sound_chat_graph.png", format='png')
+def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, scores, scores_times, sound_path, chat_path, sound_window, output):
+    # pdb.set_trace()
+    plt.figure(figsize=(10, 2))
+    # MRD plot with stronger visual presence
+    # plt.plot(scores_times, normalize(scores), color='#FF4500', linewidth=2, alpha=0.7)
+    sound_similarity = 0
+    chat_similarity = 0
+    # Sound plot with softer color
+    if DRAW_SOUND:
+        best_window_size, sound_similarity, x_sound, y_sound  = sound_graph(video_id, sound_path, intensity_scores, scores_times, sound_window)
+        plt.plot(x_sound, normalize(y_sound),  color='#55A7BC', linewidth=1, )
+        # plt.plot(x_sound, normalize(y_sound),  color='#55A7BC', linewidth=1, )
+        # plt.plot(x_sound, normalize(y_sound),  color='#4682B4', linewidth=2, alpha=0.7)
+    if DRAW_CHAT:
+        # Chat plot with a different color but harmonious with others
+        x_chat, y_chat, chat_similarity = chat_graph(chat_path, intensity_scores)
+        plt.plot(x_chat, normalize(y_chat),  color='gray', linewidth=1, linestyle='--' )
+        # plt.plot(x_chat, normalize(y_chat),  color='#f08336', linewidth=1)
+        # plt.plot(x_chat, normalize(y_chat),  color='#32CD32', linewidth=2, alpha=0.7)
+
+    plt.plot(scores_times, normalize(intensity_scores), color='black', linewidth=1, alpha=0.7,)
+    # Add goals with vertical lines
+    # for g in goal:
+    #     plt.axvline(x=g, color='black', linestyle='--', linewidth=1, alpha=0.5)
+    peaks, _ = find_peaks(scores)
+    # plt.scatter(scores_times[peaks], normalize(scores)[peaks], color='red', zorder=5)
+    # for peak in peaks:
+    #     plt.text(scores_times[peak], normalize(scores)[peak], f'{peak}', fontsize=8, ha='center', color='blue')
+
+    # Remove grid
+    plt.grid(False)
+    # plt.xlim(0, 99)
+
+    plt.xticks( fontsize=14)
+    
+    # plt.xticks(np.arange(0, 101, 20))
+
+    # Removing the box around the plot and adding arrowed axes
+    plt.gca().spines['top'].set_color('none')
+    plt.gca().spines['right'].set_color('none')
+    # plt.gca().spines['left'].set_color('none')
+
+    plt.gca().spines['bottom'].set_position('zero')
+    plt.gca().spines['left'].set_position('zero')
+    
+
+    # Add arrow for x-axis
+    # plt.annotate('', xy=(1, 0), xytext=(0, 0), arrowprops=dict(facecolor='black', arrowstyle='->'))
 
 
-        # print(best_window_size, best_similarity)
-        # chat_scores = chat_graph(chat_path)
+    # Remove y-axis ticks and labels
+    plt.gca().yaxis.set_ticks([])
+
+    # Add label for x-axis at the end of the arrow
+    # plt.text(92, -0.05, 'Time (minutes)', fontsize=12)
+
+    # Add title
+    plt.title(f"Sound: {sound_similarity:.2f}, Chat: {chat_similarity:.2f}, {video_id}", fontsize=10)
+    ax = plt.gca()
+
+# x축 포맷과 간격 설정
+    ax.xaxis.set_major_formatter(ticker.FuncFormatter(format_func))
+    ax.xaxis.set_major_locator(ticker.MultipleLocator(120))
+
+    # Add legend
+    # plt.legend(fontsize=7)
+    os.makedirs(f"./{output}", exist_ok=True)
+    save_fig = f"./{output}/sound_chat_graph_{video_id}.png"
+    plt.savefig(f"{save_fig}", format='png')
+    print(f"Figure saved in {save_fig}")
+
+
+    # print(best_window_size, best_similarity)
+    # chat_scores = chat_graph(chat_path)
 
 
 
+def format_func(value, tick_number):
+    minutes = int(value / 60)
+    return f'{minutes}'
 
 ###### chat ############################################################################
 def chat_graph(chat_path, scores):
@@ -113,8 +170,8 @@ def count_messages_per_minute(messages):
 
 ##### sound ###############################################################
 
-def sound_graph(sound_path, scores, scores_times):
-    rms_path = './input/rms.npy'
+def sound_graph(video_id, sound_path, scores, scores_times, sound_window):
+    rms_path = f'./input/rms_{video_id}.npy'
     sr = 22050  # 기본 샘플링 레이트
     frame_length = int(sr * 0.05)  
     hop_length = int(sr * 0.025)  
@@ -135,10 +192,12 @@ def sound_graph(sound_path, scores, scores_times):
         np.save(rms_path, rms)
     # 소리 크기(RMS) 계산
  
-    times = librosa.times_like(rms, sr=sr, hop_length=hop_length) / 60
+    times = librosa.times_like(rms, sr=sr, hop_length=hop_length) 
+    best_window_size, best_similarity = find_optimal_window_size(times, rms, scores, 100, 2000)
     # best_window_size, best_similarity = find_optimal_window_size(times, rms, scores)
-    best_window_size = 4600
-    best_similarity = 0.79
+    # best_window_size = sound_window
+    print(best_window_size)
+    # best_similarity = 0.00
     sound_ma = np.convolve(rms, np.ones(best_window_size), 'valid') / best_window_size
     sound_ma_times = times[:len(sound_ma)]
     norm_sound = normalize(sound_ma)
@@ -159,7 +218,7 @@ def resample(x, y, num_points):
     y_new = f(x_new)
     return x_new, y_new
 
-def find_optimal_window_size(times, rms, intensity_scores, min_window=100, max_window=10000, step=100):
+def find_optimal_window_size(times, rms, intensity_scores, min_window=4600, max_window=4600, step=100):
     best_window_size = min_window
     best_similarity = -1
 
@@ -181,8 +240,32 @@ def find_optimal_window_size(times, rms, intensity_scores, min_window=100, max_w
         if cos_sim > best_similarity:
             best_similarity = cos_sim
             best_window_size = window_size
-
+        # best_similarity =
     return best_window_size, best_similarity
+# def find_optimal_window_size(times, rms, intensity_scores, min_window=100, max_window=10000, step=100):
+#     best_window_size = min_window
+#     best_similarity = -1
+
+#     for window_size in range(min_window, max_window + 1, step):
+#         # Calculate moving average
+#         ma_rms = moving_average(rms, window_size)
+#         ma_times = times[:len(ma_rms)]
+
+#         # Normalize data
+#         normalize_ma_rms = normalize(ma_rms)
+#         normalize_scores = normalize(intensity_scores)
+
+#         # Resample ma_rms to match the time points of intensity_scores
+#         x_resampled, y_resampled = resample(ma_times, normalize_ma_rms, len(intensity_scores))
+
+#         # Calculate cosine similarity
+#         cos_sim = cosine_similarity(y_resampled.reshape(1, -1), normalize_scores.reshape(1, -1))[0][0]
+
+#         if cos_sim > best_similarity:
+#             best_similarity = cos_sim
+#             best_window_size = window_size
+#         # best_similarity =
+#     return best_window_size, best_similarity
 
 
 

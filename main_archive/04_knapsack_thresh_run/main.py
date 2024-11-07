@@ -10,20 +10,48 @@ import traceback
 log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
-    OUTPUT = "output/other_genres"
-    source_path = f"{ROOT}/highlight/source/general_sports"
+    OUTPUT = "./output/ks_time_2"
+    source_path = f"{ROOT}/highlight/source/all"
     json_root = f"{ROOT}/highlight/json"
     # video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
     # print(f"ALL VIDEOS {len(video_ids)}")
-    video_ids = ["lNpN_FH8_Ac"]
+    # video_ids = ["lNpN_FH8_Ac"]
     # download_videos(url_lst)
-    # video_ids = ["kpcryLm1WAk", "Cbij3MKhdOY","L6sbfskaTDQ"]
+    # video_ids = ["cY04XjQEJyE"]
+    # video_ids = ["1zJ5tMF4YkI", "3GgxdPhm5cM","6y_g7UQd2sY","cY04XjQEJyE", "DN-kU28UYN4", "DzcH9eNFVto", "qglffq44cbc", "zoHrtAXPzAk"]
+
+    video_ids = [
+        # "5mLnuCORMrU",
+        # "2FiouEjnspc",
+        # "ImntsoxN9_4",
+        # "iYZMOa5WAds",
+        # "jjgLH_470B4",
+        # "ksOQZ0z_PSQ",
+        # "lNpN_FH8_Ac",
+        # "pfqvBSMxacE",
+        # "VGyhYYzMKdw",
+        # "Vu4UaoJxK6U"
+    ]
+
+
+    # user_params = [
+    #     ("5mLnuCORMrU",TOTAL_LENTH, T_MIN),
+    #     ("2FiouEjnspc",TOTAL_LENTH, T_MIN),
+    #     ("ImntsoxN9_4",TOTAL_LENTH, T_MIN),
+    #     ("iYZMOa5WAds",TOTAL_LENTH, T_MIN),
+    #     ("jjgLH_470B4",TOTAL_LENTH, T_MIN),
+    #     ("ksOQZ0z_PSQ",TOTAL_LENTH, T_MIN),
+    #     ("lNpN_FH8_Ac",TOTAL_LENTH, T_MIN),
+    #     ("pfqvBSMxacE",TOTAL_LENTH, T_MIN),
+    #     ("VGyhYYzMKdw",TOTAL_LENTH, T_MIN),
+    #     ("Vu4UaoJxK6U",TOTAL_LENTH, T_MIN),      
+    # ]
     user_params = [
         # (60,8),
         # (30,10),
         # (45,5),
         # (30,5),
-        (45,4),
+        (60,4),
         # (60,4),
         # (90,5),
         # (120,10),
@@ -31,7 +59,7 @@ if __name__ == "__main__":
         # (180,12),
         # (180,5)
     ]
-    knapsack_length = 5
+    knapsack_length = 1
     weight = 2
     # max_t = 
     # minimum_length = max(1, min(10, log(total_length / summary_length) * (summary_length / 60)))
@@ -47,16 +75,16 @@ if __name__ == "__main__":
                 total_length = len(smoothed_scores_general)
                 # print(f"Total lengths:{total_length}")
                 video_path = os.path.join(source_path, f'{video_id}.mp4')
-                if total_length > 1200:
-                    print(f"PASS {video_id} due to length {total_length}")
-                    continue
+                # if total_length > 1200:
+                #     print(f"PASS {video_id} due to length {total_length}")
+                #     continue
                 
                 for user_param in user_params:
                     total_time, min_time = user_param
                     # knapsack_length = min_time
                     message = f"==== id {video_id} original time {total_length} total time: {total_time}, min time: {min_time} start!!! ===="
                     print(message)
-                    output_dir = f'{ROOT}/highlight/{OUTPUT}/{video_id}_total_time_{total_time}'
+                    output_dir = f'{OUTPUT}/{video_id}_total_time_{total_time}'
                     
                     # if os.path.exists(output_dir):
                     #     print(f"{output_dir} already exists!!!")
@@ -84,5 +112,6 @@ if __name__ == "__main__":
                 log.write(error_message)
                 log.write(traceback.format_exc() + "\n")  # 상세한 에러 정보를 로그에 기록
                 continue
+            
 
 

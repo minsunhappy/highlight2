@@ -26,7 +26,8 @@ import random
 def make_video(video_path, output_dir, name, intervals):
     clips = []
     for interval in intervals:
-        start_time, end_time = interval
+        start_time = interval[0] 
+        end_time = interval[-1]
         end_time += 1
         clip = VideoFileClip(video_path).subclip(start_time, end_time)
         clips.append(clip)
@@ -36,28 +37,39 @@ def make_video(video_path, output_dir, name, intervals):
     print(f"Video FPS: {final_clip.fps}")
     final_clip.write_videofile(output_filename, codec='libx264')
 
-def random_intervals(dp_intervals, total_time, total_length):
+def make_random_lst(dp_intervals, total_time, total_length):
     chunk_num = len(dp_intervals)
-    count_num = int(len(total_time/chunk_num))
-    numbers = list(range(1, total_length + 1))
+    count_num = total_time / chunk_num
+    count_num_int = int(total_time / chunk_num)
+    available_starts = list(range(1, total_length - count_num_int + 2))
     result = []
     
     for _ in range(chunk_num):
-        if len(numbers) < count_num:
+        if not available_starts:
             break
         
-        start = random.randint(0, len(numbers) - count_num)
-        group = numbers[start:start+count_num]
+        start = random.choice(available_starts)
+        group = (start, start + count_num - 1)
         result.append(group)
         
-        for num in group:
-            numbers.remove(num)
+        # 선택된 그룹과 겹치는 시작점들을 제거
+        available_starts = [x for x in available_starts if x > start + count_num - 1 or x + count_num - 1 < start]
+    
+    # 결과를 시작 숫자를 기준으로 정렬
+    result.sort(key=lambda x: x[0])
+    
     return result
+
+
 
 def make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time, dp_prefer_duration, weight, total_time, total_length):
 
+    # random_interval = make_random_lst(dp_intervals, total_time, total_length)
+    # print(random_interval)
+    # make_video(video_path, output_dir, 'random', random_interval)
     a, b = dp_prefer_duration
-    make_video(video_path, output_dir, 'threshold', threshold_intervals)
+    # make_video(video_path, output_dir, 'threshold', threshold_intervals)
     make_video(video_path, output_dir, f'dp_min_{min_time}_dur_{a}_{b}_weight_{weight}', dp_intervals)
     # make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
-    make_video(video_path, output_dir, 'random', dp_intervals, total_time, total_length)
+
+    #random video

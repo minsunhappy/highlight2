@@ -80,7 +80,7 @@ if __name__ == "__main__":
                 )
                 dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
 
-                plot_summaries("./", start_minute, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_time, threshold_c)
+                # plot_summaries("./", start_minute, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_time, threshold_c)
                 
                 cnt_dic["DP"].append((interval_time(dp_intervals), event_cnt(dp_intervals, event_lst)))
                 cnt_dic["Threshold"].append((interval_time(threshold_intervals), event_cnt(threshold_intervals, event_lst)))

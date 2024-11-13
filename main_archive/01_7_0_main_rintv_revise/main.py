@@ -13,7 +13,7 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "output/1106"
+    OUTPUT = "output/1109_education"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
@@ -49,15 +49,8 @@ if __name__ == "__main__":
 
 
     user_params = [
-        # ("BHY0FxzoKZE",120, T_MIN),
-        # ("Zo62S0ulqhA",120, T_MIN),
-        ("zORUUqJd81M",120, T_MIN),
-        ("P6FORpg0KVo",120, T_MIN),
-        ("n3Xv_g3g-mA",90, T_MIN),
-        ("lXfEK8G8CUI",90, T_MIN),
-        ("lheapd7bgLA",90, T_MIN),
-        ("wNDGgL73ihY",60, T_MIN),
-    ]
+
+]
 
     # max_t = 
     # minimum_length = max(1, min(10, log(total_length / summary_length) * (summary_length / 60)))
@@ -71,13 +64,13 @@ if __name__ == "__main__":
             json_path = f'{json_root}/{video_id}.json'
             # data = fetch_video_data(video_id, json_path, save = False)
             download_youtube_video(video_id, source_path)
-            # intensity_scores = get_mrd(video_id, json_path, save = False)
             total_length = int(get_video_duration(youtube, video_id))
-            start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))
+            start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save =False)
+            # start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))
             smoothed_scores_general = interpolate(start_seconds, intensity_scores)
             smoothed_scores_DP = apply_transform(smoothed_scores_general, PEAK_WEIGHT)
             video_path = os.path.join(source_path, f'{video_id}.mp4')
-            plot_basic_mrd(start_seconds, smoothed_scores_general, f"{OUTPUT}/{video_id}.png")
+            # plot_basic_mrd(start_seconds, smoothed_scores_general, f"{OUTPUT}/{video_id}.png")
             # pdb.set_trace()
 
             # if total_length > 1000:

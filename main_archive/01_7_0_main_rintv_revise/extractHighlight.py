@@ -48,6 +48,7 @@ class Run:
         threshold, threshold_intervals = self.run_threshold()
         # knapsack_intervals = []
         knapsack_intervals = self.run_knapsack(knapsack_length)
+        # dp_intervals =  self.run_knapsack(knapsack_length)
         dp_intervals = self.run_DP()
 
         return dp_intervals, threshold, threshold_intervals, knapsack_intervals

@@ -15,6 +15,14 @@ import matplotlib.ticker as ticker
 
 
 
+def download_youtube_comments(youtube_id, output_path):
+    try:
+        command = ["python", "./youtube_livechat_replay_crawler/continuation_livechat_crawler/locally_run.py", youtube_id]
+        subprocess.run(command, check=True)
+        print(f"Comments downloaded successfully to {output_path}")
+    except subprocess.CalledProcessError as e:
+        print(f"Error downloading comments: {e}")
+
 def draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_general, T_MIN, T_MAX, dp_prefer_duration, DURATION_WEIGHT,knapsack_length):
     if DRAW_EVENT_CNT:
         cnt_dic = {"DP":[], "Threshold":[]}
@@ -33,7 +41,7 @@ def draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_gener
         plot_all(cnt_dic)
 
 
-def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, scores, scores_times, sound_path, chat_path, sound_window, output):
+def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, scores, scores_times, sound_path, chat_path, sound_window, output, goal):
     # pdb.set_trace()
     plt.figure(figsize=(10, 2))
     # MRD plot with stronger visual presence
@@ -48,20 +56,25 @@ def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, sco
         # plt.plot(x_sound, normalize(y_sound),  color='#4682B4', linewidth=2, alpha=0.7)
     if DRAW_CHAT:
         # Chat plot with a different color but harmonious with others
+        if os.path.exists(chat_path) == False:
+            download_youtube_comments(video_id, chat_path)
         x_chat, y_chat, chat_similarity = chat_graph(chat_path, intensity_scores)
-        plt.plot(x_chat, normalize(y_chat),  color='gray', linewidth=1, linestyle='--' )
+        plt.plot(x_chat*60, normalize(y_chat),  color='gray', linewidth=1, linestyle='--' )
         # plt.plot(x_chat, normalize(y_chat),  color='#f08336', linewidth=1)
         # plt.plot(x_chat, normalize(y_chat),  color='#32CD32', linewidth=2, alpha=0.7)
-
+    # pdb.set_trace()
     plt.plot(scores_times, normalize(intensity_scores), color='black', linewidth=1, alpha=0.7,)
+    # plt.plot(scores_times, normalize(intensity_scores), color='black', linewidth=1, alpha=0.7,)
     # Add goals with vertical lines
-    # for g in goal:
-    #     plt.axvline(x=g, color='black', linestyle='--', linewidth=1, alpha=0.5)
-    # peaks, _ = find_peaks(intensity_scores)
+    for g in goal:
+        plt.axvline(x=g, color='red', linewidth=1, alpha=0.5)
+    peaks, _ = find_peaks(intensity_scores, prominence=0.3)
     # # plt.scatter(scores_times[peaks], normalize(scores)[peaks], color='red', zorder=5)
-    # for peak in peaks:
-    #     plt.text(scores_times[peak], normalize(intensity_scores)[peak], f'{peak}', fontsize=8, ha='center', color='blue')
-
+    # pdb.set_trace()k
+    for peak in peaks:
+        if intensity_scores[peak] > 0.4:
+            plt.text(scores_times[peak], intensity_scores[peak], f'({scores_times[peak]:.2f}, {intensity_scores[peak]:.2f})',
+                    fontsize=8, ha='center', color='blue')
     # Remove grid
     plt.grid(False)
     # plt.xlim(0, 99)
@@ -95,7 +108,7 @@ def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, sco
 
 # x축 포맷과 간격 설정
     ax.xaxis.set_major_formatter(ticker.FuncFormatter(format_func))
-    ax.xaxis.set_major_locator(ticker.MultipleLocator(120))
+    # ax.xaxis.set_major_locator(ticker.MultipleLocator(1200))
 
     # Add legend
     # plt.legend(fontsize=7)
@@ -121,20 +134,17 @@ def chat_graph(chat_path, scores):
     minutes = sorted(message_counts.keys())
     time = np.array(list(message_counts.keys()))
     chat_counts = np.array(list(message_counts.values()))
-
+    # pdb.set_trace()
     # 채팅 갯수의 변화(속도) 계산
     chat_speed = [abs(chat_counts[i] - chat_counts[i - 1]) for i in range(1, len(chat_counts))]
     chat_speed.insert(0, chat_speed[0])  # 첫 번째 값은 0으로
     normalize_data = normalize(chat_speed)
     # x_chat_speed = np.linspace(0, 1, len(minutes))
     # x_scores = np.linspace(0, 1, len(scores))
-
     # normalize_ma_rms_cropped를 normalize_scores_cropped의 길이에 맞춰 리샘플링
     x_resampled, y_resampled = resample(time, normalize_data, len(scores))
     cos_sim = cosine_similarity(y_resampled.reshape(1, -1), np.array(scores).reshape(1, -1))[0][0]
-
-
-
+    # pdb.set_trace()
 
     return x_resampled, y_resampled, cos_sim
 

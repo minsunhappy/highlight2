@@ -15,19 +15,23 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./output/1107_marked"
+    OUTPUT = "./output/1112"
     json_root = f"{ROOT}/highlight/json"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
     youtube = build('youtube', 'v3', developerKey=api_key)
     video_ids = [
-        "s5o2H3n6B-8",
-        # "LPDnemFoqVk",
-        # "u9HeRxo1Y74",
-        # "fh7Ro3BNSOE",
-        # "SvV6aUki6LU"
+        # "BF2TZq-ntRQ",
+        # ("BF2TZq-ntRQ", [0, 39, 103, 154, 258, 358, 410, 551, 600, 707]), 
+        # ("gCr4Pg9mEA4",  [0, 24, 69, 154, 302, 364, 662, 854, 1006, 1926]),
+        # ("w2itwFJCgFQ",  [0, 38, 76, 112, 184, 277, 382, 485, 663, 887]),
+        # ("DxL2HoqLbyA",  [0, 31, 135, 285, 540, 960, 1160, 1320, 1480, 1554]),
+        # ("AF8d72mA41M",  [0, 15, 54, 112, 209, 280, 542, 722, 1322, 1708]),
+        ("4SSVr3EKTlM", [0, 55, 183, 264, 361, 480, 662, 830, 1020, 1484]),
+
+
     ]
     TOTAL_LENTHS = [60]
-    goal = [15, 43, 52, 62, 68, 73, 97]
+    # goal = [15, 43, 52, 62, 68, 73, 97]
     yellow_card = [13]
     # all_lst = [13, 15, 21, 43, 45, 52, 54, 62, 68, 73, 76, 77, 97] #일단 골로 먼저 해보자.
     # knapsack_length = 5
@@ -41,9 +45,9 @@ if __name__ == "__main__":
     ########
     DRAW_EVENT_CNT = False
     cnt_length = 30
-    target_lst = goal
+    # target_lst = goal
 
-    DRAW_SOUND = True
+    DRAW_SOUND = False
     DRAW_CHAT = False
     # video_id
     #######
@@ -53,17 +57,18 @@ if __name__ == "__main__":
 
     sound_window = 4600
     with open(log_file, "a") as log:
-        for i, user_param in enumerate(user_params):
+        for i, user_param in enumerate(video_ids):
             # try:
             
-            video_id, _, _ = user_param
+            video_id, goal = user_param
             print(f"========{video_id}========")
             sound_path = f"./input/{video_id}.wav"
             chat_path = f"./input/chatlog_replay_{video_id}.json"
                 
-            download_audio_as_wav(video_id, sound_path)
+            download_audio_as_wav(video_id, sound_path, DRAW_SOUND)
             json_path = f'{json_root}/{video_id}.json'
             total_length = int(get_video_duration(youtube, video_id))
+            # start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = False)
             start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))
             peaks, _ = find_peaks(intensity_scores)
             # print(peaks)
@@ -74,8 +79,8 @@ if __name__ == "__main__":
             video_path = os.path.join(source_path, f'{video_id}.mp4')
 
             
-            draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_general, T_MIN, T_MAX, dp_prefer_duration, DURATION_WEIGHT,knapsack_length)
-            draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, smoothed_scores_general, start_seconds, sound_path, chat_path, sound_window, OUTPUT)
+            # draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_general, T_MIN, T_MAX, dp_prefer_duration, DURATION_WEIGHT,knapsack_length)
+            draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, smoothed_scores_general, start_seconds, sound_path, chat_path, sound_window, OUTPUT, goal)
             total_times = np.arange(1, total_length, 1)
 
             # except Exception as e:

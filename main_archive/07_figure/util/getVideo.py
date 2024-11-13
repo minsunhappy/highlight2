@@ -187,9 +187,9 @@ def get_video_duration(youtube, video_id):
     return duration_in_seconds
 
 
-def download_audio_as_wav(video_id, output):
+def download_audio_as_wav(video_id, output, DRAW_SOUND):
     # pdb.set_trace()
-    if os.path.exists(output) == False:
+    if (os.path.exists(output) == False) and (DRAW_SOUND == True):
         url = f"https://www.youtube.com/watch?v={video_id}"
         # yt-dlp 명령어 구성
         command = [

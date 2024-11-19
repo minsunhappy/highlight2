@@ -41,9 +41,9 @@ def draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_gener
         plot_all(cnt_dic)
 
 
-def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, scores, scores_times, sound_path, chat_path, sound_window, output, goal):
+def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, scores, scores_times, sound_path, chat_path, sound_window, output, goal, INFO):
     # pdb.set_trace()
-    plt.figure(figsize=(10, 2))
+    plt.figure(figsize=(10, 1.5))
     # MRD plot with stronger visual presence
     # plt.plot(scores_times, normalize(scores), color='#FF4500', linewidth=2, alpha=0.7)
     sound_similarity = 0
@@ -66,15 +66,19 @@ def draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, sco
     plt.plot(scores_times, normalize(intensity_scores), color='black', linewidth=1, alpha=0.7,)
     # plt.plot(scores_times, normalize(intensity_scores), color='black', linewidth=1, alpha=0.7,)
     # Add goals with vertical lines
-    for g in goal:
-        plt.axvline(x=g, color='red', linewidth=1, alpha=0.5)
-    peaks, _ = find_peaks(intensity_scores, prominence=0.3)
-    # # plt.scatter(scores_times[peaks], normalize(scores)[peaks], color='red', zorder=5)
-    # pdb.set_trace()k
-    for peak in peaks:
-        if intensity_scores[peak] > 0.4:
+    # for g in goal:
+    #     plt.axvline(x=g, color='red', linewidth=1, alpha=0.5)
+    peaks, _ = find_peaks(intensity_scores, prominence=0.1)
+    print(peaks)
+
+# intensity_scores 기준으로 내림차순 정렬하여 상위 5개 선택
+    top_5_peaks = sorted(peaks, key=lambda x: intensity_scores[x], reverse=True)[:5]
+
+    # 상위 5개 피크에 대해 텍스트 표시
+    if INFO:
+        for peak in top_5_peaks:
             plt.text(scores_times[peak], intensity_scores[peak], f'({scores_times[peak]:.2f}, {intensity_scores[peak]:.2f})',
-                    fontsize=8, ha='center', color='blue')
+                fontsize=8, ha='center', color='blue')
     # Remove grid
     plt.grid(False)
     # plt.xlim(0, 99)

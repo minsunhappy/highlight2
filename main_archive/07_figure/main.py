@@ -13,23 +13,29 @@ from googleapiclient.discovery import build
 
 log_file = "process_log.txt"
 if __name__ == "__main__":
-    ROOT = "/source/ms"
+    ROOT = f"/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./output/1112"
+    INFO = False
+    OUTPUT = f"./output/1113_{INFO}"
     json_root = f"{ROOT}/highlight/json"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
     youtube = build('youtube', 'v3', developerKey=api_key)
     video_ids = [
-        # "BF2TZq-ntRQ",
+        # # "BF2TZq-ntRQ",
         # ("BF2TZq-ntRQ", [0, 39, 103, 154, 258, 358, 410, 551, 600, 707]), 
         # ("gCr4Pg9mEA4",  [0, 24, 69, 154, 302, 364, 662, 854, 1006, 1926]),
         # ("w2itwFJCgFQ",  [0, 38, 76, 112, 184, 277, 382, 485, 663, 887]),
         # ("DxL2HoqLbyA",  [0, 31, 135, 285, 540, 960, 1160, 1320, 1480, 1554]),
         # ("AF8d72mA41M",  [0, 15, 54, 112, 209, 280, 542, 722, 1322, 1708]),
-        ("4SSVr3EKTlM", [0, 55, 183, 264, 361, 480, 662, 830, 1020, 1484]),
-
-
-    ]
+        # ("4SSVr3EKTlM", [0, 55, 183, 264, 361, 480, 662, 830, 1020, 1484]),
+        # ("lPJ2_nqjNbs",[0, 34, 62, 118, 175, 349, 495, 674, 983, 2550]),
+        # ("VB5ZRVky0Yw",[0, 27, 81, 143, 210, 395, 461, 555, 722, 1104]),
+        # ("tB6M6wmMcuI",[0, 18, 47, 210, 274, 334, 521, 644, 915, 1227]),
+        # ("kMhle4o0uk0", []),
+        # ("OBG50aoUwlI", []),
+        # ("2MJY_ptQW1o", []),
+        ("LlY79zjud-Q", []),
+        ]
     TOTAL_LENTHS = [60]
     # goal = [15, 43, 52, 62, 68, 73, 97]
     yellow_card = [13]
@@ -48,7 +54,7 @@ if __name__ == "__main__":
     # target_lst = goal
 
     DRAW_SOUND = False
-    DRAW_CHAT = False
+    DRAW_CHAT = True
     # video_id
     #######
     dp_prefer_duration = (8, 2)     # 영역
@@ -80,7 +86,7 @@ if __name__ == "__main__":
 
             
             # draw_event_cnt(DRAW_EVENT_CNT, cnt_length, target_lst, smoothed_scores_general, T_MIN, T_MAX, dp_prefer_duration, DURATION_WEIGHT,knapsack_length)
-            draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, smoothed_scores_general, start_seconds, sound_path, chat_path, sound_window, OUTPUT, goal)
+            draw_sound_chat_graph(video_id, DRAW_SOUND, DRAW_CHAT, intensity_scores, smoothed_scores_general, start_seconds, sound_path, chat_path, sound_window, OUTPUT, goal, INFO)
             total_times = np.arange(1, total_length, 1)
 
             # except Exception as e:

@@ -13,7 +13,7 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "output/1109_education"
+    OUTPUT = "output/1113"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
@@ -35,21 +35,18 @@ if __name__ == "__main__":
     dp_prefer_duration = (8, 2)     # 영역
     # user_params = file_user_params(video_ids, T_MIN, TOTAL_LENTH)
 
-    
-    # user_params = pair_user_params(pkl_path, json_root)
-    ### parameters ###
-    # user_params = [
-    #    ("xJcAcJ6BYLE", T_MIN, 50),
-    #    ("phcekstnfb0", T_MIN, 57),
-    #    ("nHCBZ_BZZl0", T_MIN, 58),
-    #    ("GiHyN5uw4Ho", T_MIN, 45),
-    #    ("", T_MIN, 50),
-       
-    # ]
-
 
     user_params = [
-
+        # ("tB6M6wmMcuI",60, T_MIN, ),
+        # ("4SSVr3EKTlM",120, T_MIN, ),
+        # ("w2itwFJCgFQ",30, T_MIN, ),
+        ("w2itwFJCgFQ",45, T_MIN, ),
+        # ("OBG50aoUwlI",90, T_MIN, ),
+        # ("UBA3OQSJU58",30, T_MIN, ),
+        # ("UBA3OQSJU58",60, T_MIN, ),
+        # ("ecKnyyuMsmw",30, T_MIN,),
+        # ("ecKnyyuMsmw",60, T_MIN,),
+        # ("tB6M6wmMcuI", 120, T_MIN, ),
 ]
 
     # max_t = 
@@ -65,12 +62,12 @@ if __name__ == "__main__":
             # data = fetch_video_data(video_id, json_path, save = False)
             download_youtube_video(video_id, source_path)
             total_length = int(get_video_duration(youtube, video_id))
-            start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save =False)
-            # start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))
+            # start_seconds, intensi/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/output/1113/w2itwFJCgFQ_total_time_90ty_scores = get_mrd(video_id, json_path, total_length, save =False)
+            start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))
             smoothed_scores_general = interpolate(start_seconds, intensity_scores)
             smoothed_scores_DP = apply_transform(smoothed_scores_general, PEAK_WEIGHT)
             video_path = os.path.join(source_path, f'{video_id}.mp4')
-            # plot_basic_mrd(start_seconds, smoothed_scores_general, f"{OUTPUT}/{video_id}.png")
+            plot_basic_mrd(start_seconds, smoothed_scores_general, f"{OUTPUT}/{video_id}.png")
             # pdb.set_trace()
 
             # if total_length > 1000:

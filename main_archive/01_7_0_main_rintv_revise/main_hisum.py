@@ -15,8 +15,8 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./hisum/output/1115_sports"
-    hisum_json_path = "./hisum/json_sports"
+    OUTPUT = "./hisum/output/1121"
+    hisum_json_path = "./hisum/json"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     user_params = [
         # ("tB6M6wmMcuI",60, T_MIN, ),
-        ("tB6M6wmMcuI",90, T_MIN, ),
+        ("dLAJLppl5ts",30, T_MIN, ),
         # ("tB6M6wmMcuI", 120, T_MIN, ),
 ]
     
@@ -64,7 +64,8 @@ if __name__ == "__main__":
 
 
                 total_length = data['duration']
-                intensity_scores = normalize_to_0_1(medfilt(data['predict'], kernel_size=9))
+                original = normalize_to_0_1(data['predict'])
+                intensity_scores = medfilt(normalize_to_0_1(data['predict']), kernel_size=9)
                 MRD_GT = data['gt']
                 start_seconds = list(range(total_length + 1))
                 smoothed_scores_general = intensity_scores
@@ -114,7 +115,7 @@ if __name__ == "__main__":
                 #         dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = pickle.load(f)
 
 
-                plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT, MRD_GT)
+                plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT, MRD_GT, original)
                 
                 make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
             except Exception as e:

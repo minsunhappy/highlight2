@@ -205,7 +205,7 @@ def get_top_100_json_files_by_key(path, key):
             print(f"Error reading or parsing {file}. Skipping.")
     
     # Sort by the integer value in descending order and get the top 100
-    top_100 = sorted(json_data, key=lambda x: x[1], reverse=True)[:100]
+    top_100 = sorted(json_data, key=lambda x: x[1], reverse=True)[:20]
     top_100_files = [file for file, value in top_100]
     
     return top_100_files

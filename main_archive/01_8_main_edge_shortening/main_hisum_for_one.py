@@ -1,22 +1,26 @@
 from util.getVideo import*
 from util.makeVideo import*
-from util.plotGraph import*
-from util.YTdownload import download_videos
+from util.plotGraph_hisum import*
+from util.YTdownload import*
 from extractHighlight import*
 import time
 import traceback
 import sys
 import pdb
+from googleapiclient.discovery import build
+from scipy.signal import medfilt
+
 
 log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
-    # source_path = f"{ROOT}/highlight/source/general_sports"
     source_path = f"{ROOT}/highlight/source/all"
-    # source_path = f"{ROOT}/highlight/source/0812_entertainment"
-    OUTPUT = "output/다양한 결과"
+    OUTPUT = "./hisum/output/1122_no"
+    hisum_json_path = "./hisum/json"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
+    api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
+    youtube = build('youtube', 'v3', developerKey=api_key)
     video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
     # print(video_ids)
     # video_ids = [
@@ -27,56 +31,65 @@ if __name__ == "__main__":
 
     ### parameters ###
     T_MIN = 1
-    TOTAL_LENTH = 60
+    total_time = 30
     T_MAX = 30
     PEAK_WEIGHT = 1
     DURATION_WEIGHT = 0.2
     dp_prefer_duration = (8, 2)     # 영역
     # user_params = file_user_params(video_ids, T_MIN, TOTAL_LENTH)
 
-    
-    # user_params = pair_user_params(pkl_path, json_root)
-    ### parameters ###
-    # user_params = [
-    #    ("xJcAcJ6BYLE", T_MIN, 50),
-    #    ("phcekstnfb0", T_MIN, 57),
-    #    ("nHCBZ_BZZl0", T_MIN, 58),
-    #    ("GiHyN5uw4Ho", T_MIN, 45),
-    #    ("", T_MIN, 50),
-       
-    # ]
-
 
     user_params = [
-        # ("ImntsoxN9_4",60, T_MIN),
-        # ("UBA3OQSJU58",60, T_MIN),
-        # ("r_W6mXqzJNU",60, T_MIN),
-        # ("ecKnyyuMsmw",60, T_MIN),
-        ("aE4BdIP6bvc",60, T_MIN),
-
-
-
-    ]
-
+        # ("tB6M6wmMcuI",60, T_MIN, ),
+        # ("dLAJLppl5ts",30),
+        # ("6xVfhrQe9xs",30),
+        # ("iTyi3RvNoB0",30),
+        # ("mDlpKNKwuUc",30),
+        # ("22amouQfBnw",30),
+        # ("52B0NrF5ags",30),
+        # ("GRm0r3FTSsc",30),
+        # ("iTyi3RvNoB0",30),
+        # ("lShBt71-bWw",30),
+        # ("mDlpKNKwuUc",30),
+        # ("VUqLX0WAVkU",30),
+        # ("QKybP9hDn3o",30),
+        # ("Bl-_gCB6FIY",30),
+        ("52B0NrF5ags", 30),
+        ("dLAJLppl5ts", 30),
+        ("iTyi3RvNoB0", 30),
+        # ("tB6M6wmMcuI", 120, T_MIN, ),
+]
+    
+    # top_files = get_top_100_json_files_by_key(hisum_json_path, key="aP15")
     # max_t = 
     # minimum_length = max(1, min(10, log(total_length / summary_length) * (summary_length / 60)))
     # lst = [2, 3, 4, 5]
     with open(log_file, "a") as log:
         print(f"TOTAL: {len(user_params)}")
-        for i, user_param in enumerate(user_params):
+        for i, json_elem in enumerate(user_params):
             try:
                 # print(user_params)
                 print(f"==={i+1}/{len(user_params)}===")
-                video_id, total_time, t_min = user_param
+                video_id, total_time = json_elem
                 json_path = f'{json_root}/{video_id}.json'
                 # data = fetch_video_data(video_id, json_path, save = False)
-                data = fetch_video_data(video_id, json_path, save = os.path.exists(json_path))
-                
-                start_seconds, intensity_scores = process_video_data(data)
-                smoothed_scores_general = interpolate(start_seconds, intensity_scores)
-                smoothed_scores_DP = apply_transform(smoothed_scores_general, PEAK_WEIGHT)
-                total_length = len(smoothed_scores_general)
+                download_youtube_video(video_id, source_path)
+                with open(f'{hisum_json_path}/{video_id}.json', 'r') as f:
+                    data = json.load(f)
+
+
+                total_length = data['duration']
+                original = normalize_to_0_1(data['predict'])
+                intensity_scores = medfilt(normalize_to_0_1(data['predict']), kernel_size=9)
+                # intensity_scores = normalize_to_0_1(data['predict'])
+                # intensity_scores = data['predict']
+                MRD_GT = data['gt']
+                start_seconds = list(range(total_length + 1))
+                smoothed_scores_general = intensity_scores
+                smoothed_scores_DP = smoothed_scores_general
                 video_path = os.path.join(source_path, f'{video_id}.mp4')
+                # plot_basic_mrd(start_seconds, smoothed_scores_general, f"{OUTPUT}/{video_id}.png")
+                # pdb.set_trace()
 
                 # if total_length > 1000:
                 #     print(f"PASS {video_id} due to length {total_length}")
@@ -93,7 +106,7 @@ if __name__ == "__main__":
                 # knapsack_length = t_min
                 # smoothed_scores_DP[:10] = 0
 
-                message = f"==== id {video_id} original time {total_length} total time: {total_time}, min time: {t_min} start!!! ===="
+                message = f"==== id {video_id} original time {total_length} total time: {total_time}, min time: {T_MIN} start!!! ===="
                 print(message)
                 log.write(message + "\n")
                 if not os.path.exists(lst_name):
@@ -101,7 +114,7 @@ if __name__ == "__main__":
                         smoothed_scores_DP=smoothed_scores_DP,
                         smoothed_scores_general=smoothed_scores_general,
                         total_time=total_time,
-                        t_min=t_min,
+                        t_min=T_MIN,
                         t_max=T_MAX,
                         dp_prefer_duration = dp_prefer_duration, 
                         duration_weight = DURATION_WEIGHT
@@ -119,18 +132,13 @@ if __name__ == "__main__":
                         dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = pickle.load(f)
 
 
-                plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, t_min, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT)
+                plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT, MRD_GT, original)
                 
-                make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, t_min, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
-
+                # make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
             except Exception as e:
-                exc_type, exc_value, exc_tb = sys.exc_info()
-                tb = traceback.extract_tb(exc_tb)
-                filename, line_number, func_name, text = tb[-1]
-                
-                error_message = f"Error processing video {video_id} in file {filename}, line {line_number}: {str(e)}\n"
+                error_message = f"Error processing video_id {video_id}: {str(e)}"
                 print(error_message)
-                log.write(error_message)
-                log.write("".join(traceback.format_exception(exc_type, exc_value, exc_tb)) + "\n")  # 상세한 에러 정보를 로그에 기록
+                log.write(error_message + "\n")
                 continue
+
 

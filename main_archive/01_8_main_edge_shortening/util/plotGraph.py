@@ -7,9 +7,66 @@ from scipy.signal import find_peaks
 
 
 
-def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_duration, max_duration, threshold_value, dp_prefer_duration, duration_weight, peak_weight):
+# def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_duration, max_duration, threshold_value, dp_prefer_duration, duration_weight, peak_weight):
+#     total_duration_seconds = start_seconds[-1]
+#     new_time = np.arange(0, total_duration_seconds, 1)
+#     fig, axs = plt.subplots(2, 1, figsize=(10, 3), sharex=True)
+#     methods = [f'Threshold', 'DP']
+#     intervals_list = [knapsack_intervals, dp_intervals, ]
+#     peaks, _ = find_peaks(smoothed_intensity_scores)
+#     for ax, method, intervals in zip(axs, methods, intervals_list):
+#         ax.plot(new_time, smoothed_intensity_scores,color='black')
+        
+#         total_duration = 0
+#         for start, end in intervals:
+#             start, end = int(start), int(end)
+#             # 슬라이싱
+#             if 'Threshold' in method:
+#                 ax.plot(new_time[start:end+1], smoothed_intensity_scores[start:end+1], color='blue', linewidth=3)
+#             else:
+#                 ax.plot(new_time[start:end+1], smoothed_intensity_scores[start:end+1], color='red', linewidth=3)
+#             duration = end - start + 1
+#             total_duration += duration 
+#             mid_point = (start + end) // 2
+#             ax.text(new_time[mid_point], smoothed_intensity_scores[mid_point], 
+#                      f'{duration}s', color='black', fontweight='bold', fontsize=10,
+#                      ha='center', va='bottom')
+            
+#         if 'Threshold Method' in method:
+#             ax.axhline(y=threshold_value, color='green', linestyle='--')
+#             # ax.text(0, threshold_value, f'Threshold: {threshold_value:.2f}', color='green', 
+#             #         fontweight='bold', fontsize=10, va='bottom')
+#         for peak in peaks:
+#             ax.plot(new_time[peak], smoothed_intensity_scores[peak], 'go')  # 피크에 초록색 점 표시
+#             ax.text(new_time[peak], smoothed_intensity_scores[peak], f'{new_time[peak]:.0f}s', 
+#                     color='green', fontweight='bold', fontsize=8, ha='center', va='bottom')
+
+            
+#         # ax.set_title(f'{method} (Total Duration: {total_duration}s)')
+#         # ax.set_ylabel('Intensity')
+#         ax.xaxis.set_major_formatter(ticker.FuncFormatter(format_func))
+#         ax.xaxis.set_major_locator(ticker.MultipleLocator(120))
+#         ax.grid(False)
+#         ax.spines['top'].set_color('none')
+#         ax.spines['right'].set_color('none')
+#         ax.spines['bottom'].set_position('zero')
+#         ax.spines['left'].set_position('zero')
+#         # ax.set_xlabel('Time (seconds)', fontsize=10)
+#         ax.yaxis.set_ticks([])
+#     # plt.xticks( fontsize=14)
+#     plt.legend().set_visible(False)
+#     plt.legend(fontsize=7)
+
+#     # axs[-1].set_xlabel('Time (seconds)')
+#     plt.tight_layout()
+#     # plt.show()
+#     a, b = dp_prefer_duration
+#     filename = os.path.join(output_dir, f'figure_min_{min_duration}_max_{max_duration}_dur_{a}_{b}_durweight_{duration_weight}_peak_{peak_weight}.png')
+#     plt.savefig(filename)
+
+def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_intervals, threshold_intervals, knapsack_intervals, min_duration, max_duration, threshold_value, dp_prefer_duration, duration_weight, peak_weight, node_unit):
     total_duration_seconds = start_seconds[-1]
-    new_time = np.arange(0, total_duration_seconds, 1)
+    new_time = np.arange(0, total_duration_seconds, node_unit)
     fig, axs = plt.subplots(2, 1, figsize=(10, 4), sharex=True)
     methods = [f'DP', 'Threshold']
     intervals_list = [dp_intervals, knapsack_intervals]
@@ -20,6 +77,7 @@ def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_inte
         total_duration = 0
         for start, end in intervals:
             start, end = int(start), int(end)
+
             # 슬라이싱
             # ax.plot(new_time[start:end+1], smoothed_intensity_scores[start:end+1], 'ro', markersize=2, color='red') # 점 표시
             if 'Threshold' in method:
@@ -27,11 +85,12 @@ def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_inte
             else:
                 ax.plot(new_time[start:end+1], smoothed_intensity_scores[start:end+1], color='red', linewidth=3)
             # ax.plot(new_time[start:end+2], smoothed_intensity_scores[start:end+2], color='red', linewidth=3)
-            duration = end - start + 1
-            total_duration += duration 
+            duration_samples  = end - start + 1
+            duration_seconds = duration_samples * node_unit
+            total_duration += duration_seconds 
             mid_point = (start + end) // 2
             ax.text(new_time[mid_point], smoothed_intensity_scores[mid_point], 
-                     f'{duration}s', color='black', fontweight='bold', fontsize=10,
+                     f'{duration_seconds}s', color='black', fontweight='bold', fontsize=10,
                      ha='center', va='bottom')
             
         if 'Threshold Method' in method:
@@ -66,6 +125,34 @@ def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_inte
     filename = os.path.join(output_dir, f'figure_min_{min_duration}_max_{max_duration}_dur_{a}_{b}_durweight_{duration_weight}_peak_{peak_weight}.png')
     plt.savefig(filename)
 
+
+def plot_basic_mrd(start_seconds, smoothed_scores_general, output_path):
+    # Generate the time range based on start_seconds
+    total_duration_seconds = start_seconds[-1]
+    new_time = np.arange(0, total_duration_seconds, 1)
+    
+    # Set up the plot
+    fig, ax = plt.subplots(figsize=(10, 2))
+    ax.plot(new_time, smoothed_scores_general, color='black')
+    
+    # Customize the plot
+    ax.set_xlabel('Time (seconds)')
+    ax.grid(False)
+    
+    ax.xaxis.set_major_formatter(ticker.FuncFormatter(format_func))
+    ax.xaxis.set_major_locator(ticker.MultipleLocator(120))
+    ax.grid(False)
+    ax.spines['top'].set_color('none')
+    ax.spines['right'].set_color('none')
+    ax.spines['bottom'].set_position('zero')
+    ax.spines['left'].set_position('zero')
+
+    ax.yaxis.set_ticks([])
+    
+    # Save the plot
+    plt.tight_layout()
+    plt.savefig(output_path)
+    plt.close()
 
 
 def format_func(value, tick_number):

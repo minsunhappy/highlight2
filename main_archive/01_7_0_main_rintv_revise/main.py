@@ -18,7 +18,7 @@ if __name__ == "__main__":
     pkl_path = "./data.txt"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
     youtube = build('youtube', 'v3', developerKey=api_key)
-    video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
+    # video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
     # print(video_ids)
     # video_ids = [
     #     "cKKjZHb80ak"
@@ -39,14 +39,42 @@ if __name__ == "__main__":
     user_params = [
         # ("tB6M6wmMcuI",60, T_MIN, ),
         # ("4SSVr3EKTlM",120, T_MIN, ),
-        # ("w2itwFJCgFQ",30, T_MIN, ),
-        ("w2itwFJCgFQ",45, T_MIN, ),
-        # ("OBG50aoUwlI",90, T_MIN, ),
-        # ("UBA3OQSJU58",30, T_MIN, ),
+        # # ("w2itwFJCgFQ",30, T_MIN, ),
+        # ("BF2TZq-ntRQ",30, T_MIN, ),
+        # ("BF2TZq-ntRQ",45, T_MIN, ),
+        # ("w2itwFJCgFQ",75, T_MIN, ),
+        # ("w2itwFJCgFQ",105, T_MIN, ),
+        # ("OBG50aoUwlI",75, T_MIN, ),
+        # ("OBG50aoUwlI",30, T_MIN, ),
+        # ("OBG50aoUwlI",45, T_MIN, ),
+        # ("OBG50aoUwlI",120, T_MIN, ),
+        # ("4SSVr3EKTlM",30, T_MIN, ),
+        # ("4SSVr3EKTlM",45, T_MIN, ),
+        # ("4SSVr3EKTlM",60, T_MIN, ),
+        # ("4SSVr3EKTlM",75, T_MIN, ),
+        # ("4SSVr3EKTlM",90, T_MIN, ),
+        # ("4SSVr3EKTlM",105, T_MIN, ),
         # ("UBA3OQSJU58",60, T_MIN, ),
         # ("ecKnyyuMsmw",30, T_MIN,),
         # ("ecKnyyuMsmw",60, T_MIN,),
-        # ("tB6M6wmMcuI", 120, T_MIN, ),
+        # ("uXGE0vuuaDo", 30, T_MIN, ),
+        # ("uXGE0vuuaDo", 45, T_MIN, ),
+        # ("094y1Z2wpJg", 30, T_MIN, ),
+        # ("094y1Z2wpJg", 45, T_MIN, ),
+        # ("094y1Z2wpJg", 60, T_MIN, ),
+        # ("094y1Z2wpJg", 75, T_MIN, ),
+        # ("094y1Z2wpJg", 90, T_MIN, ),
+        # ("094y1Z2wpJg", 105, T_MIN, ),
+        # ("094y1Z2wpJg", 120, T_MIN, ),
+        # ("VB5ZRVky0Yw", 30, T_MIN, ),
+        # ("VB5ZRVky0Yw", 45, T_MIN, ),
+        # ("VB5ZRVky0Yw", 60, T_MIN, ),
+        # ("VB5ZRVky0Yw", 75, T_MIN, ),
+        # ("VB5ZRVky0Yw", 90, T_MIN, ),
+        # ("VB5ZRVky0Yw", 105, T_MIN, ),
+        # ("VB5ZRVky0Yw", 105, T_MIN, ),
+        ("uXGE0vuuaDo", 30, T_MIN, ),
+        
 ]
 
     # max_t = 
@@ -60,7 +88,7 @@ if __name__ == "__main__":
             video_id, total_time, t_min = user_param
             json_path = f'{json_root}/{video_id}.json'
             # data = fetch_video_data(video_id, json_path, save = False)
-            download_youtube_video(video_id, source_path)
+            # download_youtube_video(video_id, source_path)
             total_length = int(get_video_duration(youtube, video_id))
             # start_seconds, intensi/source/ms/highlight/main_archive/01_7_0_main_rintv_revise/output/1113/w2itwFJCgFQ_total_time_90ty_scores = get_mrd(video_id, json_path, total_length, save =False)
             start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))

@@ -52,7 +52,6 @@ def get_mrd(video_id, json_path, total_length,  save = False):
 
     return  x_values, y_values 
 
-    return  x_values, y_values 
 def convert_svg(data, total_length):
     x_values = []
     y_values = []
@@ -205,7 +204,7 @@ def get_top_100_json_files_by_key(path, key):
             print(f"Error reading or parsing {file}. Skipping.")
     
     # Sort by the integer value in descending order and get the top 100
-    top_100 = sorted(json_data, key=lambda x: x[1], reverse=True)[:20]
+    top_100 = sorted(json_data, key=lambda x: x[1], reverse=True)[50:150]
     top_100_files = [file for file, value in top_100]
     
     return top_100_files

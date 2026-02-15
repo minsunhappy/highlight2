@@ -1,3 +1,4 @@
+# import cupynumeric as np
 import numpy as np
 import pdb
 

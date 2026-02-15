@@ -23,12 +23,16 @@ import random
 #     print(f"Video FPS: {final_clip.fps}")
 #     final_clip.write_videofile(output_filename, codec='libx264')
 
-def make_video(video_path, output_dir, name, intervals):
+def make_video(video_path, output_dir, name, intervals, node_unit=10):
     clips = []
     for interval in intervals:
-        start_time = interval[0] 
-        end_time = interval[-1]
-        end_time += 1
+        start_idx = interval[0]
+        end_idx = interval[-1]
+        # 인덱스를 실제 초 단위로 변환
+        start_time = start_idx * node_unit
+        # end_time도 +1한 뒤 node_unit 곱하기
+        end_time = (end_idx + 1) * node_unit
+        
         clip = VideoFileClip(video_path).subclip(start_time, end_time)
         clips.append(clip)
 
@@ -62,14 +66,14 @@ def make_random_lst(dp_intervals, total_time, total_length):
 
 
 
-def make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time, dp_prefer_duration, weight, total_time, total_length):
+def make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, min_time, dp_prefer_duration, weight, total_time, total_length, node_unit):
 
     # random_interval = make_random_lst(dp_intervals, total_time, total_length)
     # print(random_interval)
     # make_video(video_path, output_dir, 'random', random_interval)
     a, b = dp_prefer_duration
     # make_video(video_path, output_dir, 'threshold', threshold_intervals)
-    make_video(video_path, output_dir, f'dp_min_{min_time}_dur_{a}_{b}_weight_{weight}', dp_intervals)
+    make_video(video_path, output_dir, f'dp_min_{min_time}_dur_{a}_{b}_weight_{weight}', dp_intervals, node_unit)
     # make_video(video_path, output_dir, 'knapsack', knapsack_intervals)
 
     #random video

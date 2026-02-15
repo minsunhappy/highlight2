@@ -4,6 +4,7 @@ import os
 import pickle
 import matplotlib.ticker as ticker
 from scipy.signal import find_peaks
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 
@@ -72,20 +73,27 @@ def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_inte
     intervals = dp_intervals
 
     ax.plot(new_time, original, color='gray', linewidth=1, linestyle='--', label = 'Original predict MRD' )
-    ax.plot(new_time, smoothed_intensity_scores, color='#55A7BC', linewidth=1, label = 'Smoothed predict MRD')
-    ax.plot(new_time, MRD_GT, color='black', linewidth=1, alpha=0.7,label = 'GT MRD')
-    
+    ax.plot(new_time, smoothed_intensity_scores, color='#55A7BC', linewidth=2, label = 'Smoothed predict MRD')
+    ax.plot(new_time, MRD_GT, color='black', linewidth=2, alpha=0.7,label = 'GT MRD')
+    # numpy 배열로 변환
+    vec1 = np.array(smoothed_intensity_scores)
+    vec2 = np.array(MRD_GT)
+
+    # 방법 1: numpy를 사용한 코사인 유사도 계산
+    cosine_similarity_numpy = np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
+    print("Cosine Similarity (numpy):", cosine_similarity_numpy)
+
     total_duration = 0
-    for start, end in intervals:
-        start, end = int(start), int(end)
-        ax.plot(new_time[start:end+1], smoothed_intensity_scores[start:end+1], color='red', linewidth=3)
+    # for start, end in intervals:
+    #     start, end = int(start), int(end)
+    #     ax.plot(new_time[start:end+1], smoothed_intensity_scores[start:end+1], color='red', linewidth=3)
         
-        duration = end - start + 1
-        total_duration += duration
-        mid_point = (start + end) // 2
-        ax.text(new_time[mid_point], smoothed_intensity_scores[mid_point], 
-                 f'{duration}s', color='black', fontweight='bold', fontsize=10,
-                 ha='center', va='bottom')
+    #     duration = end - start + 1
+    #     total_duration += duration
+    #     mid_point = (start + end) // 2
+    #     ax.text(new_time[mid_point], smoothed_intensity_scores[mid_point], 
+    #              f'{duration}s', color='black', fontweight='bold', fontsize=10,
+    #              ha='center', va='bottom')
         
     # ax.xaxis.set_major_formatter(ticker.FuncFormatter(format_func))
     # ax.xaxis.set_major_locator(ticker.MultipleLocator(120))
@@ -95,8 +103,10 @@ def plot_summaries(output_dir, start_seconds, smoothed_intensity_scores, dp_inte
     ax.spines['bottom'].set_position('zero')
     ax.spines['left'].set_position('zero')
     ax.yaxis.set_ticks([])
+    ax.spines['bottom'].set_linewidth(1)  # x축 굵기
+    ax.spines['left'].set_linewidth(1)   # y축 굵기
 
-    ax.legend(loc='upper right', fontsize=8)
+    # ax.legend(loc='upper right', fontsize=8)
 
     plt.tight_layout()
     a, b = dp_prefer_duration

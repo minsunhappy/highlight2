@@ -1,3 +1,4 @@
+# import cupynumeric as np
 import numpy as np
 import pdb
 
@@ -71,7 +72,7 @@ class State:
         print(info)
 
 
-def create_states(smoothed_intensity_scores, max_t, interval, duration_weight):
+def create_states(smoothed_intensity_scores, max_t,):
     gradient = np.gradient(smoothed_intensity_scores)
     abs_gradient = np.abs(gradient)  # 절대값 사용
     normalized_gradient = (abs_gradient - np.min(abs_gradient)) / (np.max(abs_gradient) - np.min(abs_gradient))
@@ -90,13 +91,14 @@ def set_next_states(states, min_time, max_t):
             if i + 1 < n and t + 1 < max_t :
                 states[i][t].next_states.append((i + 1, t + 1))
             if t >= min_time:
-                for j in range(i + 5, n): #원래 2였음
+                for j in range(i + 1, n): #원래 2였음
                     states[i][t].next_states.append((j, 0))
 
 
-def group_consecutive_points(points):
+def group_consecutive_points(points, node_unit):
     grouped_points = []
     group = [points[0]]
+    print(group)
     for i in range(1, len(points)):
         if points[i] == points[i-1] + 1:
             group.append(points[i])

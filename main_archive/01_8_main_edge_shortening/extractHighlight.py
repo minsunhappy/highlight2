@@ -4,7 +4,7 @@ from method.knapsack import knapsack
 import time
 
 class Run:
-    def __init__(self, smoothed_scores_DP, smoothed_scores_general, total_time, t_min, t_max, dp_prefer_duration, duration_weight):
+    def __init__(self, smoothed_scores_DP, smoothed_scores_general, total_time, t_min, t_max, dp_prefer_duration, duration_weight, node_unit):
         self.scores_DP = smoothed_scores_DP
         self.scores_general =  smoothed_scores_general
         self.total_time = total_time
@@ -12,15 +12,16 @@ class Run:
         self.min_t = t_min
         self.interval = dp_prefer_duration
         self.duration_weight = duration_weight
+        self.node_unit = node_unit
 
     def run_DP(self):
         print("start DP")
         start_time = time.time()
-        states = create_states(self.scores_DP , self.max_t, self.interval, self.duration_weight)
+        states = create_states(self.scores_DP , self.max_t)
         set_next_states(states, self.min_t, self.max_t)
         dp, trace = DP(states, self.total_time, self.max_t, self.duration_weight, self.interval) 
         selected_points, max_score = find_path(states, dp, trace, num_points=self.total_time, min_time = self.min_t, max_time = self.max_t)
-        grouped_points = group_consecutive_points(selected_points)
+        grouped_points = group_consecutive_points(selected_points, self.node_unit)
         dp_intervals = [(group[0], group[-1]) for group in grouped_points]
         end_time = time.time()
         elapsed_time = end_time - start_time
@@ -45,9 +46,10 @@ class Run:
         return knapsack_intervals
 
     def run_all(self, knapsack_length):
-        threshold, threshold_intervals = self.run_threshold()
+        # threshold, threshold_intervals = self.run_threshold()
         # knapsack_intervals = []
         knapsack_intervals = self.run_knapsack(knapsack_length)
+        # dp_intervals =  self.run_knapsack(knapsack_length)
         dp_intervals = self.run_DP()
 
-        return dp_intervals, threshold, threshold_intervals, knapsack_intervals
+        return dp_intervals, 0, dp_intervals, knapsack_intervals

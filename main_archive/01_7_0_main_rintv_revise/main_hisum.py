@@ -15,7 +15,7 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./hisum/output/1121"
+    OUTPUT = "./hisum/output/1121_1"
     hisum_json_path = "./hisum/json"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
@@ -41,8 +41,11 @@ if __name__ == "__main__":
 
     user_params = [
         # ("tB6M6wmMcuI",60, T_MIN, ),
-        ("dLAJLppl5ts",30, T_MIN, ),
+        # ("dLAJLppl5ts",30, T_MIN, ),
         # ("tB6M6wmMcuI", 120, T_MIN, ),
+        ("52B0NrF5ags", []),
+        ("dLAJLppl5ts", []),
+        ("iTyi3RvNoB0", []),
 ]
     
     top_files = get_top_100_json_files_by_key(hisum_json_path, key="aP15")
@@ -117,7 +120,7 @@ if __name__ == "__main__":
 
                 plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT, MRD_GT, original)
                 
-                make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
+                # make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
             except Exception as e:
                 error_message = f"Error processing video_id {video_id}: {str(e)}"
                 print(error_message)

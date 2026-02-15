@@ -22,23 +22,23 @@ if __name__ == "__main__":
     youtube = build('youtube', 'v3', developerKey=api_key)
     video_ids = [
         # # "BF2TZq-ntRQ",
-        # ("BF2TZq-ntRQ", [0, 39, 103, 154, 258, 358, 410, 551, 600, 707]), 
-        # ("gCr4Pg9mEA4",  [0, 24, 69, 154, 302, 364, 662, 854, 1006, 1926]),
-        # ("w2itwFJCgFQ",  [0, 38, 76, 112, 184, 277, 382, 485, 663, 887]),
-        # ("DxL2HoqLbyA",  [0, 31, 135, 285, 540, 960, 1160, 1320, 1480, 1554]),
-        # ("AF8d72mA41M",  [0, 15, 54, 112, 209, 280, 542, 722, 1322, 1708]),
-        # ("4SSVr3EKTlM", [0, 55, 183, 264, 361, 480, 662, 830, 1020, 1484]),
-        # ("lPJ2_nqjNbs",[0, 34, 62, 118, 175, 349, 495, 674, 983, 2550]),
-        # ("VB5ZRVky0Yw",[0, 27, 81, 143, 210, 395, 461, 555, 722, 1104]),
-        # ("tB6M6wmMcuI",[0, 18, 47, 210, 274, 334, 521, 644, 915, 1227]),
+        ("Cbij3MKhdOY", []), 
+        # ("gCr4Pg9mEA4",  []),
+        # ("w2itwFJCgFQ",  []),
+        # ("094y1Z2wpJg", []),
+        # ("4SSVr3EKTlM", []),
+        # ("VB5ZRVky0Yw", []),
+        # ("OBG50aoUwlI", []),
+        # ("LlY79zjud-Q", []),
+        # 
         # ("kMhle4o0uk0", []),
         # ("OBG50aoUwlI", []),
         # ("2MJY_ptQW1o", []),
-        ("LlY79zjud-Q", []),
+
         ]
     TOTAL_LENTHS = [60]
     # goal = [15, 43, 52, 62, 68, 73, 97]
-    yellow_card = [13]
+    # yellow_card = [13]
     # all_lst = [13, 15, 21, 43, 45, 52, 54, 62, 68, 73, 76, 77, 97] #일단 골로 먼저 해보자.
     # knapsack_length = 5
 
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     # target_lst = goal
 
     DRAW_SOUND = False
-    DRAW_CHAT = True
+    DRAW_CHAT = False
     # video_id
     #######
     dp_prefer_duration = (8, 2)     # 영역
@@ -71,11 +71,39 @@ if __name__ == "__main__":
             sound_path = f"./input/{video_id}.wav"
             chat_path = f"./input/chatlog_replay_{video_id}.json"
                 
-            download_audio_as_wav(video_id, sound_path, DRAW_SOUND)
+            # download_audio_as_wav(video_id, sound_path, DRAW_SOUND)
             json_path = f'{json_root}/{video_id}.json'
             total_length = int(get_video_duration(youtube, video_id))
             # start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = False)
             start_seconds, intensity_scores = get_mrd(video_id, json_path, total_length, save = os.path.exists(json_path))
+            # intensity_scores와 start_seconds를 하나의 리스트로 묶음
+            # intensity_scores가 0.1 이하인 항목 필터링
+            filtered_data = [(start, score) for start, score in zip(start_seconds, intensity_scores) if score <= 0.1]
+
+
+            ########## 랜덤
+            # selected = []
+            # for start, score in filtered_data:
+            #     if not selected or all(abs(start - s) >= 10 for s in selected):
+            #         selected.append(start)
+
+            # if len(selected) > 5:
+            #      selected = random.sample(selected, 5)
+            # print(selected)
+            random.shuffle(start_seconds)
+            chosen = []
+            for time in start_seconds:
+                # 이미 선택된 모든 시점과 비교해 10초 이상 차이가 나야 함
+                if all(abs(time - c) >= 10 for c in chosen):
+                    chosen.append(time)
+                    if len(chosen) == 5:
+                        break
+            
+            # 선택된 시점들을 정렬해서 리턴
+            chosen.sort()
+            print(chosen)
+
+
             peaks, _ = find_peaks(intensity_scores)
             # print(peaks)
             smoothed_scores_general = interpolate_(start_seconds, intensity_scores)

@@ -15,8 +15,8 @@ log_file = "process_log.txt"
 if __name__ == "__main__":
     ROOT = "/source/ms"
     source_path = f"{ROOT}/highlight/source/all"
-    OUTPUT = "./hisum/output/1119"
-    hisum_json_path = "./hisum/json_sports"
+    OUTPUT = "./hisum/output/1122_no"
+    hisum_json_path = "./hisum/json"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
     api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
@@ -41,7 +41,22 @@ if __name__ == "__main__":
 
     user_params = [
         # ("tB6M6wmMcuI",60, T_MIN, ),
-        ("dLAJLppl5ts",30),
+        # ("dLAJLppl5ts",30),
+        # ("6xVfhrQe9xs",30),
+        # ("iTyi3RvNoB0",30),
+        # ("mDlpKNKwuUc",30),
+        # ("22amouQfBnw",30),
+        # ("52B0NrF5ags",30),
+        # ("GRm0r3FTSsc",30),
+        # ("iTyi3RvNoB0",30),
+        # ("lShBt71-bWw",30),
+        # ("mDlpKNKwuUc",30),
+        # ("VUqLX0WAVkU",30),
+        # ("QKybP9hDn3o",30),
+        # ("Bl-_gCB6FIY",30),
+        ("52B0NrF5ags", 30),
+        ("dLAJLppl5ts", 30),
+        ("iTyi3RvNoB0", 30),
         # ("tB6M6wmMcuI", 120, T_MIN, ),
 ]
     
@@ -94,32 +109,32 @@ if __name__ == "__main__":
                 message = f"==== id {video_id} original time {total_length} total time: {total_time}, min time: {T_MIN} start!!! ===="
                 print(message)
                 log.write(message + "\n")
-                # if not os.path.exists(lst_name):
-                run_higlight_methods = Run(
-                    smoothed_scores_DP=smoothed_scores_DP,
-                    smoothed_scores_general=smoothed_scores_general,
-                    total_time=total_time,
-                    t_min=T_MIN,
-                    t_max=T_MAX,
-                    dp_prefer_duration = dp_prefer_duration, 
-                    duration_weight = DURATION_WEIGHT
+                if not os.path.exists(lst_name):
+                    run_higlight_methods = Run(
+                        smoothed_scores_DP=smoothed_scores_DP,
+                        smoothed_scores_general=smoothed_scores_general,
+                        total_time=total_time,
+                        t_min=T_MIN,
+                        t_max=T_MAX,
+                        dp_prefer_duration = dp_prefer_duration, 
+                        duration_weight = DURATION_WEIGHT
 
-                )
-                dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
+                    )
+                    dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = run_higlight_methods.run_all(knapsack_length)
                     # pdb.set_trace()
-                    # with open(lst_name, 'wb') as f:
-                    #     pickle.dump([dp_intervals, threshold_c, threshold_intervals, knapsack_intervals], f)
-                    #     print("save pickle!!!")
+                    with open(lst_name, 'wb') as f:
+                        pickle.dump([dp_intervals, threshold_c, threshold_intervals, knapsack_intervals], f)
+                        print("save pickle!!!")
 
-                # else:
-                #     with open(lst_name, 'rb') as f:
-                #         print("import pickle!!!")
-                #         dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = pickle.load(f)
+                else:
+                    with open(lst_name, 'rb') as f:
+                        print("import pickle!!!")
+                        dp_intervals, threshold_c, threshold_intervals, knapsack_intervals = pickle.load(f)
 
 
                 plot_summaries(output_dir, start_seconds, smoothed_scores_general, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, T_MAX, threshold_c, dp_prefer_duration, DURATION_WEIGHT, PEAK_WEIGHT, MRD_GT, original)
                 
-                make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
+                # make_each_videos(video_path, output_dir, dp_intervals, threshold_intervals, knapsack_intervals, T_MIN, dp_prefer_duration, DURATION_WEIGHT, total_time, total_length)
             except Exception as e:
                 error_message = f"Error processing video_id {video_id}: {str(e)}"
                 print(error_message)

@@ -1,13 +1,13 @@
 import numpy as np
 from .dp import group_consecutive_points
 
-def find_intervals(smoothed_intensity_scores, a):
+def find_intervals(smoothed_intensity_scores, a, node_unit):
     time = np.arange(len(smoothed_intensity_scores))
     above_threshold = smoothed_intensity_scores > a
     points = time[above_threshold]
     # print(points)
     if len(points) != 0:
-        grouped_points = group_consecutive_points(points)
+        grouped_points = group_consecutive_points(points, node_unit)
 
         total_time = len(points)
         
@@ -18,7 +18,7 @@ def find_intervals(smoothed_intensity_scores, a):
     
     return total_time, intervals
 
-def threshold(smoothed_intensity_scores, t):
+def threshold(smoothed_intensity_scores, t, node_unit):
     lst = np.linspace(0, 1, 101) # 100등분함
     closest_diff = float('inf')
     threshold = None
@@ -26,7 +26,7 @@ def threshold(smoothed_intensity_scores, t):
     best_intervals = None
     
     for a in lst:
-        total_time, intervals = find_intervals(smoothed_intensity_scores, a)
+        total_time, intervals = find_intervals(smoothed_intensity_scores, a, node_unit)
         diff = abs(total_time - t)
         # print(a)
         if diff < closest_diff:

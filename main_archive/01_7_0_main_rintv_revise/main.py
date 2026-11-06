@@ -1,3 +1,4 @@
+import os
 from util.getVideo import*
 from util.makeVideo import*
 from util.plotGraph import*
@@ -16,7 +17,7 @@ if __name__ == "__main__":
     OUTPUT = "output/1113"
     json_root = f"{ROOT}/highlight/json"
     pkl_path = "./data.txt"
-    api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
+    api_key = os.environ["YOUTUBE_API_KEY"]
     youtube = build('youtube', 'v3', developerKey=api_key)
     # video_ids = [file.split(".")[0] for file in os.listdir(source_path) if file.lower().endswith(".mp4")]
     # print(video_ids)

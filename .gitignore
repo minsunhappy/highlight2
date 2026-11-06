@@ -1,1 +1,9 @@
 main_archive/01_7_0_main_rintv_revise/util/node_modules/youtube-heatmap/node_modules/puppeteer/.local-chromium/linux-1036745/chrome-linux/chrome
+
+# Local credentials and generated Python/Jupyter files
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

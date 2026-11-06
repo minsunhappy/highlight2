@@ -32,7 +32,7 @@ def process_video_data(data):
 
 def fetch_shorts_data(video_id, json_path, save = False):
     # json_path = f'C:/Users/vml_sub/Documents/Minsun2024/highlight/json/{video_id}.json'
-    api_key = "AIzaSyDhIDvZmAIzEYZl5I1C8Y0vKNSqwyTWCUY"
+    api_key = os.environ["YOUTUBE_API_KEY"]
     url = f"https://www.googleapis.com/youtube/v3/videos?part=contentDetails&id={video_id}&key={api_key}"
     # print(url)
     response = requests.get(url)

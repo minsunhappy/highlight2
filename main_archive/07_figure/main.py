@@ -1,3 +1,4 @@
+import os
 from util.getVideo import*
 from util.makeVideo import*
 from util.plotGraph import*
@@ -18,7 +19,7 @@ if __name__ == "__main__":
     INFO = False
     OUTPUT = f"./output/1113_{INFO}"
     json_root = f"{ROOT}/highlight/json"
-    api_key = 'AIzaSyB6RFVgm-O4VQzMms8ZteXsIRVFsj3hnMg'
+    api_key = os.environ["YOUTUBE_API_KEY"]
     youtube = build('youtube', 'v3', developerKey=api_key)
     video_ids = [
         # # "BF2TZq-ntRQ",
